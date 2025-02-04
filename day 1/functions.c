@@ -76,7 +76,7 @@ void print_floatavg(float d)
 float highest(float e, float f)
 {
     if (e > f)
-        return a;
+        return e;
     else
-        return b;
+        return f;
 }
