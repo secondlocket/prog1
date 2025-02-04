@@ -39,7 +39,7 @@ int main(void)
    //ex.4 max
    float e = 93.2
    float f = 821.3
-   float max = highest()
+   float max = highest(e,f)
    
 }
 
