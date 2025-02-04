@@ -83,7 +83,7 @@ float max(float e, float f)
 
 void print_floatmax(float max_value)
 {
-    printf("The highest value is: %.2f\n", max_value);
+    printf("The max value is: %.2f\n", max_value);
 }
 
 
