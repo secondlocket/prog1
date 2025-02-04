@@ -39,7 +39,7 @@ int main(void)
    //ex.4 max
    float e =
    float f =
-   float g =
+   float max =
    
 }
 
