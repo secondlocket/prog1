@@ -2,7 +2,7 @@
 
 int main (void)
 {
-    printf("what is your name")
+    printf("hello world\n")
     
     
   char name;
