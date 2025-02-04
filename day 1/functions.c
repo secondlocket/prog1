@@ -33,7 +33,7 @@ int main(void)
    int b = 67;
    int c = 945;
    float d = average(b, c);
-   print_floatavg(d);
+   print_floatavg(b);
    return 0;
 }
 
