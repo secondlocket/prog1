@@ -38,7 +38,7 @@ int main(void)
    //ex.4 max
    float e = 93.2;
    float f = 821.3;
-   float max = highest(e,f);
+   float max = max(e,f);
    print_floatmax(max);
    return 0;
    
