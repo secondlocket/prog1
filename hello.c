@@ -11,7 +11,7 @@ int main (void)
   char name;
 
  printf("what is your name?\n");
- scanf("answer", &name);
+ scanf("%s", &name);
  printf("Your name is %s", name);
 
  return 0;
