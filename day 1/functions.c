@@ -80,3 +80,7 @@ float highest(float e, float f)
     else
         return f;
 }
+
+printf("The highest value is: %.2f\n", result);
+
+
