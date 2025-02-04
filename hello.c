@@ -2,6 +2,9 @@
 
 int main (void)
 {
+    printf("what is your name")
+    
+    
   char name;
 
  printf("what is your name?\n");
