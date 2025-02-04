@@ -24,5 +24,5 @@ void print_int(int a)
 
 int half(int a)
 {
-    return a
+    return a/2
 }
