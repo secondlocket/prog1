@@ -12,7 +12,7 @@ void print_float(float a);
 
 //ex.3 average functie
 float average(int b, int c);
-void print_floatavg(float b);
+void print_floatavg(float d);
 
 //ex.4 max functie
 int float
