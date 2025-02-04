@@ -2,9 +2,6 @@
 
 int main (void)
 {
-    printf("hello world\n");
-    
-}
     
     
   char name;
