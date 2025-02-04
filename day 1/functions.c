@@ -34,13 +34,13 @@ int main(void)
    int c = 945;
    float d = average(b, c);
    print_floatavg(d);
-   return 0;
    
    //ex.4 max
    float e = 93.2;
    float f = 821.3;
    float max = highest(e,f);
-   print_floatmax
+   print_floatmax(max);
+   return 0;
    
 }
 
