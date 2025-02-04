@@ -2,7 +2,7 @@
 
 int main (void)
 {
-  char name;
+  char name[100];
 
  printf("what is your name?\n");
  scanf("%c", &name);
