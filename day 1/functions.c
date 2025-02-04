@@ -75,7 +75,7 @@ void print_floatavg(float d)
 //ex.4 max functie 
 float highest(float e, float f)
 {
-    if (a > b)
+    if (e > f)
         return a;
     else
         return b;
