@@ -15,7 +15,7 @@ float average(int b, int c);
 void print_floatavg(float d);
 
 //ex.4 max functie
-float max
+float max(float)
 
 int main(void)
 {
