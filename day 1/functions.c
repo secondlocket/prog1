@@ -74,6 +74,9 @@ void print_floatavg(float d)
 
 //ex.4 max functie 
 float max(e,f)
+{
+    return
+}
 printf("The highest value is: %.2f\n", result);
     
     return 0;
