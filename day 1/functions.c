@@ -37,8 +37,8 @@ int main(void)
    return 0;
    
    //ex.4 max
-   float e = 
-   float f =
+   float e = 93.2
+   float f = 821.3
    float max =
    
 }
