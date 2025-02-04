@@ -2,8 +2,6 @@
 
 int main (void)
 {
-    
-    
   char name;
 
  printf("what is your name?\n");
