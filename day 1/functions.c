@@ -73,13 +73,7 @@ void print_floatavg(float d)
 }
 
 //ex.4 max functie 
-float highest(float e, float f)
-{
-    if (e > f)
-        return e;
-    else
-        return f;
-}
+
 
 printf("The highest value is: %.2f\n", result);
 
