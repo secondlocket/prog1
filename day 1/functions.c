@@ -60,7 +60,7 @@ float average(int b, int c)
     return (b + c) / 2.0;
 }
 
-void print_floatavg(float b)
+void print_floatavg(float d)
 {
     printf("Average = %f\n", d);
 }
