@@ -40,6 +40,7 @@ int main(void)
    float e = 93.2;
    float f = 821.3;
    float max = highest(e,f);
+   print_fl
    
 }
 
