@@ -15,8 +15,7 @@ float average(int b, int c);
 void print_floatavg(float d);
 
 //ex.4 max functie
-int float
-void print_float2(float e)
+int max
 
 int main(void)
 {
@@ -33,7 +32,7 @@ int main(void)
    int b = 67;
    int c = 945;
    float d = average(b, c);
-   print_floatavg(b);
+   print_floatavg(d);
    return 0;
 }
 
