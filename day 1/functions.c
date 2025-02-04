@@ -39,7 +39,7 @@ int main(void)
    float e = 93.2;
    float f = 821.3;
    float max_value = max(e,f);
-   print_floatmax(max);
+   print_floatmax(max_value);
    return 0;
    
 }
