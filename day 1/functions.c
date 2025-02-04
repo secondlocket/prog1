@@ -16,7 +16,7 @@ void print_floatavg(float d);
 
 //ex.4 max functie
 float max(float e, float f)
-void print_floatmax(float g)
+void print_floatmax(float max)
 
 int main(void)
 {
