@@ -6,7 +6,7 @@ int main (void)
 
  printf("what is your name?\n");
  scanf("%99s", name);
- printf("Your name is %s!\n", name);
+ printf("Hello %s!\n", name);
 
  return 0;
 }
