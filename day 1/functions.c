@@ -35,6 +35,10 @@ int main(void)
    float d = average(b, c);
    print_floatavg(d);
    return 0;
+   
+   //ex.4 max
+   
+   
 }
 
 //ex.1 half functie
