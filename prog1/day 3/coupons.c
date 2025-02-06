@@ -9,4 +9,5 @@ int main () {
     {
         (stuks - (stuks/3)) * prijs 
     }
+    else if 
 }
