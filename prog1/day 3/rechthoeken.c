@@ -15,9 +15,9 @@ int main(void) {
     printf("Voer de breedte van de eerste rechthoek in: \n");
     scanf("%d", &breedte1);
     printf("Voer de lengte van de tweede rechthoek in: \n");
-    scanf("%d", &lengte1);
+    scanf("%d", &lengte2);
     printf("Voer de breedte van de tweede rechthoek in: \n");
-    scanf("%d", &breedte1);
+    scanf("%d", &breedte2);
     
     {
         // Menu tonen
