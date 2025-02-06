@@ -27,7 +27,7 @@ int main() {
     printf("4 - Som van de oppervlaktes\n");
     printf("Q - Afsluiten\n");
     printf("Maak een keuze: ");
-    scanf(" %c", &keuze);
+    scanf("%c", &keuze);
         
         switch (keuze) {
             case '1':
