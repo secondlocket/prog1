@@ -21,7 +21,6 @@ int main() {
     
     int arr[4];
 
-    // Loop to read n integers from the user
     for (i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
     
