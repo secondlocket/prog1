@@ -10,7 +10,6 @@ int main() {
     int lengte1 = get_int("Voer de lengte van de eerste rechthoek in: \n");
     int breedte1 = get_int("Voer de breedte van de eerste rechthoek in:\n");
     
-    printf("Voer de lengte van de tweede rechthoek in: \n");
     int lengte2 = get_int("Voer de lengte van de tweede rechthoek in: \n");
     int breedte2 = get_int("Voer de breedte van de eerste rechthoek in:\n");
 }
