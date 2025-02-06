@@ -6,9 +6,6 @@ int oppervlakte(int lengte, int breedte) {
 }
 
 int main() {
-    int lengte1, breedte1, lengte2, breedte2;
-    char keuze;
-    
     // Invoer van de rechthoekafmetingen
     int lengte1 = get_int("Voer de lengte van de eerste rechthoek in: \n");
     int breedte1 = get_int(Voer de breedte van de eerste rechthoek in:\n");
