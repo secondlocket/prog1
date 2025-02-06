@@ -19,7 +19,7 @@ int main() {
         case '1':
         printf("Oppervlakte van de eerste rechthoek: %d\n", oppervlakte(lengte1, breedte1));
                 break;
-        case '2'case '1':
+        case '2':
         printf("Oppervlakte van de eerste rechthoek: %d\n", oppervlakte(lengte1, breedte1));
                 break;
     }
