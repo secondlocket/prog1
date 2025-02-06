@@ -7,7 +7,7 @@ int oppervlakte(int lengte, int breedte) {
 
 int main() {
     int lengte1, breedte1, lengte2, breedte2;
-    char keuze;
+    char 'keuze;
     
     // Invoer van de rechthoekafmetingen
     printf("Voer de lengte en breedte van de eerste rechthoek in: ");
