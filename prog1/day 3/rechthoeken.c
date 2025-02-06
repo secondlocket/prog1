@@ -16,33 +16,4 @@ int main() {
     printf("Voer de lengte van de tweede rechthoek in: \n");
     printf("Voer de breedte van de tweede rechthoek in: \n");
 
-
-    // Menu tonen
-    printf("\nKies een optie:\n");
-    printf("1 - Oppervlakte van de eerste rechthoek\n");
-    printf("2 - Oppervlakte van de tweede rechthoek\n");
-    printf("3 - Verschil in oppervlakte (eerste - tweede)\n");
-    printf("4 - Som van de oppervlaktes\n");
-    printf("Q - Afsluiten\n");
-    printf("Maak een keuze: ");
-    scanf("%c", &keuze);
-        
-        switch (keuze) {
-            case '1':
-                printf("Oppervlakte van de eerste rechthoek: %d\n", oppervlakte(lengte1, breedte1));
-                break;
-            case '2':
-                printf("Oppervlakte van de tweede rechthoek: %d\n", oppervlakte(lengte2, breedte2));
-                break;
-            case '3':
-                printf("Verschil in oppervlakte: %d\n", oppervlakte(lengte1, breedte1) - oppervlakte(lengte2, breedte2));
-                break;
-            case '4':
-                printf("Som van de oppervlaktes: %d\n", oppervlakte(lengte1, breedte1) + oppervlakte(lengte2, breedte2));
-                break;
-            default:
-                printf("Ongeldige keuze, probeer opnieuw.\n");
-        }
-    
-    return 0;
 }
