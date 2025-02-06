@@ -50,7 +50,6 @@ int main() {
             default:
                 printf("Ongeldige keuze, probeer opnieuw.\n");
         }
-    } while (keuze != 'Q' && keuze != 'q');
     
     return 0;
 }
