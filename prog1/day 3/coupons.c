@@ -14,7 +14,7 @@ float optie3(int stuks, float prijs) {
     return 
     else if (int = 2)
     else if (int = 3)
-    else if (int = 2)
+    else (int = 2)
 }
 
 int main () {
