@@ -23,7 +23,7 @@ int main() {
         printf("oppervlakte van de tweede rechthoek: %d\n", oppervlakte(lengte2, breedte2));
                 break;
         case 'S':
-        printf("de som van de oppervlakte van ")
+        printf("de som van de oppervlakte van de eerste en tweede rechthoek (opp1 + opp2)")
         case 'V'
     }
     
