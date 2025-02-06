@@ -17,13 +17,13 @@ int main() {
     
     switch(keuze){
         case '1':
-        printf("Oppervlakte van de eerste rechthoek: %d\n", oppervlakte(lengte1, breedte1));
+        printf("oppervlakte van de eerste rechthoek: %d\n", oppervlakte(lengte1, breedte1));
                 break;
         case '2':
-        printf("Oppervlakte van de tweede rechthoek: %d\n", oppervlakte(lengte2, breedte2));
+        printf("oppervlakte van de tweede rechthoek: %d\n", oppervlakte(lengte2, breedte2));
                 break;
         case 'S':
-        printf("Het verschil ")
+        printf("de som van ")
         case 'V'
     }
     
