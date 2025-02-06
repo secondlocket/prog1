@@ -17,7 +17,7 @@ float optie3(int stuks, float prijs) {
     return stuks * prijs * 0.9
     
     else if (int = 3)
-    return
+    return stuks * prijs * 
     
     else 
     return stuks * prijs * 0.7
