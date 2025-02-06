@@ -35,7 +35,8 @@ int main () {
     
     if (optie1 >= optie2 && optie1 >= optie3) 
 {
-        int coupon = 1;
+        printf("met coupon 1 kost het: %f\n", coupon, optie(stuks,prijs));
+    break
     } 
     else if (optie2 >= optie1 && optie2 >= optie3) 
     {
@@ -45,9 +46,6 @@ int main () {
     {
         int coupon = 3;
     }
-   
-    printf("met coupon %i kost het: %f\n", coupon, optie(stuks,prijs));
-    break
     
     return 0;
 }
