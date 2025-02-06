@@ -14,7 +14,6 @@ int main () {
 }
 
 
-
 float optie1(int stuks, float prijs) {
     return (stuks - (stuks/3)) * prijs;
 }
