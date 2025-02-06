@@ -2,7 +2,7 @@
 #include <cs50.h>
 
 int main () {
-    int stuks = get_int("Hoeveel stuks koop je? = \n")
+    int aantal_stuks = get_int("Hoeveel stuks koop je? = \n")
     float prijs = get_float("Wat is de prijs per stuk? = \n")
     
     
