@@ -6,7 +6,8 @@ int main () {
     float prijs = get_float("Wat is de prijs per stuk? = \n")
     
     float bereken_coupon1(int stuks, float prijs)
-    if {
+    if ()
+    {
         %(stuks / 3) = 0  
     }
 }
