@@ -22,7 +22,7 @@ int main() {
     int arr[4];
 
     for (i = 0; i < n; i++) {
-        scanf("%d", &arr[i]);
+        scanf("%d", &arr[4]);
     
     {
         // Menu tonen
