@@ -32,6 +32,18 @@ float optie3(int stuks, float prijs) {
 int main () {
     int stuks = get_int("Hoeveel stuks koop je? = ");
     float prijs = get_float("Wat is de prijs per stuk? = ");
+    if (optie1 >= optie2 && optie1 >= optie3) 
+{
+        int coupon = 1;
+    } 
+    else if (optie2 >= optie1 && optie2 >= optie3) 
+    {
+        int coupon = 2;
+    } 
+    else 
+    {
+        int coupon = 3;
+    }
    
    
    
