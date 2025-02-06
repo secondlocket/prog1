@@ -11,11 +11,12 @@ int main() {
     
     // Invoer van de rechthoekafmetingen
     printf("Voer de lengte van de eerste rechthoek in: \n");
-    int lengte 1 = 
+    int lengte1 = 
     printf("Voer de breedte van de eerste rechthoek in: \n");
-    int breedte 1 = 
+    int breedte1 = 
     
     printf("Voer de lengte van de tweede rechthoek in: \n");
+    int lengte2 = 
     printf("Voer de breedte van de tweede rechthoek in: \n");
 
 }
