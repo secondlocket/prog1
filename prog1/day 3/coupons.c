@@ -12,7 +12,7 @@ int main () {
     
     if (stuks/3 = int)
     {
-        printf("Met coupon 1 
+        printf("Met coupon 1 kost het: 
             float optie1 = (stuks - (stuks/3)) * prijs 
     }
     else if 
