@@ -23,7 +23,7 @@ int main() {
         printf("Oppervlakte van de tweede rechthoek: %d\n", oppervlakte(lengte2, breedte2));
                 break;
         case 'S'
-        case ''
+        case 'V'
     }
     
 }
