@@ -29,6 +29,8 @@ float optie3(int stuks, float prijs) {
 int main () {
     int stuks = get_int("Hoeveel stuks koop je? = ");
     float prijs = get_float("Wat is de prijs per stuk? = ");
-    printf("met coupon %x kost het: %f\n")
+    printf("met coupon %x kost het: %f\n");
+    
+    return 0;
     
 }
