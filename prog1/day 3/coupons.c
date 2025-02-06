@@ -6,4 +6,7 @@ int main () {
     float prijs = get_float("Wat is de prijs per stuk? = ");
     
     if (stuks / 3 )
+    {
+        
+    }
 }
