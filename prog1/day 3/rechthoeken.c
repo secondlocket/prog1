@@ -10,9 +10,9 @@ int main() {
     char keuze;
     
     // Invoer van de rechthoekafmetingen
-    printf("Voer de lengte van de eerste rechthoek in:");
+    printf("Voer de lengte van de eerste rechthoek in: \n");
     scanf("%d", &lengte1);
-    printf("\nVoer de breedte van de eerste rechthoek in: ");
+    printf("Voer de breedte van de eerste rechthoek in: \n");
     scanf("%d", &breedte1);
     printf("Voer de lengte van de tweede rechthoek in: \n");
     scanf("%d", &lengte2);
