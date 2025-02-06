@@ -17,7 +17,7 @@ int main() {
     
     switch(keuze){
         case '1':
-        printf 
+        printf("Oppervlakte van de eerste rechthoek: %d\n",
     }
     
 }
