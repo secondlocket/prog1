@@ -33,6 +33,8 @@ int main () {
     int stuks = get_int("Hoeveel stuks koop je? = ");
     float prijs = get_float("Wat is de prijs per stuk? = ");
     
+    
+    
     if (eind_prijs1 >= eind_prijs2 && eind_prijs1 >= eind_prijs3) 
     {
     printf("met coupon 1 kost het: %f\n", optie1(stuks,prijs));
