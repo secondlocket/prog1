@@ -1,6 +1,15 @@
 #include <stdio.h>
 #include <cs50.h>
 
+int main () {
+    int stuks = get_int("Hoeveel stuks koop je? = ");
+    float prijs = get_float("Wat is de prijs per stuk? = ");
+    printf("met coupon %x kost het: %f\n");
+    
+    return 0;
+    
+}
+
 float optie1(int stuks, float prijs) {
     return (stuks - (stuks/3)) * prijs;
 }
@@ -24,13 +33,4 @@ float optie3(int stuks, float prijs) {
     
     else 
     return stuks * prijs * 0.7;
-}
-
-int main () {
-    int stuks = get_int("Hoeveel stuks koop je? = ");
-    float prijs = get_float("Wat is de prijs per stuk? = ");
-    printf("met coupon %x kost het: %f\n");
-    
-    return 0;
-    
 }
