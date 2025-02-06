@@ -42,7 +42,7 @@ if (optie1 >= optie2 && optie1 >= optie3)
 {
         int coupon = 1;
     } 
-    else if (optie2 >= optie1 && optie2 >= c) 
+    else if (optie2 >= optie1 && optie2 >= optie3) 
     {
         int coupon = 2;
     } 
