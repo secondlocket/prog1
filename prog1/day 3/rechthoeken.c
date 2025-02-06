@@ -23,9 +23,11 @@ int main() {
         printf("oppervlakte van de tweede rechthoek: %d\n", oppervlakte(lengte2, breedte2));
                 break;
         case 'S':
+        case 's':
         printf("de som van de oppervlakte van beide rechthoeken: %d\n", (oppervlakte(lengte1, breedte1)+oppervlakte(lengte2, breedte2)));
                 break;
         case 'V':
+        case 'v':
         printf("het verschil tussen de oppervlakte van beide rechthoeken: %d\n", (oppervlakte(lengte1, breedte1)-oppervlakte(lengte2, breedte2)));
                 break;
     }
