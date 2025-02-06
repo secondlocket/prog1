@@ -2,8 +2,8 @@
 #include <cs50.h>
 
 int main () {
-    int aantal_stuks = get_int("Hoeveel stuks koop je? = \n")
+    int stuks = get_int("Hoeveel stuks koop je? = \n")
     float prijs = get_float("Wat is de prijs per stuk? = \n")
     
-    
+    float bereken_coupon1(int aantal_stuks, float prijs)
 }
