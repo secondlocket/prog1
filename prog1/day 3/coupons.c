@@ -41,7 +41,7 @@ int main () {
     {
     printf("met coupon 1 kost het: %f\n", optie1(stuks,prijs));
     }
-    else if (optie2 >= eind_prijs1 && optie2 >= optie3) 
+    else if (eind_prijs2 >= eind_prijs1 && eind_prijs2 >= optie3) 
     {
     printf("met coupon 2 kost het: %f\n", optie2(stuks,prijs));
     } 
