@@ -47,7 +47,7 @@ int main () {
     } 
     else 
     {
-    printf("met coupon 3 kost het: %f\n", optie3(stuks,prijs));
+    printf("met coupon 3 kost het: %.2%f\n", optie3(stuks,prijs));
     }
     
     return 0;
