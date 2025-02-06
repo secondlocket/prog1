@@ -46,7 +46,9 @@ if (a >= b && a >= c)
     else if (b >= a && b >= c) 
     {
         int coupon = 2;
-    } else {
+    } 
+    else 
+    {
         int coupon = 3;
     }
     
