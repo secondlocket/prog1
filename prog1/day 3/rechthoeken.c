@@ -24,6 +24,7 @@ int main() {
                 break;
         case 'S':
         printf("de som van de oppervlakte van beide rechthoeken: %d\n", (oppervlakte(lengte1, breedte1)-oppervlakte(lengte2, breedte2));
+                break;
         case 'V'
     }
     
