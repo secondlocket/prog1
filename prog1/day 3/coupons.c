@@ -5,9 +5,13 @@ float optie1(int stuks, float prijs) {
     return (stuks - (stuks/3)) * prijs
 }
 
-float optie2(int stuks, float prijs)
+float optie2(int stuks, float prijs) {
+    
+}
 
-float optie3
+float optie3(int stuks, float prijs){
+    
+}
 
 int main () {
     int stuks = get_int("Hoeveel stuks koop je? = ");
