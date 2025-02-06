@@ -29,7 +29,7 @@ float optie3(int stuks, float prijs) {
     return stuks * prijs * 0.7;
 }
 
-float co1 = optie1(int stuks, float prijs)
+float coupon1 = optie1(int stuks, float prijs)
 float coupon2 = optie2(int stuks, float prijs)
 float coupon3 = optie3(int stuks, float prijs)
 
