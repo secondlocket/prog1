@@ -13,6 +13,7 @@ int main() {
     printf("Voer de lengte van de eerste rechthoek in: \n");
     int lengte 1 = 
     printf("Voer de breedte van de eerste rechthoek in: \n");
+    int breedte 1 = 
     
     printf("Voer de lengte van de tweede rechthoek in: \n");
     printf("Voer de breedte van de tweede rechthoek in: \n");
