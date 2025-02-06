@@ -19,6 +19,13 @@ int main() {
     printf("Voer de breedte van de tweede rechthoek in: \n");
     scanf("%d", &breedte2);
     
+    int arr[n];
+    printf("Enter %d integers:\n", n);
+
+    // Loop to read n integers from the user
+    for (i = 0; i < n; i++) {
+        scanf("%d", &arr[i]);
+    
     {
         // Menu tonen
         printf("\nKies een optie:\n");
