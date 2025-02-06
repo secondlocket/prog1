@@ -2,7 +2,7 @@
 #include <cs50.h>
 
 //ik heb "optie1, optie2, optie3" gebruikt in plaats van "bereken_coupon1
-//bereken_coupon2, bereken_coupon3" respectievelijk
+//bereken_coupon2, bereken_coupon3"
 
 float optie1(int stuks, float prijs) {
     return (stuks - (stuks/3)) * prijs;
