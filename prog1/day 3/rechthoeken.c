@@ -11,7 +11,7 @@ int main() {
     
     // Invoer van de rechthoekafmetingen
     printf("Voer de lengte van de eerste rechthoek in: \n");
-    int lengte1 = get_int
+    int lengte1 = get_int()
     printf("Voer de breedte van de eerste rechthoek in: \n");
     int breedte1 = 
     
