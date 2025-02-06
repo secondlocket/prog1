@@ -11,7 +11,7 @@ int main() {
     int breedte1 = get_int("Voer de breedte van de eerste rechthoek in:\n");
     
     int lengte2 = get_int("Voer de lengte van de tweede rechthoek in: \n");
-    int breedte2 = get_int("Voer de breedte van de tweede rechthoek in:\n");
+    int breedte2 = get_int("Voer de breedte van de tweede rechthoek in: \n");
     
-    char keuze = get_char("Wil je de oppervlakte van rechthoek (1) of (2), of de (S)om of het (V)erschil weten?")
+    char keuze = get_char("Wil je de oppervlakte van rechthoek (1) of (2), of de (S)om of het (V)erschil weten? \n")
 }
