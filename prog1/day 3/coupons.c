@@ -9,6 +9,7 @@ float optie2(int stuks, float prijs) {
     if (stuks/2 %= 0)
     return stuks * prijs * 1.5
     else 
+    return stuks * prijs 
 }
 
 float optie3(int stuks, float prijs) {
