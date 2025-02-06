@@ -40,8 +40,7 @@ int main() {
             case '3':
                 printf("Verschil in oppervlakte: %d\n", oppervlakte(lengte1, breedte1) - oppervlakte(lengte2, breedte2));
                 break;
-            case 'S':
-            case 's':
+            case '4':
                 printf("Som van de oppervlaktes: %d\n", oppervlakte(lengte1, breedte1) + oppervlakte(lengte2, breedte2));
                 break;
             case 'Q':
