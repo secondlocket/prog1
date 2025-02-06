@@ -2,8 +2,6 @@
 #include <cs50.h>
 #include <string.h>
 
-#include <stdio.h>
-
 // Functie om de oppervlakte te berekenen
 int oppervlakte(int lengte, int breedte) {
     return lengte * breedte;
