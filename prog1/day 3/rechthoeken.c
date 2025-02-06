@@ -19,7 +19,7 @@ int main() {
     printf("Voer de breedte van de tweede rechthoek in: \n");
     scanf("%d", &breedte2);
     
-    int arr[n];
+    int arr[4];
     printf("Enter %d integers:\n", n);
 
     // Loop to read n integers from the user
