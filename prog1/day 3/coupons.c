@@ -33,7 +33,7 @@ int main () {
     int stuks = get_int("Hoeveel stuks koop je? = ");
     float prijs = get_float("Wat is de prijs per stuk? = ");
     
-    float eind_prijs1 = optie1(int stuks, float prijs);
+    float eind_prijs1 = optie1(stuks, prijs);
     float eind_prijs2 = optie2(int stuks, float prijs);
     float eind_prijs3 = optie3(int stuks, float prijs);
     
