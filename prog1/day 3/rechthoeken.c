@@ -30,7 +30,7 @@ int main() {
         case 'v':
         printf("het verschil tussen de oppervlakte van beide rechthoeken: %d\n", (oppervlakte(lengte1, breedte1)-oppervlakte(lengte2, breedte2)));
                 break;
-                default:
+        default:
                 printf("Ongeldige keuze, probeer opnieuw.\n");
     }
     
