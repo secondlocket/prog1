@@ -12,11 +12,15 @@ float optie2(int stuks, float prijs) {
 float optie3(int stuks, float prijs) {
     if (int = 1)
     return 
+    
     else if (int = 2)
     return
+    
     else if (int = 3)
     return
+    
     else 
+    
     
 }
 
