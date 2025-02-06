@@ -2,7 +2,6 @@
 #include <cs50.h>
 //ik heb "optie1, optie2, optie3" gebruikt in plaats van "bereken_coupon1
 //bereken_coupon2, bereken_coupon3" respectievelijk
-
 int main () {
     int stuks = get_int("Hoeveel stuks koop je? = ");
     float prijs = get_float("Wat is de prijs per stuk? = ");
