@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
-
+bereken_coupon1bereken_coupon1
 int main () {
     int stuks = get_int("Hoeveel stuks koop je? = ");
     float prijs = get_float("Wat is de prijs per stuk? = ");
