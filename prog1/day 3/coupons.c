@@ -4,16 +4,6 @@
 //ik heb "optie1, optie2, optie3" gebruikt in plaats van "bereken_coupon1
 //bereken_coupon2, bereken_coupon3" respectievelijk
 
-int main () {
-    int stuks = get_int("Hoeveel stuks koop je? = ");
-    float prijs = get_float("Wat is de prijs per stuk? = ");
-    printf("met coupon x kost het: %f\n", optiex(stuks,prijs));
-    break
-    
-    return 0;
-}
-
-
 float optie1(int stuks, float prijs) {
     return (stuks - (stuks/3)) * prijs;
 }
@@ -37,6 +27,15 @@ float optie3(int stuks, float prijs) {
     
     else 
     return stuks * prijs * 0.7;
+}
+
+int main () {
+    int stuks = get_int("Hoeveel stuks koop je? = ");
+    float prijs = get_float("Wat is de prijs per stuk? = ");
+    printf("met coupon x kost het: %f\n", optiex(stuks,prijs));
+    break
+    
+    return 0;
 }
 
 if (a >= b && a >= c) {
