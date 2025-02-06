@@ -3,5 +3,5 @@
 
 int main () {
     int stuks = get_int("Hoeveel stuks koop je? = \n")
-    float prijs = get_float("Hoeve")
+    float prijs = get_float("Wat is de prijs per stuk? = ")
 }
