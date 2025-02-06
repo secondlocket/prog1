@@ -39,9 +39,9 @@ int main () {
 }
 
 if (a >= b && a >= c) {
-        coupon = 1;
+        int coupon = 1;
     } else if (b >= a && b >= c) {
-        highest = b;
+        int coupon = 2;
     } else {
-        highest = c;
+        int coupon = 3;
     }
