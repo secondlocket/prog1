@@ -46,9 +46,6 @@ int main () {
         int coupon = 3;
     }
    
-   
-   
-   
     printf("met coupon x kost het: %f\n", optie(stuks,prijs));
     break
     
