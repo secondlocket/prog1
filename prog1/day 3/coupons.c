@@ -7,6 +7,6 @@ int main () {
     
     float bereken_coupon1(int stuks, float prijs)
     if {
-        stuks / 3  
+        %stuks / 3  
     }
 }
