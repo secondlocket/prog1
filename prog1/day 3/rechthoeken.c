@@ -19,7 +19,7 @@ int main() {
     printf("Voer de breedte van de tweede rechthoek in: \n");
     scanf("%d", &breedte2);
 
-    {
+    do {
         // Menu tonen
         printf("\nKies een optie:\n");
         printf("1 - Oppervlakte van de eerste rechthoek\n");
