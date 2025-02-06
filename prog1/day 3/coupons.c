@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <cs50.h>
 
-float optie1()
+float optie1() {
+    
+}
 
 
 int main () {
