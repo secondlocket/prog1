@@ -18,11 +18,7 @@ int main() {
     scanf("%d", &lengte2);
     printf("Voer de breedte van de tweede rechthoek in: \n");
     scanf("%d", &breedte2);
-    
-    int arr[4];
 
-    for (i = 0; i < n; i++) {
-        scanf("%d", &arr[4]);
     
     {
         // Menu tonen
