@@ -19,15 +19,15 @@ int main() {
     printf("Voer de breedte van de tweede rechthoek in: \n");
     scanf("%d", &breedte2);
 
-        // Menu tonen
-        printf("\nKies een optie:\n");
-        printf("1 - Oppervlakte van de eerste rechthoek\n");
-        printf("2 - Oppervlakte van de tweede rechthoek\n");
-        printf("3 - Verschil in oppervlakte (eerste - tweede)\n");
-        printf("4 - Som van de oppervlaktes\n");
-        printf("Q - Afsluiten\n");
-        printf("Maak een keuze: ");
-        scanf(" %c", &keuze);
+    // Menu tonen
+    printf("\nKies een optie:\n");
+    printf("1 - Oppervlakte van de eerste rechthoek\n");
+    printf("2 - Oppervlakte van de tweede rechthoek\n");
+    printf("3 - Verschil in oppervlakte (eerste - tweede)\n");
+    printf("4 - Som van de oppervlaktes\n");
+    printf("Q - Afsluiten\n");
+    printf("Maak een keuze: ");
+    scanf(" %c", &keuze);
         
         switch (keuze) {
             case '1':
