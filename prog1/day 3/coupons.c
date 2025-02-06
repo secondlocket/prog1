@@ -38,7 +38,7 @@ int main () {
     return 0;
 }
 
-if (a >= b && a >= c) 
+if (optie1 >= b && a >= c) 
 {
         int coupon = 1;
     } 
