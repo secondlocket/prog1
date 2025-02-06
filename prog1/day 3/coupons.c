@@ -3,4 +3,5 @@
 
 int main () {
     int stuks = get_int("Hoeveel stuks koop je? = \n")
+    int 
 }
