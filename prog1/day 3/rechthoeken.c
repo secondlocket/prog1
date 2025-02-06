@@ -34,6 +34,7 @@ int main(void) {
             case '2':
                 printf("Oppervlakte van de tweede rechthoek: %d\n", oppervlakte(lengte2, breedte2));
                 break;
+            case 'V':
             case 'v':
                 printf("Verschil in oppervlakte: %d\n", oppervlakte(lengte1, breedte1) - oppervlakte(lengte2, breedte2));
                 break;
