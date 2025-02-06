@@ -12,4 +12,6 @@ int main() {
     
     int lengte2 = get_int("Voer de lengte van de tweede rechthoek in: \n");
     int breedte2 = get_int("Voer de breedte van de tweede rechthoek in:\n");
+    
+    
 }
