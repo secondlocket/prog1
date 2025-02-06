@@ -2,7 +2,7 @@
 #include <cs50.h>
 
 float optie1(int stuks, float prijs) {
-    return 
+    return (stuks - (stuks/3)) * prijs
 }
 
 
