@@ -16,7 +16,7 @@ int main() {
     char keuze = get_char("Wil je de oppervlakte van rechthoek (1) of (2), of de (S)om of het (V)erschil weten? \n");
     
     switch(keuze){
-        case'1'
+        case '1'
     }
     
 }
