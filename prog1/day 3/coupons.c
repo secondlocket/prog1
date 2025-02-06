@@ -11,6 +11,8 @@ int main () {
     
 }
 
+
+//ik heb "optie1, optie2, optie3" gebruikt in plaats van 
 float optie1(int stuks, float prijs) {
     return (stuks - (stuks/3)) * prijs;
 }
