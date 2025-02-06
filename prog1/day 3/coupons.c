@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
+
 //ik heb "optie1, optie2, optie3" gebruikt in plaats van "bereken_coupon1
 //bereken_coupon2, bereken_coupon3" respectievelijk
 
