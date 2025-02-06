@@ -17,13 +17,13 @@ float optie3(int stuks, float prijs) {
     return stuks * prijs * 0.95;
     
     else if (stuks = 2)
-    return stuks * prijs * 0.9
+    return stuks * prijs * 0.9;
     
     else if (stuks = 3)
-    return stuks * prijs * 0.8
+    return stuks * prijs * 0.8;
     
     else 
-    return stuks * prijs * 0.7
+    return stuks * prijs * 0.7;
 }
 
 int main () {
