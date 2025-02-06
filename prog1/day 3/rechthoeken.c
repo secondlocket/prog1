@@ -15,8 +15,7 @@ int main(void) {
     
     printf("Voer de lengte en breedte van de tweede rechthoek in: (lengte, breedte)\n");
     scanf("%d %d", &lengte2, &breedte2);
-    
-    do {
+    {
         // Menu tonen
         printf("\nKies een optie:\n");
         printf("1 - Oppervlakte van de eerste rechthoek\n");
