@@ -37,11 +37,11 @@ int main () {
     float eind_prijs2 = optie2(stuks, prijs);
     float eind_prijs3 = optie3(stuks, prijs);
     
-    if (eind_prijs1 >= eind_prijs2 && eind_prijs1 >= eind_prijs3) 
+    if (eind_prijs1 <= eind_prijs2 && eind_prijs1 <= eind_prijs3) 
     {
     printf("met coupon 1 kost het: %.2f\n", optie1(stuks,prijs));
     }
-    else if (eind_prijs2 >= eind_prijs1 && eind_prijs2 >= eind_prijs3) 
+    else if (eind_prijs2 <= eind_prijs1 && eind_prijs2 <= eind_prijs3) 
     {
     printf("met coupon 2 kost het: %.2f\n", optie2(stuks,prijs));
     } 
