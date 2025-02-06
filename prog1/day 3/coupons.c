@@ -38,11 +38,11 @@ int main () {
     return 0;
 }
 
-if (optie1 >= optie2 && optie1 >= c) 
+if (optie1 >= optie2 && optie1 >= optie3) 
 {
         int coupon = 1;
     } 
-    else if (b >= optie1 && b >= c) 
+    else if (optie2 >= optie1 && optie2 >= c) 
     {
         int coupon = 2;
     } 
