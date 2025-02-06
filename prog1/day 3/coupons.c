@@ -2,5 +2,5 @@
 #include <cs50.h>
 
 int main () {
-    int 
+    int stuks = get_int("Hoeveel stuks koop je? = ")
 }
