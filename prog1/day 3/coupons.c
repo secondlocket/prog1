@@ -10,7 +10,7 @@ int main () {
     float optie3 = 
     
     
-    if (stuks/3 != int)
+    if (stuks/3 = int)
     {
         (stuks - (stuks/3)) * prijs 
     }
