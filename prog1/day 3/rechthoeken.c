@@ -14,5 +14,4 @@ int main() {
     int lengte2 = 
     printf("Voer de breedte van de tweede rechthoek in: \n");
     int breedte2 = 
-
 }
