@@ -29,9 +29,9 @@ float optie3(int stuks, float prijs) {
     return stuks * prijs * 0.7;
 }
 
-float eind_prijs1 = optie1(int stuks, float prijs)
-float eind_prijs2 = optie2(int stuks, float prijs)
-float eind_prijs3 = optie3(int stuks, float prijs)
+float eind_prijs1 = optie1(int stuks, float prijs);
+float eind_prijs2 = optie2(int stuks, float prijs);
+float eind_prijs3 = optie3(int stuks, float prijs);
 
 int main () {
     int stuks = get_int("Hoeveel stuks koop je? = ");
