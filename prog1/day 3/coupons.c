@@ -38,3 +38,11 @@ float optie3(int stuks, float prijs) {
     else 
     return stuks * prijs * 0.7;
 }
+
+if (a >= b && a >= c) {
+        highest = a;
+    } else if (b >= a && b >= c) {
+        highest = b;
+    } else {
+        highest = c;
+    }
