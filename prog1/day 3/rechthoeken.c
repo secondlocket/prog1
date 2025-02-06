@@ -24,8 +24,8 @@ int main() {
         printf("\nKies een optie:\n");
         printf("1 - Oppervlakte van de eerste rechthoek\n");
         printf("2 - Oppervlakte van de tweede rechthoek\n");
-        printf("V - Verschil in oppervlakte (eerste - tweede)\n");
-        printf("S - Som van de oppervlaktes\n");
+        printf("3 - Verschil in oppervlakte (eerste - tweede)\n");
+        printf("4 - Som van de oppervlaktes\n");
         printf("Q - Afsluiten\n");
         printf("Maak een keuze: ");
         scanf(" %c", &keuze);
