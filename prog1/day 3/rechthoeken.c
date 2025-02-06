@@ -43,10 +43,6 @@ int main() {
             case '4':
                 printf("Som van de oppervlaktes: %d\n", oppervlakte(lengte1, breedte1) + oppervlakte(lengte2, breedte2));
                 break;
-            case 'Q':
-            case 'q':
-                printf("Programma afgesloten.\n");
-                break;
             default:
                 printf("Ongeldige keuze, probeer opnieuw.\n");
         }
