@@ -20,7 +20,6 @@ int main() {
     scanf("%d", &breedte2);
     
     int arr[4];
-    printf("Enter %d integers:\n", 4);
 
     // Loop to read n integers from the user
     for (i = 0; i < n; i++) {
