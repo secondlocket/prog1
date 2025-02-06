@@ -17,18 +17,18 @@ int main() {
     
     switch(keuze){
         case '1':
-        printf("oppervlakte van de eerste rechthoek: %d\n", oppervlakte(lengte1, breedte1));
+        printf("oppervlakte van de eerste rechthoek: %i\n", oppervlakte(lengte1, breedte1));
                 break;
         case '2':
-        printf("oppervlakte van de tweede rechthoek: %d\n", oppervlakte(lengte2, breedte2));
+        printf("oppervlakte van de tweede rechthoek: %i\n", oppervlakte(lengte2, breedte2));
                 break;
         case 'S':
         case 's':
-        printf("de som van de oppervlakte van beide rechthoeken: %d\n", (oppervlakte(lengte1, breedte1)+oppervlakte(lengte2, breedte2)));
+        printf("de som van de oppervlakte van beide rechthoeken: %i\n", (oppervlakte(lengte1, breedte1)+oppervlakte(lengte2, breedte2)));
                 break;
         case 'V':
         case 'v':
-        printf("het verschil tussen de oppervlakte van beide rechthoeken: %d\n", (oppervlakte(lengte1, breedte1)-oppervlakte(lengte2, breedte2)));
+        printf("het verschil tussen de oppervlakte van beide rechthoeken: %i\n", (oppervlakte(lengte1, breedte1)-oppervlakte(lengte2, breedte2)));
                 break;
         default:
         printf("Ongeldige keuze, probeer opnieuw.\n");
