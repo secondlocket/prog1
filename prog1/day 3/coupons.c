@@ -30,7 +30,8 @@ float optie3(int stuks, float prijs) {
 }
 
 float coupon1 = optie1(int stuks, float prijs)
-
+float coupon2 = optie2(int stuks, float prijs)
+float coupon3 = optie3(int stuks, float prijs)
 
 int main () {
     int stuks = get_int("Hoeveel stuks koop je? = ");
