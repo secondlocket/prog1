@@ -5,5 +5,5 @@ int main () {
     int stuks = get_int("Hoeveel stuks koop je? = ");
     float prijs = get_float("Wat is de prijs per stuk? = ");
     
-    
+    if (stuks )
 }
