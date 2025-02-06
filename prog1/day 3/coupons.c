@@ -12,7 +12,8 @@ int main () {
     
     if (stuks/3 = int)
     {
-        float optie1 = (stuks - (stuks/3)) * prijs 
+        printf(
+            float optie1 = (stuks - (stuks/3)) * prijs 
     }
     else if 
 }
