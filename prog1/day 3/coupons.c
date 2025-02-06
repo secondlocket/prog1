@@ -39,7 +39,7 @@ int main () {
 }
 
 if (a >= b && a >= c) {
-        highest = a;
+        coup = a;
     } else if (b >= a && b >= c) {
         highest = b;
     } else {
