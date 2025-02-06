@@ -5,6 +5,7 @@ int main () {
     int stuks = get_int("Hoeveel stuks koop je? = ");
     float prijs = get_float("Wat is de prijs per stuk? = ");
     printf("met coupon x kost het: %f\n", optiex(stuks,prijs));
+    break
     
     return 0;
     
