@@ -5,7 +5,7 @@ int oppervlakte(int lengte, int breedte) {
     return lengte * breedte;
 }
 
-int main(void) {
+int main() {
     int lengte1, breedte1, lengte2, breedte2;
     char keuze;
     
