@@ -7,6 +7,6 @@ int main () {
     
     if (stuks/3 = int)
     {
-        (stuks - (stuks/3)) *
+        (stuks - (stuks/3)) * prijs 
     }
 }
