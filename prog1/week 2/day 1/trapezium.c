@@ -6,7 +6,7 @@ int main ()
     int n;
     do
     {
-        int n = get_int("hoe hoog moet het trapezium zijn? = ")
+        int n = get_int("hoe hoog moet het trapezium zijn? = ");
     }
     while(n < 5 || n > 20)
     
