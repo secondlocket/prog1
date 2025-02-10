@@ -14,21 +14,21 @@ int main ()
     {
         for (int y = 0; y < n - i - 1; y++)
         {
-            printf(".");
+            printf(" ");
         }
         
         printf("#");
         
         for(int j = 0; j <= i; j++)
         {
-            printf("-");
+            printf(" ");
         }
         
         //loop L-aligned
         //#
         for(int j = 0; j <= i; j++)
         {
-            printf("-");
+            printf(" ");
         }
         
         printf("#");
