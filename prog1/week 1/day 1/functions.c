@@ -23,7 +23,6 @@ void print_floatmax(float max);
 int main(void)
 {
     //times two
-    int t = ;
     print_int(times_two(2));
     
     //ex.1 half
