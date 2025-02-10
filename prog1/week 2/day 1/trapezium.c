@@ -17,14 +17,14 @@ int main (int argc, string argv[])
     //eerste regel
     for (j = 0; j < n; j++)
     {
-    if(j > 0)
+    if (j > 0)
         {
             for (j = 0; j < n - 1; j++)
             {
                 printf(".");
             }
         }
-    if(j > 0)
+    if (j > 0)
         {
             for (j = 0; j < n * 2; j++)
             {
