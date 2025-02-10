@@ -28,13 +28,11 @@ int main (int argc, string argv[])
     //trapezium zelf
     for (i = 1; i < n - 1; i++)
     {
-        if (j > 0)
+        //spaties L
+        for (j = 0; y < n - i - 2; y++)
         {
-            //spaties L
-            for (j = 0; y < n - i - 2; y++)
-            {
                 printf(".");
-            }
+        }
         
         printf("#");
         
