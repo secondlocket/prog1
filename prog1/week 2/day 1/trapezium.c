@@ -29,7 +29,7 @@ int main (int argc, string argv[])
     for (i = 1; i < n - 1; i++)
     {
         //spaties L
-        for (j = 0; j < n - i - 2; j++)
+        for (j = 0; j < n - i - 1; j++)
         {
             printf(".");
         }
