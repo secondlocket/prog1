@@ -15,6 +15,8 @@ int main (int argc, string argv[])
     while (n < 5 || n > 20);
    
     //eerste regel
+    for (i = 0; i < n; i++)
+    {
     if (i > 0)
         {
             for (i = 0; i < n - 1; i++)
