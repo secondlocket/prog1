@@ -11,7 +11,7 @@ int main ()
     }
     while(n<1 || n>8);
     
-    for(int = 1)
+    for(i = 0)
     {
         
     }
