@@ -38,7 +38,7 @@ int main (int argc, string argv[])
     {
         if(j > 0)
         {
-            for (j = 0; j < n - 1; j++)
+            for (int y = 0; y < n - i - 1; y++)
             {
                 printf(".");
             }
