@@ -11,5 +11,7 @@ int main ()
     }
     while(n<1 || n>8);
     
-    printf("n=%i", n)
+    printf("n=%i", n);
+    
+    return 0;
 }
