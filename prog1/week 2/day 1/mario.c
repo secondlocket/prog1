@@ -3,7 +3,7 @@
 
 int main ()
 {
-    //
+    //hoogte van piramide
     int n;
     do
     {
