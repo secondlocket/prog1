@@ -19,7 +19,7 @@ int main ()
                 printf(" ");
             }
         }
-    if(i > 0)
+    if(int i > 0)
         {
             for (i = 0; i < n * 2; i++)
             {
