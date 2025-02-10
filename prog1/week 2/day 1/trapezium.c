@@ -19,12 +19,9 @@ int main (int argc, string argv[])
         {
             printf(".");
         }
-        }
+    for (i = 0; i < n * 2; i++)
         {
-            for (i = 0; i < n * 2; i++)
-            {
-                printf("#");
-            }
+            printf("#");
         }
         printf("\n");
     
