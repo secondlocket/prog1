@@ -32,6 +32,9 @@ int main (int argc, string argv[])
         }
     }
     
+    //trapezium zelf
+    
+    
 
     return 0;
 }
