@@ -13,8 +13,6 @@ int main (int argc, string argv[])
     }
     while(n < 5 || n > 20);
     
-    for (i = 0; i < n; i++)
-    {
         //eerste regel
     if(j > 0)
         {
