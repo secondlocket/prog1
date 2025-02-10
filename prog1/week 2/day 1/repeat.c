@@ -2,7 +2,7 @@
 #include <cs50.h>
 
 
-string 
+string inputw
 void main () {
     
 }
