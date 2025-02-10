@@ -37,6 +37,8 @@ int main ()
         printf("\n");
     }
     if(i>0)
-    
+    {
+        printf("#");
+    }
 
 }
