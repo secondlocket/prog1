@@ -50,7 +50,7 @@ int main(void)
 }
 
 //times two
-int times_two(int a)
+int times_two(int a);
 {
     return a * 2;
 }
