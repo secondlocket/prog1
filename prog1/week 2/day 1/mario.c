@@ -28,7 +28,7 @@ int main () {
         //spatie ertussen
         printf(" ");
         
-        //loop L-aligned
+        //loop L-gericht
         //#
         for(int j = 0; j <= i; j++)
         {
