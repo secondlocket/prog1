@@ -54,7 +54,10 @@ int times_two(int a)
 {
     return a * 2;
 }
-
+int times_two(int a)
+{
+    return a * 2;
+}
 
 
 //ex.1 half functie
