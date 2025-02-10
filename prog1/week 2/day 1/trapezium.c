@@ -3,5 +3,5 @@
 
 int main ()
 {
-    int n = get_int("")
+    int n = get_int("hoe hoog moet het trapezium zijn? = ")
 }
