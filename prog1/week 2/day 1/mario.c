@@ -18,7 +18,6 @@ int main ()
     {
         printf("#");for(int i = 0; i < h; i = i + 1 ) {
       printf("%s", e);
-}
     }
     
     return 0;
