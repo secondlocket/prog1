@@ -37,7 +37,7 @@ int main (int argc, string argv[])
         printf("#");
         
         //spaties binnen
-        for (j = 0; j < n * 2 - 2; j++)
+        for (j = 0; j < i * 2 - 2; j++)
         {
             printf(" ");
         }
