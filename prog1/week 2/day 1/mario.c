@@ -28,9 +28,6 @@ int main ()
        //     printf("#");
        // }
        // printf("\n");
-       
-       #include <stdio.h>
-#include <cs50.h>
 
 
   for (int i = 0; i < n; i++)
