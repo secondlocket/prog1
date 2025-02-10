@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
 
-#include <stdio.h>
 
 // Functie om individuele bits om te zetten naar een decimaal getal
 int to_decimal(int bit1, int bit2, int bit3, int bit4) {
