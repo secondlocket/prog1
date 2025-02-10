@@ -8,5 +8,5 @@ int main ()
     {
         n = get_int("hoe hoog moet de driehoek zijn? = ");
     }
-    while 
+    while(n < 1 || n > 8);
 }
