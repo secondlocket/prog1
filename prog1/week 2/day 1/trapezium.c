@@ -12,10 +12,10 @@ int main ()
     }
     while(n < 5 || n > 20);
     
-    for (int j = 0; j < n; j++)
+    for (int i = 0; i < n; i++)
     {
         //eerste regel
-    if(i > 0)
+    if(j > 0)
         {
             for (i = 0; i < n - 1; i++)
             {
