@@ -17,7 +17,7 @@ int main (int argc, string argv[])
     //eerste regel
     for (i = 0; i < n - 1; i++)
         {
-            printf(".");
+            printf(" ");
         }
     for (i = 0; i < n * 2; i++)
         {
