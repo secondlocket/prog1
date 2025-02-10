@@ -3,7 +3,8 @@
 
 int main ()
 {
-    int n
+    int n;
+    
     do
     {
         printf("hoe hoog is je piramide? = "\n);
