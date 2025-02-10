@@ -4,6 +4,7 @@
 int main ()
 {
     int n;
+    int i;
     do
     {
         n = get_int("hoe hoog moet het trapezium zijn? = ");
