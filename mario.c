@@ -9,5 +9,5 @@ int main ()
         n = get_int("hoe hoog is je piramide? (typ iets tussen 1 en 8 in) = ");
         
     }
-    while(1>n, n>8);
+    while(n<1, n>8);
 }
