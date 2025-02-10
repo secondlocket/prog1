@@ -31,6 +31,8 @@ int main ()
             printf("-");
         }
         
+        printf("#");
+        
         //spaties
         for (int y = 0; y < n - i - 1; y++)
         {
