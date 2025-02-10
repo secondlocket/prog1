@@ -14,7 +14,7 @@ int main ()
     //n - 1 regels
     for(i = 0; i < n - 1; i++)
     {
-        //spatie buiten
+        //spatie buiten L
         for (int y = 0; y < n - i - 1; y++)
         {
             printf(" ");
@@ -30,7 +30,7 @@ int main ()
         
         printf("#");
         
-        //spatie buiten
+        //spatie buiten R
         for (int y = 0; y < n - i - 1; y++)
         {
             printf(" ");
