@@ -10,8 +10,6 @@ int main ()
         n = get_int("hoe hoog is je piramide? (typ iets tussen 1 en 8 in) = ");
         
     }
-    
-    //loop
     while(n < 1 || n > 8);
     
     for(int i = 0; i < n; i++)
