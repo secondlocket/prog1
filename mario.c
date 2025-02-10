@@ -3,6 +3,6 @@
 
 int main ()
 {
-    while(<=i)
+    while(0<=i<=8)
     
 }
