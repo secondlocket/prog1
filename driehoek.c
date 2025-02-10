@@ -43,6 +43,7 @@ int main ()
     //laatste regel
     if(i > 0)
     {
+        
         printf("#");
     }
 
