@@ -11,7 +11,7 @@ int main ()
     
     while (i < input_n + 1)
     {
-        printf(input_w);
+        printf("hi");
         i++;
     }
     
