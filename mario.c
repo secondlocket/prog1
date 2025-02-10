@@ -8,5 +8,5 @@ int main ()
         printf("hoe groot is je pyramid? = "\n);
         
     }
-    while(0>i<8)
+    while(0>i<8);
 }
