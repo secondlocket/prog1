@@ -8,7 +8,8 @@ void main () {
     
     int i = 0;
     
-    while (i < input_n){
+    while (i < input_n)
+    {
         printf(input_w)
     }
     
