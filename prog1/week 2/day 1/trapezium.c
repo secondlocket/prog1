@@ -13,9 +13,7 @@ int main ()
     
     for (int j = 0; j < n; j++)
     {
-        
-    }
-    //eerste regel
+        //eerste regel
     if(i > 0)
         {
             for (i = 0; i < n - 1; i++)
@@ -30,6 +28,8 @@ int main ()
                 printf("#");
             }
         }
+    }
+    
 
     return 0;
 }
