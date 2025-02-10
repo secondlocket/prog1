@@ -41,13 +41,7 @@ int main ()
     }
     
     //laatste regel
-    if(i > 0)
-    {
-        for (int y = 0; y < n - i - 1; y++)
-        {
-            printf("#");
-        }
-    }
+    
 
     return 0;
 }
