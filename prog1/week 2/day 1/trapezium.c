@@ -11,7 +11,7 @@ int main ()
     }
     while(n < 5 || n > 20);
     
-    for (int j = 0; j)
+    for (int j = 0; j < n )
     //eerste regel
     if(i > 0)
         {
