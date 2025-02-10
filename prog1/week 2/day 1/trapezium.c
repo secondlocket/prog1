@@ -14,7 +14,7 @@ int main (int argc, string argv[])
     while(n < 5 || n > 20);
    
     //eerste regel
-    for (j = 0; j < n; j++)
+    for(j = 0; j < n; j++)
     {
     if(j > 0)
         {
@@ -33,6 +33,8 @@ int main (int argc, string argv[])
     }
     
     //trapezium zelf
+    for()
+    
     
     //laatste regel
     
