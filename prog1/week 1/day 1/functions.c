@@ -3,7 +3,8 @@
 //programmeren 1 functions opdracht
 
 //prototypes
-
+int times_two(int a);
+void print_int(int a);
 
 //ex.1 half functie
 int half(int a);
