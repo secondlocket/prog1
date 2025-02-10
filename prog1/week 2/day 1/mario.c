@@ -35,6 +35,12 @@ int main () {
             printf("#");
         }
         
+        //spaties
+        for (int y = 0; y < n - i - 1; y++)
+        {
+            printf(" ");
+        }
+        
         printf("\n");
     }
     
