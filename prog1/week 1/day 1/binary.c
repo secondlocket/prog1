@@ -2,7 +2,7 @@
 #include <cs50.h>
 
 int to_decimal(int bit1, int bit2, int bit3, int bit4) 
-{
+    {
     return (bit1 << 3) | (bit2 << 2) | (bit3 << 1) | bit4;
 }
 
