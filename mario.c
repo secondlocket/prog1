@@ -12,6 +12,9 @@ int main ()
     while(n<1 || n>8);
     
     for()
+    {
+        
+    }
     
     return 0;
 }
