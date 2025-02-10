@@ -3,7 +3,7 @@
 
 int to_decimal(int bit1, int bit2, int bit3, int bit4, int bit5) 
 {
-    return (bit1 << 4) | (bit2 << 3) | (bit3 << 2) | bit4;
+    return (bit1 << 4) | (bit2 << 3) | (bit3 << 2) | (bit4;
 }
 
 int main() 
