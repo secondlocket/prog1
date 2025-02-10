@@ -6,7 +6,7 @@ int main (int argc, string argv[])
     int n;
     int i;
     int j;
-    int y;
+    int y = 0;
     
     do
     {
