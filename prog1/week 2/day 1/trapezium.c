@@ -26,7 +26,7 @@ int main (int argc, string argv[])
         printf("\n");
     
     //trapezium zelf
-    for (i = 1; i < n; i++)
+    for (i = 1; i < n - 1; i++)
     {
         if (j > 0)
         {
