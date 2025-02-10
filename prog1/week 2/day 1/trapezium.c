@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
-int main ()
+int main (int argc, string argv[])
 {
     int n;
     int i;
