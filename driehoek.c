@@ -10,5 +10,5 @@ int main ()
     }
     while(n < 5 || n > 20);
     
-    for(int = 0; )
+    for(int i = 0; )
 }
