@@ -24,7 +24,6 @@ int main ()
             printf(" ");
         }
         
-        //loop L-aligned
         //spatie rechts
         for(int j = 0; j <= i; j++)
         {
