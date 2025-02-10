@@ -11,7 +11,7 @@ int main ()
     }
     while(n < 5 || n > 20);
     
-    //n - 1 regels
+    //regels (n-1)
     for(i = 0; i < n - 1; i++)
     {
         //spatie buiten L
