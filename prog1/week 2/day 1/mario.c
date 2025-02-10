@@ -12,7 +12,7 @@ int main ()
     }
     
     //loop
-    while(n < 1 || n > 8);
+    //while(n < 1 || n > 8);
     
    // for(int i = 0; i < n; i++)
     {
@@ -28,6 +28,19 @@ int main ()
        //     printf("#");
        // }
        // printf("\n");
+       
+       #include <stdio.h>
+#include <cs50.h>
+
+
+  for (int i = 0; i < n; i++)
+  {
+      for (int j = 0; j < n; j++)
+      {
+          printf("#");
+      }
+      printf("\n");
+  }
     }
     
     return 0;
