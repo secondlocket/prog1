@@ -37,7 +37,7 @@ int main ()
         printf("\n");
     }
     
-    if(i = n)
+    if(int i = n)
     {
         for (int y = 0; y < n - i - 1; y++)
         {
