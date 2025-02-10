@@ -4,7 +4,7 @@
 
 int main () 
 {
-    string input_w = get_string("Wat wil je zeggen? = ");
+    string input_w = get_string("What do you want to say? = ");
     int input_n = get_int("Hoeveel keren wil je dit zeggen? = ");
     
     int i = 0;
