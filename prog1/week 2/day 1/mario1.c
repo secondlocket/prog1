@@ -12,6 +12,7 @@ int main ()
     }
     while(n < 1 || n > 8);
     
+    //loop
     for(int i = 0; i < n; i++)
     {
         //spaties
