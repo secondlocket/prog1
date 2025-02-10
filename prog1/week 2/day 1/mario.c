@@ -12,7 +12,7 @@ int main () {
     
     for(int i = 0; i < n; i++)
     {
-        //loop R-aligned
+        //loop R-gericht
         //spaties
         for (int y = 0; y < n - i - 1; y++)
         {
