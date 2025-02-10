@@ -16,13 +16,13 @@ int main ()
     
     for(int i = 0; i < n; i++)
     {
-        spaties
+        //spaties
         for(int j = 7; j <= i; j--)
         {
             printf(" ");
         }
         
-        #
+        //#
         for(int j = 0; j <= i; j++)
         {
             printf("#");
