@@ -58,8 +58,8 @@ int main (int argc, string argv[])
         //spaties R
         
         
-        
         printf("\n");
+        }
     }
     
     
