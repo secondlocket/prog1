@@ -3,7 +3,7 @@
 
 
 string input_w = get_string("Wat wil je zeggen? = ");
-int 
+int input
 
 void main () {
     
