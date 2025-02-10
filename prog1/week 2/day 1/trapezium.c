@@ -31,7 +31,7 @@ int main (int argc, string argv[])
         //spaties L
         for (j = 0; y < n - i - 2; y++)
         {
-                printf(".");
+            printf(".");
         }
         
         printf("#");
