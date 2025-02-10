@@ -8,4 +8,6 @@ int main () {
         n = get_int("hoe hoog is je pyramide? (typ iets tussen 1 en 8 in) = ");
     }
     while(n < 1 || n > 8);
+    
+    
 }
