@@ -23,7 +23,7 @@ int main ()
         //#
         for (int y = 0; y < n - i - 1; y++)
         {
-            printf(".");
+            printf("#");
         }
     }
     return 0;
