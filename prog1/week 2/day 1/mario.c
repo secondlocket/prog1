@@ -29,7 +29,6 @@ int main () {
         printf(" ");
         
         //loop L-aligned
-        
         //#
         for(int j = 0; j <= i; j++)
         {
