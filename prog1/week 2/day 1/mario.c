@@ -25,6 +25,8 @@ int main () {
             printf("#");
         }
         
+        printf(" ");
+        
         //loop L-aligned
         for (int y = 0; y < n - i - 1; y++)
         {
