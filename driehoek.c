@@ -43,7 +43,7 @@ int main ()
     //laatste regel
     if(i > 0)
         {
-            for (int y = 0; y < n - i - 1; y++)
+            for (int i = 0; y < n - i - 1; y++)
             {
                 printf("#");
             }
