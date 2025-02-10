@@ -19,14 +19,14 @@ int main (int argc, string argv[])
     {
     if (i > 0)
         {
-            for (j = 0; j < n - 1; j++)
+            for (i = 0; i < n - 1; i++)
             {
                 printf(".");
             }
         }
-    if (j > 0)
+    if (i > 0)
         {
-            for (j = 0; j < n * 2; j++)
+            for (i = 0; i < n * 2; i++)
             {
                 printf("#");
             }
