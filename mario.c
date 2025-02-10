@@ -4,5 +4,8 @@
 int main ()
 {
     while(0>i<8)
+    {
+        printf
+    }
     
 }
