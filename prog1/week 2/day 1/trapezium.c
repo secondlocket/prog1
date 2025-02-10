@@ -14,9 +14,9 @@ int main ()
     //eerste regel
     if(i > 0)
         {
-            for (i = 0; i < n * 2; i++)
+            for (i = 0; i < n; i++)
             {
-                printf("#");
+                printf(" ");
             }
         }
     if(i > 0)
