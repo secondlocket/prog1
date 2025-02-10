@@ -37,13 +37,7 @@ int main ()
         }
         
         printf("\n");
-        if(i > 0)
-        {
-            for (int y = 0; y < n - i - 1; y++)
-            {
-                printf("#");
-            }
-        }
+        
     }
     
     //laatste regel
