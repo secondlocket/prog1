@@ -19,7 +19,7 @@ int main ()
         //spaties
         for(int j = 7; j <= i; j--)
         {
-            printf(" ");
+            printf(".");
         }
         
         //#
