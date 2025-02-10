@@ -49,6 +49,8 @@ int main(void)
    
 }
 
+//times_two
+
 //ex.1 half functie
 int half(int a)
 {
