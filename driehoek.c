@@ -4,6 +4,6 @@
 int main () 
 {
     int n;
-    n = get_int("hoe hoog is je driehoek? = ");
+    n = get_int("hoe hoog moet de driehoek zijn? = ");
     
 }
