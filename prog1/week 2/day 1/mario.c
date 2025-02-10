@@ -24,7 +24,7 @@ int main () {
             printf("#");
         }
         printf("\n");
-    
+    }
         
     //loop L-aligned
 }
