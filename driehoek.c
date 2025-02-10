@@ -12,6 +12,7 @@ int main ()
     
     for(int i = 0; i < n; i++)
     {
+        //spatie buiten
         for (int y = 0; y < n - i - 1; y++)
         {
             printf(" ");
@@ -19,6 +20,7 @@ int main ()
         
         printf("#");
         
+        //spatie binnen
         for(int j = 0; j <= i; j++)
         {
             printf(" ");
