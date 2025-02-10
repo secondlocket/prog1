@@ -4,6 +4,7 @@
 
 string input_w = get_string("Wat wil je zeggen? = ");
 
+
 void main () {
     
 }
