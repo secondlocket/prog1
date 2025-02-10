@@ -24,7 +24,7 @@ int main(void)
 {
     //times two
     int l = 2;
-    int t = times_two(l);
+    int t = times_two(2);
     print_int(t);
     
     //ex.1 half
