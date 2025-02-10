@@ -22,7 +22,7 @@ int main(void)
 {
     //ex.1 half
     int x = 2;
-    int y = half(x);
+    int y = times_two(x);
     print_int(y);
     
    //ex.2 print float
