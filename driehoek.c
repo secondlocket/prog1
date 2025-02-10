@@ -11,7 +11,7 @@ int main ()
     }
     while(n < 5 || n > 20);
     
-    for(i = 0; i < n; i++)
+    for(i = 0; i < n - 1; i++)
     {
         //spatie buiten
         for (int y = 0; y < n - i - 1; y++)
