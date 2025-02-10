@@ -11,5 +11,6 @@ int main()
     printf("%d\n", to_decimal(0, 0, 0, 1));
     printf("%d\n", to_decimal(0, 1, 0, 1));
     printf("%d\n", to_decimal(1, 1, 1, 1));
+
     return 0;
 }
