@@ -21,7 +21,7 @@ int main ()
         printf("#");
         
         //spatie binnen
-        for(int j = 0; j <= i; j++2)
+        for(int j = 0; j <= i; j++++)
         {
             printf(".");
         }
