@@ -35,7 +35,10 @@ int main (int argc, string argv[])
     //trapezium zelf
     for (i = 0; i < n; i++)
     {
-        for (j = 0; j < n)
+        for (j = 0; j < n; j++)
+        {
+            
+        }
     }
     
     
