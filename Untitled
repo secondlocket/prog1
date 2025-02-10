@@ -1,0 +1,32 @@
+#include <stdio.h>
+#include <cs50.h>
+
+int main ()
+{
+    int n;
+    do
+    {
+        n = get_int("Hoe hoog moet het trapezium zijn? (tussen 5 en 20) = ");
+    }
+    while(n < 5 || n > 20);
+
+    // Loop voor elke rij van het trapezium
+    for (int i = 0; i < n; i++)
+    {
+        // Print spaties aan de linkerkant
+        for (int j = 0; j < n - i - 1; j++)
+        {
+            printf(" ");
+        }
+
+        // Print hashtags voor het trapezium
+        for (int j = 0; j < (n * 2) - 1; j++)
+        {
+            printf("#");
+        }
+
+        printf("\n"); // Nieuwe regel voor de volgende rij
+    }
+
+    return 0;
+}
