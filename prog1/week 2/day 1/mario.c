@@ -16,7 +16,7 @@ int main ()
     
     for(int i = 0; i < n; i++)
     {
-        printf("#", %i, n);
+        printf("#", n);
     }
     
     return 0;
