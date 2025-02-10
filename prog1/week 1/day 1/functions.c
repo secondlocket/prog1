@@ -55,6 +55,10 @@ int times_two(int a)
 {
     return a * 2;
 }
+void print_int(int a)
+{
+    printf("times two = %i\n", a);
+}
 
 //ex.1 half functie
 int half(int a)
