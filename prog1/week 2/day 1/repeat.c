@@ -9,7 +9,7 @@ int main ()
     
     int i = 0;
     
-    while (i < input_n + 1)
+    while (i < input_n)
     {
         printf("%s\n", input_w);
         i++;
