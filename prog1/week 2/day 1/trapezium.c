@@ -12,23 +12,13 @@ int main ()
     while(n < 5 || n > 20);
     
     //eerste regel
-    printf(" ")
-    
-    for(i = 0; i < n - 1; i++)
-    {
-        //spatie links
-        for (int y = 0; y < n - i - 1; y++)
+    if(i > 0)
         {
-            printf(".");
+            for (i = 0; i < n * 2; i++)
+            {
+                printf("#");
+            }
         }
-        
-        //#
-        for (int y = 0; y < n - i - 1; y++)
-        {
-            printf("#");
-        }
-        
-        printf("\n");
-    }
+
     return 0;
 }
