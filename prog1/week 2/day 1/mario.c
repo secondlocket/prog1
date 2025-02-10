@@ -9,7 +9,7 @@ int main () {
     }
     while(n < 1 || n > 8);
     
-    //loop
+    //loop R-aligned
     for(int i = 0; i < n; i++)
     {
         //spaties
