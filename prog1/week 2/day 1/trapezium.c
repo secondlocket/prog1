@@ -12,7 +12,7 @@ int main (int argc, string argv[])
     {
         n = get_int("hoe hoog moet het trapezium zijn? = ");
     }
-    while(n < 5 || n > 20);
+    while (n < 5 || n > 20);
    
     //eerste regel
     for (j = 0; j < n; j++)
