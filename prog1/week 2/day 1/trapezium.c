@@ -22,9 +22,9 @@ int main ()
                 printf(" ");
             }
         }
-    if(i > 0)
+    if(j > 0)
         {
-            for (i = 0; i < n * 2; i++)
+            for (j = 0; i < n * 2; i++)
             {
                 printf("#");
             }
