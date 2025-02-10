@@ -4,7 +4,7 @@
 int main ()
 {
     int n;
-    n = get_int("")
+    n = get_int("hoe hoog is je piramide? = ")
     do
     {
         printf("hoe hoog is je piramide? = "\n);
