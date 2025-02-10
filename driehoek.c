@@ -13,7 +13,7 @@ int main ()
     for(int i = 0; i < n; i++)
     {
         //spatie buiten
-        for (int y = 1; y < n - i - 1; y++)
+        for (int y = 0; y < n - i - 1; y++)
         {
             printf(" ");
         }
