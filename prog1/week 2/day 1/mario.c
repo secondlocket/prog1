@@ -23,8 +23,8 @@ int main () {
         {
             printf("#");
         }
+        
+        //loop L-aligned
         printf("\n");
     }
-        
-    //loop L-aligned
 }
