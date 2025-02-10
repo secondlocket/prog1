@@ -12,7 +12,7 @@ int main ()
     while(n < 5 || n > 20);
     
     //eerste regel
-    if(i > 0)
+    if(int i > 0)
         {
             for (i = 0; i < n - 1; i++)
             {
