@@ -12,6 +12,34 @@ int main ()
     
     for(int i = 0; i < n; i++)
     {
+        for (int y = 0; y < n - i - 1; y++)
+        {
+            printf(" ");
+        }
         
+        //#
+        for(int j = 0; j <= i; j++)
+        {
+            printf("#");
+        }
+        
+        //spatie ertussen
+        printf(" ");
+        
+        //loop L-aligned
+        //#
+        for(int j = 0; j <= i; j++)
+        {
+            printf("#");
+        }
+        
+        //spaties
+        for (int y = 0; y < n - i - 1; y++)
+        {
+            printf(" ");
+        }
+        
+        printf("\n");
+    }
     }
 }
