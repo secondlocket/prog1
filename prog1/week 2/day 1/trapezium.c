@@ -10,6 +10,7 @@ int main ()
     }
     while(n < 5 || n > 20)
     
+    //eerste regel
     
     
     return 0;
