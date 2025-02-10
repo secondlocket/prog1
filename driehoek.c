@@ -39,7 +39,7 @@ int main ()
     
     if(i = n)
     {
-        
+        printf()
     }
 
 }
