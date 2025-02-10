@@ -12,7 +12,7 @@ int main () {
     
     for(int i = 0; i < n; i++)
     {
-        //loop R-gericht
+        //loop R-aligned
         //spaties
         for (int y = 0; y < n - i - 1; y++)
         {
@@ -28,7 +28,7 @@ int main () {
         //spatie ertussen
         printf(" ");
         
-        //loop L-gericht
+        //loop L-aligned
         //#
         for(int j = 0; j <= i; j++)
         {
