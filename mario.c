@@ -6,7 +6,7 @@ int main ()
     int n;
     do
     {
-        n = get_int("hoe hoog is je piramide? = "\n);
+        n = get_int("hoe hoog is je piramide? (typ iets tussen 1 en 8 in) = "\n);
         
     }
     while(0>n<8);
