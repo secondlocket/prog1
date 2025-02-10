@@ -32,7 +32,7 @@ int main ()
         //spaties
         for (int y = 0; y < n - i - 1; y++)
         {
-            printf(" ");
+            printf(".");
         }
         
         printf("\n");
