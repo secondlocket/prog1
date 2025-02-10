@@ -25,6 +25,17 @@ int main () {
         }
         
         //loop L-aligned
+        for (int y = 0; y < n - i - 1; y++)
+        {
+            printf(" ");
+        }
+        
+        //#
+        for(int j = 0; j <= i; j++)
+        {
+            printf("#");
+        }
+        
         printf("\n");
     }
 }
