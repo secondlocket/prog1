@@ -3,6 +3,8 @@
 
 int main ()
 {
+    int n;
+    do
     int n = get_int("hoe hoog moet het trapezium zijn? = ")
     
 }
