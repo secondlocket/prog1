@@ -36,13 +36,5 @@ int main ()
         
         printf("\n");
     }
-    
-    if(i = n)
-    {
-        for (int y = 0; y < n - i - 1; y++)
-        {
-            printf("#");
-        }
-    }
 
 }
