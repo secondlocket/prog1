@@ -47,7 +47,11 @@ int main (int argc, string argv[])
     }
 
     //laatste regel
-    
+    for (i = 0; i < n * 2; i++)
+        {
+            printf("#");
+        }
+        printf("\n");
 
     return 0;
 }
