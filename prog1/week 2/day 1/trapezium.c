@@ -8,7 +8,7 @@ int main ()
     {
         int n = get_int("hoe hoog moet het trapezium zijn? = ");
     }
-    while(n < 5 || n > 20)
+    while(n < 5 || n > 20);
     
     //eerste regel
     for(i = 0; i < n - 1; i++)
