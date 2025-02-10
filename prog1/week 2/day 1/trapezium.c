@@ -43,14 +43,6 @@ int main (int argc, string argv[])
         }
         
         printf("#");
-        
-        //spaties R
-            for (j = 0; y < n - 1; y++)
-            {
-                printf(".");
-            }
-        
-        printf("\n");
         }
     }
     
