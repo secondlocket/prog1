@@ -33,7 +33,7 @@ int main (int argc, string argv[])
     }
     
     //trapezium zelf
-    for()
+    for ()
     
     
     //laatste regel
