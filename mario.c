@@ -5,7 +5,7 @@ int main ()
 {
     do
     {
-        printf("hoe groot is je pyramid? = "\n);
+        printf("hoe hoog is je pyramid? = "\n);
         
     }
     while(0>i<8);
