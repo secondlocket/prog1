@@ -7,7 +7,7 @@ void main () {
     int input_n = get_int("Hoeveel keer wil je dit zeggen? = ");
     
     while (input_n > 0){
-        printf(get_string)
+        printf(input_w)
     }
     
     
