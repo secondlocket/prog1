@@ -42,7 +42,7 @@ int main (int argc, string argv[])
             printf(" ");
         }
         
-        printf("#");
+        printf("#\n");
         }
     }
     
