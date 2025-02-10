@@ -36,5 +36,7 @@ int main ()
         
         printf("\n");
     }
+    
+    if(i = n)
 
 }
