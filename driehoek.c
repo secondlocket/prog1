@@ -23,7 +23,7 @@ int main ()
         //spatie binnen
         for(int j = 0; j <= i; j++)
         {
-            printf(".");
+            printf("..");
         }
         
         printf("#");
