@@ -6,7 +6,7 @@ int main ()
     int n;
     do 
     {
-        n = get_int("hoe hoog moet de driehoek zijn? = ");
+        n = get_int("hoe hoog moet de driehoek zijn? (tussen 5 en 20) = ");
     }
     while(n < 5 || n > 20);
     
