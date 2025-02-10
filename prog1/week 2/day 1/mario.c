@@ -5,7 +5,7 @@ int main ()
 {
     //hoogte van piramide
     int n;
-    do
+   // do
     {
         n = get_int("hoe hoog is je piramide? (typ iets tussen 1 en 8 in) = ");
         
