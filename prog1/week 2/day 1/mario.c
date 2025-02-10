@@ -17,7 +17,7 @@ int main ()
     for(int i = 0; i < n; i++)
     {
         //spaties
-        for(int y = 8; y <= i; y--)
+        for(int y = 7; y <= i; y--)
         {
             printf(".");
         }
