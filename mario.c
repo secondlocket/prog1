@@ -3,6 +3,6 @@
 
 int main ()
 {
-    while()
+    while(i)
     
 }
