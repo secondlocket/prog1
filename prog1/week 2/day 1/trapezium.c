@@ -12,7 +12,7 @@ int main ()
     while(n < 5 || n > 20);
     
     //eerste regel
-    printf
+    printf(" ")
     
     for(i = 0; i < n - 1; i++)
     {
