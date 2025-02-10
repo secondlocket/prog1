@@ -3,10 +3,10 @@
 
 int main ()
 {
-    while(0>i<8)
+    do
     {
         printf("hoe groot is je pyramid? = "\n);
         
     }
-    
+    while(0>i<8)
 }
