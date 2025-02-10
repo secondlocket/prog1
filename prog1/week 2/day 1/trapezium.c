@@ -12,6 +12,8 @@ int main ()
     while(n < 5 || n > 20);
     
     //eerste regel
+    
+    
     for(i = 0; i < n - 1; i++)
     {
         //spatie links
