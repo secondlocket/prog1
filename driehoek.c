@@ -24,7 +24,7 @@ int main ()
             printf(" ");
         }
         
-        //spatie rechts
+        //spatie binnen
         for(int j = 0; j <= i; j++)
         {
             printf(" ");
@@ -32,7 +32,7 @@ int main ()
         
         printf("#");
         
-        //spaties
+        //spatie buiten
         for (int y = 0; y < n - i - 1; y++)
         {
             printf(" ");
