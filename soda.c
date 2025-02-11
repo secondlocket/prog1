@@ -40,7 +40,6 @@ int main ()
         }
     }
     while (n < 50);
-    
-    
+
     return 0;
 }
