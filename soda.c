@@ -14,8 +14,8 @@ int main ()
     {
         //money inserted
         n = get_int ("Insert coin = ");
-    //change 
-    int change = x - 50;
+        //change 
+        int change = x - 50;
     
         x = 50 - n;
         
