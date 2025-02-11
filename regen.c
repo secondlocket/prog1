@@ -3,5 +3,5 @@
 
 int main () 
 {
-    int h = get_int()
+    int h = get_int("Hoeveel = ")
 }
