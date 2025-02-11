@@ -21,7 +21,7 @@ int main ()
         }
         else
         {
-            printf("%.2d cents owed", x)
+            printf("%.2d cents owed", )
         }
         printf()
     }
