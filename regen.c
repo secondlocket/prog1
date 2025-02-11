@@ -21,7 +21,7 @@ int main ()
             break;
         }
         
-        totaal_regen = totaal_regen + h
+        int totaal_regen = totaal_regen + h
     }
     while (h < 999);
    
