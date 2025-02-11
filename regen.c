@@ -14,6 +14,7 @@ int main ()
         h = get_int("Hoeveel: ");
     
         aantal_dagen++;
+        totaal_regen = totaal_regen + h;
         
         if (h == 999)
         {
