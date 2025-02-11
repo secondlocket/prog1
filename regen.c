@@ -21,7 +21,7 @@ int main ()
         }
         
         int totaal_regen = totaal_regen + h
-        aantal_dagen 
+        aantal_dagen++;
     }
     while (h < 999);
    
