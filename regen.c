@@ -5,7 +5,7 @@ int main ()
 {
     int h = 0;
     int aantal_dagen = 0;
-    int totaal_regen;
+    int totaal_regen = 0;
 
     printf("Voer hoeveelheid van regen per dag, typ 999 in om af te sluiten\n");
 
