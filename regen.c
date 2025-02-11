@@ -4,7 +4,6 @@
 int main () 
 {
     int h = 0;
-    int totaal_regen = ;
     int aantal_dagen;
     
     int g = totaal_regen / aantal_dagen
@@ -22,6 +21,7 @@ int main ()
         }
         
         int totaal_regen = totaal_regen + h
+        aantal_dagen = 
     }
     while (h < 999);
    
