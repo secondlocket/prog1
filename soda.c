@@ -15,7 +15,7 @@ int main ()
         // money inserted
         int n = get_int ("Insert coin = \n")
         
-        if(n != 5 || n != 25 )
+        if(n != 5 || n != 10 || n != )
         
         if (x < 50)
         {
