@@ -3,7 +3,7 @@
 
 int main ()
 {
-    //
+    //n = money inserted
     int n = 0;
     int x = 0;
     
