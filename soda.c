@@ -39,7 +39,6 @@ int main ()
     }
     while (n < 50);
     
-    //money inserted
-        n = get_int ("Insert coin = ");
+    
     return 0;
 }
