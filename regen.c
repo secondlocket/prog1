@@ -12,8 +12,10 @@ int main ()
     do
     {
         h = get_int("Hoeveel: ");
+        
         totaal_regen = totaal_regen + h;
         aantal_dagen++;
+        
         if (h == 999)
         {
             printf("Dat kan niet");
