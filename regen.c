@@ -22,7 +22,7 @@ int main ()
     }
     while (h < 999);
    
-    printf("Gemiddeld %i millimeter",regen);
+    printf("Gemiddeld %i millimeter", g);
     
     return 0;
 }
