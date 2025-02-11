@@ -11,7 +11,7 @@ int main ()
     {
         h = get_int("Hoeveel: ");
         
-        if (h == 999 || h<0)
+        if (h == 999 || h < 1)
         {
             printf("Dat kan niet");
             break;
