@@ -16,9 +16,6 @@ int main ()
         //x = money owed
         x = 50 - n;
         
-        //money inserted
-        n = get_int ("Insert coin = ");
-        
         if (x < 50)
         {
             printf("%.2d cents owed", x);
