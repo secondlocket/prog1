@@ -18,6 +18,7 @@ int main ()
             printf("Dat kan niet");
             break;
         }
+        
         if (h==0)
     {
         printf("Gemiddeld %.3d millimeter", g);
