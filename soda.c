@@ -15,7 +15,7 @@ int main ()
         
         if (x < 50)
         {
-            printf("%.2d cents owed")
+            printf("%.2d cents owed", x )
             continue;
         }
         else
