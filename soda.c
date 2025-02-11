@@ -22,7 +22,7 @@ int main ()
         }
         else
         {
-            printf("%.2d cents change", owed)
+            printf("%.2d cents change", change)
             break;
         }
     }
