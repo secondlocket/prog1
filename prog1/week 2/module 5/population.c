@@ -1,0 +1,1 @@
+$ curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/population/population.c
