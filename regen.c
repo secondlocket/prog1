@@ -3,6 +3,6 @@
 
 int main () 
 {
-    printf("Voer hoeveelheid van regen per dag, ")
+    printf("Voer hoeveelheid van regen per dag, typ 999 in ")
     int h = get_int("Hoeveel: ")
 }
