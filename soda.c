@@ -14,7 +14,7 @@ int main ()
     do 
     {
         //x = money owed
-    x = 50 - n;
+        x = 50 - n;
         
         / money inserted
         n = get_int ("Insert coin = ");
