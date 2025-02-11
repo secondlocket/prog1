@@ -8,7 +8,7 @@ int main ()
     do 
     {
         int n = get_int ("Insert coin = \n")
-        
+        printf()
     }
     while (n < 50)
     
