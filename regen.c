@@ -24,7 +24,7 @@ int main ()
         
         if (h==0)
         {
-            int g = totaal_regen / (aantal_dagen - 1);
+            float g = totaal_regen / (aantal_dagen - 1);
             printf("Gemiddeld %0.3f millimeter", g);
             break;
         }
