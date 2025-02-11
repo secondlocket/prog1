@@ -4,7 +4,9 @@
 int main () 
 {
     int h = 0;
-    int regen;
+    int totaal_regenregen;
+    int g
+    
 
     g = totaal_regen / aantal_dagen
 
