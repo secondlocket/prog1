@@ -5,5 +5,6 @@ int main ()
 {
     int n;
     int born = n / 3;
-    int 
+    int die = n / 4;
+    
 }
