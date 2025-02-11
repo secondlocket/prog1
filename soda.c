@@ -10,13 +10,13 @@ int main ()
     
     printf("50 cents owed\n");
     
-    //money inserted
-    n = get_int ("Insert coin = ");
+    do 
+    {
+        //money inserted
+        n = get_int ("Insert coin = ");
     //change 
     int change = x - 50;
     
-    do 
-    {
         x = 50 - n;
         
         if (x < 50)
