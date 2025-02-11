@@ -9,7 +9,7 @@ int main ()
     {
         
     }
-    while
+    while ()
     
-    
+    return 0;
 }
