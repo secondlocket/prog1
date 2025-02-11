@@ -5,6 +5,7 @@ int main ()
 {
     printf("50 cents owed")
     
+    //money owed
     int x
     
     
