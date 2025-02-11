@@ -23,7 +23,7 @@ int main ()
         
         ins += n;
         
-        if (x < 50)
+        if (ins < 50)
         {
             printf("%.2d cents owed", x);
             continue;
