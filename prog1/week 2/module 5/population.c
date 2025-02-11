@@ -3,5 +3,5 @@
 
 int main()
 {
-    int n = get_int("wafbwohgf")
+    int n = get_int("wafbwohgf");
 }
