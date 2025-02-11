@@ -22,8 +22,8 @@ int main ()
         else
         {
             printf("%.2d cents change", owed)
+            break;
         }
-        printf()
     }
     while (n < 50)
     
