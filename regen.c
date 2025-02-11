@@ -3,7 +3,7 @@
 
 int main () 
 {
-    int h = 0;
+    float h = 0;
     int aantal_dagen = 0;
     int totaal_regen = 0;
 
