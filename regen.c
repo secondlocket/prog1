@@ -10,6 +10,11 @@ int main ()
     do
     {
         h = get_int("Hoeveel: ");
+        
+        if (h == 999)
+        {
+            printf("Dat kan niet");
+        }
     }
     while (h < 1000);
     
