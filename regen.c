@@ -24,6 +24,14 @@ int main ()
         
         if (h==0)
         {
+            if (aantal_dagen == 0)
+            {
+                printf("Geen data ingevoerd\n");
+            }
+            else
+            {
+                
+            }
             int g = totaal_regen / aantal_dagen;
             printf("Gemiddeld %.3d millimeter", g);
         }
