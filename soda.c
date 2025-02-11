@@ -18,6 +18,9 @@ int main ()
             continue;
         }
         else
+        {
+            
+        }
         printf()
     }
     while (n < 50)
