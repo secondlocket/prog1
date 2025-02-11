@@ -3,6 +3,8 @@
 
 int main ()
 {
+    //te betalen bedrag
+    int t = 50;
     //n = money inserted
     int n = 0;
     //x = money owed
