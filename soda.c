@@ -33,7 +33,6 @@ int main ()
             break;
         }
         
-        
     }
     while (n < 50);
 
