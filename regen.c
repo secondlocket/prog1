@@ -19,7 +19,7 @@ int main ()
     }
     while (h < 999);
    
-    printf()
+    printf("Gemiddld")
     
     return 0;
 }
