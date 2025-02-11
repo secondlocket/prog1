@@ -15,7 +15,7 @@ int main ()
         
         if (x < 50)
         {
-            
+            printf("")
             continue;
         }
         else
