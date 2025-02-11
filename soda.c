@@ -25,7 +25,7 @@ int main ()
         
         if (ins < t)
         {
-            printf("%.2d cents owed", x);
+            printf("%.2d cents owed", (t - ins));
             continue;
         }
         else
