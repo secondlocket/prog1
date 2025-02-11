@@ -3,6 +3,8 @@
 
 int main ()
 {
+    int n = 0;
+    
     printf("50 cents owed");
     
     //x = money owed
