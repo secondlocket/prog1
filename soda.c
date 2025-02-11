@@ -8,8 +8,8 @@ int main ()
     printf("50 cents owed");
     
     //x = money owed
-    int x = 50 - n
-    //
+    int x = 50 - n;
+    //change 
     int change = x - 50;
     
     do 
