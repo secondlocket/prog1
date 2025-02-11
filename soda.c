@@ -21,7 +21,7 @@ int main ()
             continue;
         }
         
-        n
+        ins +=
         
         if (x < 50)
         {
