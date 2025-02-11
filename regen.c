@@ -20,6 +20,8 @@ int main ()
             printf("Dat kan niet");
             break;
         }
+        
+        totaal_regen
     }
     while (h < 999);
    
