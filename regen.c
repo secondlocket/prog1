@@ -35,12 +35,7 @@ int main ()
             }
             break;
         }
-        
-        
-        
-   
-    
-    
+
     }
     while (h < 999);
    
