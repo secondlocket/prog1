@@ -9,7 +9,7 @@ int main ()
     
     do
     {
-        int h = get_int("Hoeveel: ");
+        h = get_int("Hoeveel: ");
     }
     
 }
