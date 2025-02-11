@@ -5,8 +5,6 @@ int main ()
 {
     int h = 0;
     int aantal_dagen;
-    
-    int g = totaal_regen / aantal_dagen
 
     printf("Voer hoeveelheid van regen per dag, typ 999 in om af te sluiten\n");
 
@@ -25,6 +23,8 @@ int main ()
     
     }
     while (h < 999);
+   
+   int g = totaal_regen / aantal_dagen
    
     printf("Gemiddeld %i millimeter", g);
     
