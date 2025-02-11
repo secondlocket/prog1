@@ -26,15 +26,7 @@ int main ()
             break;
         }
         
-        if (n != 5 || n != 10 || n != 25)
-        {
-            printf("Sorry, we only accept 5, 10 or 25 cents, please try again\n");
-            continue;
-        }
-        else
-        {
-            continue;
-        }
+        
     }
     while (n < 50);
 
