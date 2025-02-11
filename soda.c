@@ -7,7 +7,7 @@ int main ()
     
     //x = money owed
     int x = 50 - n
-    int owed = 
+    int owed = x - 50
     
     do 
     {
