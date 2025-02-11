@@ -1,4 +1,8 @@
 #include <stdio.h>
 #include <cs50.h>
 
-int m
+int main ()
+{
+    int n;
+    
+}
