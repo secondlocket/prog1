@@ -11,6 +11,7 @@ int main ()
     
     do 
     {
+        // money inserted
         int n = get_int ("Insert coin = \n")
         
         if (x < 50)
