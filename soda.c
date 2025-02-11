@@ -15,7 +15,7 @@ int main ()
     do 
     {
         // money inserted
-        n = get_int ("Insert coin = \n")
+        n = get_int ("Insert coin = \n");
         
         if (n != 5 || n != 10 || n != 25)
         {
