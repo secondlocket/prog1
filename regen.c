@@ -11,7 +11,7 @@ int main ()
     {
         h = get_int("Hoeveel: ");
     }
-    while (h < 999);
+    while (h < 1000);
     
     return 0;
 }
