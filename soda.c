@@ -33,7 +33,7 @@ int main ()
             break;
         }
     }
-    while (n < 50);
+    while (ins < t);
 
     return 0;
 }
