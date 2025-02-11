@@ -3,5 +3,5 @@
 
 int main()
 {
-    int n = get_int
+    int n = get_int("wafbwohgf")
 }
