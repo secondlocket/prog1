@@ -12,7 +12,12 @@ int main ()
         h = get_int("Hoeveel: ");
         
     }
-    while (h < 1000);
+    while (h < 999);
+   
+    if (h == 999)
+        {
+            printf("Dat kan niet");
+        }
     
     
     return 0;
