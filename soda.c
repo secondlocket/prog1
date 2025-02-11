@@ -7,7 +7,7 @@ int main ()
     
     do 
     {
-        int n = get_int ()
+        int n = get_int ("")
     }
     while (n < 50)
     
