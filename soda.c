@@ -17,7 +17,6 @@ int main ()
     
     do 
     {
-        //x = money owed
         x = 50 - n;
         
         if (x < 50)
