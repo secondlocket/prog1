@@ -29,9 +29,8 @@ int main ()
    
     if (h==0)
     {
-        
+        printf("Gemiddeld %.3d millimeter", g);
     }
-    printf("Gemiddeld %.3d millimeter", g);
     
     return 0;
 }
