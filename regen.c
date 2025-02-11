@@ -3,6 +3,6 @@
 
 int main () 
 {
-    printf("")
+    printf("Voer ")
     int h = get_int("Hoeveel: ")
 }
