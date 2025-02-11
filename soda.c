@@ -7,9 +7,7 @@ int main ()
     int x = 0;
     
     printf("50 cents owed\n");
-    
-    //x = money owed
-    x = 50 - n;
+
     //change 
     int change = x - 50;
     
