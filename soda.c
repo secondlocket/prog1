@@ -32,7 +32,7 @@ int main ()
             printf("%d cents change\n", ins - total);
             break;
         }
-        
+    
     }
     while (n < 50);
 
