@@ -15,6 +15,8 @@ int main ()
         // money inserted
         int n = get_int ("Insert coin = \n")
         
+        if
+        
         if (x < 50)
         {
             printf("%.2d cents owed", x)
