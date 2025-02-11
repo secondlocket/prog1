@@ -37,7 +37,7 @@ int main ()
             break;
         }
     }
-    while (n < 50)
+    while (n < 50);
     
     return 0;
 }
