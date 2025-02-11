@@ -7,7 +7,9 @@ int main ()
     int x = 0;
     
     printf("50 cents owed\n");
-
+    
+    //money inserted
+    n = get_int ("Insert coin = ");
     //change 
     int change = x - 50;
     
