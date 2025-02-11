@@ -3,5 +3,5 @@
 
 int main () 
 {
-    int h = 
+    int h = get_int
 }
