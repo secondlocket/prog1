@@ -8,5 +8,5 @@ int main ()
     int die = n / 4;
     int llama = n + born - die;
     
-    return 0
+    return 0;
 }
