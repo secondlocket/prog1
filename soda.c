@@ -9,7 +9,7 @@ int main ()
     {
         
     }
-    while ()
+    while (n < 50)
     
     return 0;
 }
