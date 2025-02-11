@@ -14,8 +14,6 @@ int main ()
     {
         //money inserted
         n = get_int ("Insert coin = ");
-    
-        x = 50 - n;
         
         if (x < 50)
         {
