@@ -13,7 +13,10 @@ int main ()
     
     do 
     {
-        // money inserted
+        //x = money owed
+    x = 50 - n;
+        
+        / money inserted
         n = get_int ("Insert coin = ");
         
         if (x < 50)
