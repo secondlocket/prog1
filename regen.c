@@ -28,6 +28,7 @@ int main ()
             {
                 printf("Geen data ingevoerd\n");
             }
+            
             else
             {
                 int g = totaal_regen / aantal_dagen;
