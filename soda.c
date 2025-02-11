@@ -13,7 +13,7 @@ int main ()
     {
         int n = get_int ("Insert coin = \n")
         
-        if (n<50)
+        if (x < 50)
         {
             
         }
