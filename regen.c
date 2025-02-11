@@ -28,8 +28,6 @@ int main ()
             printf("Gemiddeld %.3d millimeter", g);
         }
         break;
-        
-
     }
     while (h < 999);
   
