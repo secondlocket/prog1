@@ -31,7 +31,7 @@ int main ()
             {
                 int g = totaal_regen / aantal_dagen;
                 printf("Gemiddeld %.3d millimeter", g);
-                totaal_regen = totaal_regen + h;
+                
             }
             break;
         }
