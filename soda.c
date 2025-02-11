@@ -5,7 +5,7 @@ int main ()
 {
     //te betalen bedrag
     int t = 50;
-    //n = money inserted
+    //n = ingevoerd geld
     int ins = 0;
     
     printf("50 cents owed\n");
