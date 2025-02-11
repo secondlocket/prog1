@@ -20,9 +20,9 @@ int main ()
         }
         
         if (h==0)
-    {
-        printf("Gemiddeld %.3d millimeter", g);
-    }
+        {
+            printf("Gemiddeld %.3d millimeter", g);
+        }
         
         totaal_regen = totaal_regen + h;
         aantal_dagen++;
