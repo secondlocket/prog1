@@ -18,7 +18,7 @@ int main ()
             break;
         }
         
-        int totaal_regen = totaal_regen + h;
+        totaal_regen = totaal_regen + h;
         aantal_dagen++;
     
     }
