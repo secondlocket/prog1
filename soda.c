@@ -19,6 +19,10 @@ int main ()
         {
             printf("Sorry, we only accept 5, 10 or 25 cents, please try again");
         }
+        else
+        {
+            continue;
+        }
         
         if (x < 50)
         {
