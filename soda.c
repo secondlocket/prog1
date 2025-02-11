@@ -14,6 +14,9 @@ int main ()
         int n = get_int ("Insert coin = \n")
         
         if
+        {
+            
+        }
         printf()
     }
     while (n < 50)
