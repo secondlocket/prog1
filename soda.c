@@ -29,7 +29,7 @@ int main ()
         }
         else
         {
-            printf("%d cents change\n", ins - total);
+            printf("%d cents change\n", ins - t);
             break;
         }
     }
