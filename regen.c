@@ -4,7 +4,7 @@
 int main () 
 {
     int h = 0;
-    
+    int regen 
     printf("Voer hoeveelheid van regen per dag, typ 999 in om af te sluiten\n");
 
     do
