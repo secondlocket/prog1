@@ -16,7 +16,7 @@ int main ()
         //x = money owed
         x = 50 - n;
         
-        / money inserted
+        //money inserted
         n = get_int ("Insert coin = ");
         
         if (x < 50)
