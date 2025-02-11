@@ -33,7 +33,7 @@ int main ()
         }
         else
         {
-            printf("%d cents change", change)
+            printf("%d cents change", change);
             break;
         }
     }
