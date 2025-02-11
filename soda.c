@@ -15,6 +15,16 @@ int main ()
         //money inserted
         n = get_int ("Insert coin = ");
         
+        if (n != 5 || n != 10 || n != 25)
+        {
+            printf("Sorry, we only accept 5, 10 or 25 cents, please try again\n");
+            continue;
+        }
+        else
+        {
+            continue;
+        }
+        
         if (x < 50)
         {
             printf("%.2d cents owed", x);
