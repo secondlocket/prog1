@@ -29,7 +29,7 @@ int main ()
         }
         else
         {
-            printf("%d cents change", change);
+            printf("%d cents change\n", change);
             break;
         }
         
