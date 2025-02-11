@@ -3,5 +3,6 @@
 
 int main () 
 {
+    printf("")
     int h = get_int("Hoeveel: ")
 }
