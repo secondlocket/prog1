@@ -5,6 +5,9 @@ int main ()
 {
     printf("50 cents owed")
     
+    
+    
+    
     do 
     {
         int n = get_int ("Insert coin = \n")
