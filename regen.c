@@ -19,7 +19,7 @@ int main ()
     }
     while (h < 999);
    
-    printf("Gemiddeld %i millimeter");
+    printf("Gemiddeld %i millimeter",);
     
     return 0;
 }
