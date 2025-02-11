@@ -4,7 +4,9 @@
 int main () 
 {
     int h = 0;
-    int regen 
+    int regen;
+
+    regen = aantal_
     printf("Voer hoeveelheid van regen per dag, typ 999 in om af te sluiten\n");
 
     do
