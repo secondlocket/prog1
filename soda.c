@@ -6,7 +6,7 @@ int main ()
     //n = money inserted
     int n = 0;
     //x = money owed
-    int x = 50;
+    int x = 0;
     
     printf("50 cents owed\n");
     
