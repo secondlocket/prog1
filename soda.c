@@ -6,7 +6,7 @@ int main ()
     printf("50 cents owed")
     
     //x = money owed
-    int x
+    int x = 50 - n
     
     
     do 
@@ -15,7 +15,7 @@ int main ()
         
         if (x < 50)
         {
-            printf("%.2d cents owed", x )
+            printf("%.2d cents owed", x)
             continue;
         }
         else
