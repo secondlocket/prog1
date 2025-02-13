@@ -2,7 +2,7 @@
 #include <cs50.h>
 #include <string.h>
 
-//functie om te controleren
+//functie om te controleren of het volgende woord 
 
 
 int main ()
