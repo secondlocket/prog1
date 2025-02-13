@@ -11,7 +11,7 @@ int input1
         do
         {
             printf(string[0]);
-            
+            n--;
         }
         while (n > 0);
     }
