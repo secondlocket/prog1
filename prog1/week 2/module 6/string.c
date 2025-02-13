@@ -5,9 +5,7 @@
     //vertical functie
     void vertical(string input)
     {
-        
         strlen
-        
     }
 
     //skip functie
