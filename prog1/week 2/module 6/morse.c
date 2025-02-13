@@ -9,5 +9,5 @@
 
 int main()
 {
-    string morse = get_string
+    string morse = get_string("Geef een morse code: ")
 }
