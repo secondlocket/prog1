@@ -2,7 +2,7 @@
 #include <cs50.h>
 #include <string.h>
 
-//functie om te controleren of het volgende woord begint met hetzelfde letter
+//functie om te controleren of het volgende woord begint met dezelfde letter
 
 
 int main ()
