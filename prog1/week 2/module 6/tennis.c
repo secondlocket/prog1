@@ -26,6 +26,7 @@ int main ()
     if (beurt == 2)
     {
         string speler2 = get_string("Speler 2, geef een woord = ");
+        beurt = 1
     }
     
     return 0;
