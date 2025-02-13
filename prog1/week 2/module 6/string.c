@@ -15,7 +15,7 @@
     //skip functie
     void skip(char *input)
     {
-        if()
+        if(n%2)
     }
     
     //eek functie
