@@ -4,6 +4,6 @@
 
 int main ()
 {
-    string speler1 = get_string("Speler 1 ")
+    string speler1 = get_string("Speler 1, geef een woord = ")
     string speler2 
 }
