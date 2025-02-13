@@ -23,7 +23,7 @@ int input1;
 int main()
 {
     //vertical test
-    vertical(str);
+    vertical("str");
     return 0;
     
     return 0;
