@@ -33,10 +33,11 @@
         int n = 0;
         
         for (i = 0; i < strlen(input); i++)
-        if (input == 69 || input == 101)
         {
-            n++;
-        }
+            if (input == 69 || input == 101)
+            {
+                n++;
+            }
         printf("The text "%c" contains %i e's", input, n)
     }
     
