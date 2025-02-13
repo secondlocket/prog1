@@ -26,10 +26,6 @@ char omzetting(const char* morse)
     {
         return('R');
     }
-    else
-    {
-        return('?');
-    }
 }
 
 
