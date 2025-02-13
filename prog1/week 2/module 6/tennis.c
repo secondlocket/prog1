@@ -24,5 +24,9 @@ int main ()
         while()
     }
     
+    if (beurt == 2)
+    {
+        
+    }
     return 0;
 }
