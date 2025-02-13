@@ -11,6 +11,7 @@ int input1
         do
         {
             printf(string[0])
+            
         }
         while (n > 0)
     }
