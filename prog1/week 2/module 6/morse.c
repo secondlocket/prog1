@@ -51,7 +51,7 @@ int main()
         printf("%c", letter);
     }
     
-    printf("\n")
+    printf("\n");
     
     return 0;
 }
