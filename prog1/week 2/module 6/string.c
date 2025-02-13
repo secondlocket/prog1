@@ -22,10 +22,6 @@
             {
                 printf("%c", input[i]);
             }
-            else
-            {
-                continue;
-            }
         }
     }
     
