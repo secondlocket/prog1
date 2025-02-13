@@ -52,6 +52,7 @@ int main()
     
     //skip test
     skip("Great, gifts!");
+    printf("\n")
     
     //eek test
     eek("Eeeek! a mouse!");
