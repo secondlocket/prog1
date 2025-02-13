@@ -5,7 +5,7 @@
 //functie om te controleren of het volgende woord begint met dezelfde letter
 int begint_met(char *woord, char letter)
 {
-    
+    return tolower
 }
 
 int main ()
