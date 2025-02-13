@@ -4,7 +4,7 @@
 
 int main ()
 {
-    string speler1 = get_string("Speler 1, geef een woord = \n");
+    string speler1 = get_string("Speler 1, geef een woord = ");
     string speler2 = get_string("Speler 2, geef een woord = \n");
     
     return 0;
