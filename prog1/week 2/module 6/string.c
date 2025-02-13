@@ -81,7 +81,7 @@ int main()
     printf("\n");
     
     //bob test
-    //bob("Know your meme");
+    bob("Know your meme");
     
     return 0;
 }
