@@ -39,6 +39,7 @@
                 n++;
             }
         }
+        
         printf("The text \"%s\" contains %i e's\n", input, n);
     }
     
@@ -60,6 +61,8 @@
                 tolower(i);
             }
         }
+        
+        
     }
 
 int main()
