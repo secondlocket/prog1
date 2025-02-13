@@ -24,6 +24,10 @@ int main ()
             laaste_letter = speler1[strlen(speler1) - 1]
             beurt = 2;
         }
+        else
+        {
+            printf("Speler ")
+        }
     }
     
     //speler2 
