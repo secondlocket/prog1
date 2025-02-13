@@ -49,6 +49,7 @@ int main()
 {
     //vertical test
     vertical("tokyo hotel");
+    printf
     
     //skip test
     skip("Great, gifts!");
