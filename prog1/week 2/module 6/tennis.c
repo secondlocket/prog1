@@ -4,7 +4,7 @@
 
 //functie om te controleren of het volgende woord begint met dezelfde letter
 //letter is dus de laaste letter van het woord daarvoor
-int begint_met(char *woord, char letter)
+int begin(char *woord, char letter)
 {
     return tolower(woord[0]) == tolower(letter);
 }
