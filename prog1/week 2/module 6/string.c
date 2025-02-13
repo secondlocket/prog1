@@ -6,7 +6,9 @@ int main()
 {
     //vertical functie
     //skip functie
-    //
+    //eek functie
+    //bob functie
+    
     
     
     
