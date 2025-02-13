@@ -31,6 +31,7 @@ char omzetting(const char* morse)
 
 int main()
 {
+    for()
     string morse = get_string("Geef een morse code: ");
     
     //controleren dat het deelbaar door 3 is
