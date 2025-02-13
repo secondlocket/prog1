@@ -13,7 +13,10 @@
     }
 
     //skip functie
-    
+    void skip(char *input)
+    {
+        
+    }
     
     //eek functie
     
