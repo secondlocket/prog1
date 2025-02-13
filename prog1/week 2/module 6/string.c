@@ -22,6 +22,7 @@ int input1;
 
 int main()
 {
-    printf(vertical("tokyo hotel"));
+    //vertical test
+    vertical("tokyo hotel"));
     return 0;
 }
