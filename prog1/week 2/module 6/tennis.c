@@ -43,7 +43,7 @@ int main ()
         }
         else
         {
-            printf("Speler 1 wint!")
+            printf("Speler 1 wint!");
             break;
         }
     }
