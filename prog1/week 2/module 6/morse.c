@@ -8,7 +8,7 @@
 //R = 82
 
 //omzetting
-char 
+char omzetting
 
 
 int main()
