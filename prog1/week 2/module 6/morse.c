@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
+#include <string.h>
 
 //S = 83
 //O = 79
@@ -8,5 +9,5 @@
 
 int main()
 {
-    int morse = get_int 
+    string morse = get_string
 }
