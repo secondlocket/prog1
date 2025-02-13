@@ -33,6 +33,7 @@ int main()
 {
     for (int i = 0; i < 999; i++)
     {
+        int check = strlen(morse);
         string morse = get_string("Geef een morse code: ");
             if (check % 3 != 0)
         {
@@ -42,7 +43,7 @@ int main()
     
     
     //controleren dat het deelbaar door 3 is
-    int check = strlen(morse);
+    
     
     
     for (int i = 0; i < check; i += 3)
