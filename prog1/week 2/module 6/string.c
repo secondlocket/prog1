@@ -27,15 +27,15 @@
     }
     
     //eek functie
-    void eek(char *input)
-    {
-        int n = 0;
-        if (i = 69 || i = 101)
-        {
-            n++;
-        }
-        printf("The text "%c" contains %i e's", input[i], n)
-    }
+    //void eek(char *input)
+    //{
+    //    int n = 0;
+    //    if (i = 69 || i = 101)
+    //    {
+    //        n++;
+    //    }
+    //    printf("The text "%c" contains %i e's", input[i], n)
+    //}
     
     
     //bob functie
