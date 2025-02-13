@@ -17,6 +17,10 @@
     {
         if(n % 2 != 0)
         {
+            continue;
+        }
+        else
+        {
             
         }
     }
