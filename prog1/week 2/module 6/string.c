@@ -39,7 +39,7 @@
                 n++;
             }
         }
-        printf("The text \"%s\" contains %i e's", input, n)
+        printf("The text \"%s\" contains %i e's\n", input, n)
     }
     
     
