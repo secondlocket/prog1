@@ -14,7 +14,7 @@ char omzetting
     {
         return("S")
     }
-    else if (strcmp(morse, ""))
+    else if (strcmp(morse, "---"))
     {
         return()
     }
