@@ -9,7 +9,7 @@ int begint_met(char *woord, char letter)
     return tolower(woord[0]) == tolower(letter);
 }
 
-
+///////////////////////////
 int main ()
 {
     do
