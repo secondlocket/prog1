@@ -49,14 +49,15 @@ int main()
 {
     //vertical test
     vertical("tokyo hotel");
-    printf("\n")
+    printf("\n");
     
     //skip test
     skip("Great, gifts!");
-    printf("\n")
+    printf("\n");
     
     //eek test
     eek("Eeeek! a mouse!");
+    printf("\n")
     
     //bob test
     //bob("Know your meme");
