@@ -46,8 +46,8 @@ int main()
     
     for (int i = 0; i < check; i += 3)
     {
-        char morse_array[4] = {morse[i], morse[i+1], morse[i+2], '\0'}
-        char letter = omzetting(morse_array)
+        char morse_array[4] = {morse[i], morse[i+1], morse[i+2], '\0'};
+        char letter = omzetting(morse_array);
         printf("%c", letter);
     }
     
