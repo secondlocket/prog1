@@ -58,7 +58,7 @@
             }
             else
             {
-                tolower(i);
+                tolower(input[i]);
             }
         }
         
