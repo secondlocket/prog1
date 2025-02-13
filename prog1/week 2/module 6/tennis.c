@@ -26,7 +26,7 @@ int main ()
         }
         else
         {
-            printf("Speler ")
+            printf("Speler 2 wint!")
         }
     }
     
