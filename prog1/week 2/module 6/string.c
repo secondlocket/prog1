@@ -25,4 +25,5 @@ int main()
     //vertical test
     vertical("tokyo hotel");
     
+    return 0;
 }
