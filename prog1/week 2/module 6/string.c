@@ -56,7 +56,7 @@ int main()
     printf("\n");
     
     //eek test
-    eek("Eeeek! a mouse!");
+    eek("Eek! a mouse!");
     printf("\n");
     
     //bob test
