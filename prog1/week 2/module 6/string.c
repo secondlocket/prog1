@@ -22,6 +22,6 @@ int input1;
 
 int main()
 {
-    
+    c
     return 0;
 }
