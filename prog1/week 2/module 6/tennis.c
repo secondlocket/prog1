@@ -4,6 +4,7 @@
 
 //functie om te controleren
 
+
 int main ()
 {
     do
