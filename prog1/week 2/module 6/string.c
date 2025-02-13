@@ -5,9 +5,9 @@
 int input1;
 
     //vertical functie
-    void vertical(string input)
+    void vertical(char *input)
     {
-        int n = strlen(string input);
+        int n = strlen(input);
         do
         {
             printf("%s\n", str[0]);
