@@ -6,3 +6,7 @@
 //D = 68 
 //R = 82
 
+int main()
+{
+    int morse = get_
+}
