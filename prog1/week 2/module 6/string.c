@@ -17,7 +17,7 @@
 int main()
 {
     string test1 = get_string("vertical test = \n")
-    printf("%s", vertical(test1))
+    printf("%s\n", vertical(test1))
     
     string test2 = get_string("skip test = ")
     printf("%s", )
