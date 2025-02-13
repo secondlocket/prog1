@@ -16,6 +16,10 @@ char omzetting
     }
     else if (strcmp(morse, "---"))
     {
+        return("O")
+    }
+    else if (strcmp(morse, ""))
+    {
         return()
     }
 }
