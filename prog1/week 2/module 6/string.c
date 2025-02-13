@@ -30,7 +30,7 @@
     //eek functie
     void eek(char *input)
     {
-        if (i = )
+        if (i = 69 || i = 101)
     }
     
     
