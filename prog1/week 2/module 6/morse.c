@@ -26,6 +26,10 @@ char omzetting(const char* morse)
     {
         return('R');
     }
+    else
+    {
+        printf("Voer een gel")
+    }
 }
 
 
