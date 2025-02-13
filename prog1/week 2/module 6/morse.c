@@ -20,8 +20,9 @@ char omzetting
     }
     else if (strcmp(morse, "-.."))
     {
-        return()
+        return("D")
     }
+    else if 
 }
 
 
