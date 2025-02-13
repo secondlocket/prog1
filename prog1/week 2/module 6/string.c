@@ -19,7 +19,7 @@ int main()
     string test1 = get_string("vertical test = \n")
     printf("%s\n", vertical(test1))
     
-    string test2 = get_string("skip test = ")
+    string test2 = get_string("skip test = \n")
     printf("%s\'n", )
     
 }
