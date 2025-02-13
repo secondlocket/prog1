@@ -10,8 +10,9 @@ int input1;
         int n = strlen(input);
         for (int i = 0; i < n; i++;)
         {
-            printf("%c\n", input[i])
+            printf("%c\n", input[i]);
         }
+    }
 
     //skip functie
     
