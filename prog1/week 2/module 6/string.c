@@ -5,7 +5,6 @@
     //vertical functie
     void vertical(char *input)
     {
-        int i = o
         int n = strlen(input);
         for (int i = 0; i < n; i++)
         {
@@ -16,6 +15,7 @@
     //skip functie
     void skip(char *input)
     {
+        int i;
         int n = strlen(input);
         
         for (i = 0; i < n; i++)
@@ -28,15 +28,15 @@
     }
     
     //eek functie
-    //void eek(char *input)
-    //{
-    //    int n = 0;
-    //    if (i = 69 || i = 101)
-    //    {
-    //        n++;
-    //    }
-    //    printf("The text "%c" contains %i e's", input[i], n)
-    //}
+    void eek(char *input)
+    {
+        int n = 0;
+        if (i = 69 || i = 101)
+        {
+            n++;
+        }
+        printf("The text "%c" contains %i e's", input[i], n)
+    }
     
     
     //bob functie
