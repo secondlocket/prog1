@@ -31,7 +31,6 @@
     void eek(char *input)
     {
         int n = 0;
-        
         if (i = 69 || i = 101)
         {
             n++;
