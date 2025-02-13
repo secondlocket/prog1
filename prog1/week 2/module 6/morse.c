@@ -7,7 +7,7 @@
 //D = 68 
 //R = 82
 
-//omzetting
+//conversie
 char omzetting
 
 
