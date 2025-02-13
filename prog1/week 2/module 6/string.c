@@ -28,7 +28,7 @@ int main()
     skip("Great, gifts!")
     
     //eek test
-    
+    eek("eek, ")
     
     //bob test
     
