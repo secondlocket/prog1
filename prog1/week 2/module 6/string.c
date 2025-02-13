@@ -12,6 +12,6 @@
 
 int main()
 {
-    int 
+    string test1 = get_string("")
     
 }
