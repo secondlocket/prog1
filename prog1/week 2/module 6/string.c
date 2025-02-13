@@ -23,6 +23,6 @@ int input1;
 int main()
 {
     //vertical test
-    vertical("tokyo hotel"));
+    vertical("tokyo hotel");
     return 0;
 }
