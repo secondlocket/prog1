@@ -25,6 +25,7 @@ int main ()
         while()
     }
     
+    //speler2 
     if (beurt == 2)
     {
         
