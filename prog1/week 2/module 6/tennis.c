@@ -4,5 +4,6 @@
 
 int main ()
 {
-    string 
+    string speler1 = get_string("Speler 1 ")
+    string speler2 
 }
