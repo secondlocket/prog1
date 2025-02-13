@@ -28,7 +28,7 @@ char omzetting(const char* morse)
     }
     else 
     {
-        return('Ongeldige morse code\n');
+        printf("Ongeldige morse code\n");
     }
 }
 
