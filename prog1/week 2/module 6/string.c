@@ -13,7 +13,7 @@ int input1
             printf(string[0]);
             
         }
-        while (n > 0)
+        while (n > 0);
     }
 
     //skip functie
