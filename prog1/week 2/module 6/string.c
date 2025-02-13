@@ -26,6 +26,7 @@
             {
                 continue;
             }
+        }
     }
     
     //eek functie
