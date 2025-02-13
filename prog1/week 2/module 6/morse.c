@@ -12,19 +12,19 @@ char omzetting(const char* morse)
 {
     if (strcmp(morse, "..."))
     {
-        return("S")
+        return("S");
     }
     else if (strcmp(morse, "---"))
     {
-        return("O")
+        return("O");
     }
     else if (strcmp(morse, "-.."))
     {
-        return("D")
+        return("D");
     }
     else if (strcmp(morse, ".-."))
     {
-        return("R")
+        return("R");
     }
     else
     {
