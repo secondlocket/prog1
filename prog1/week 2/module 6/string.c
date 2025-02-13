@@ -18,11 +18,11 @@
         int n = strlen(input);
         for (int i = 0; i < n; i++)
         {
-        if(int i % 2 != 0)
-        {
-            printf("%c", input[i]);
-        }
-        else
+            if(int i % 2 != 0)
+            {
+                printf("%c", input[i]);
+            }
+            else
         {
             continue;
         }
