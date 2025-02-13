@@ -8,7 +8,7 @@ int input1;
     void vertical(char *input)
     {
         int n = strlen(input);
-        for (int i = 0; i < n; i++);
+        for (int i = 0; i < n; i++)
         {
             printf("%c\n", input[i]);
         }
