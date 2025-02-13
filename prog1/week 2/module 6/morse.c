@@ -10,7 +10,7 @@
 //omzetting
 char omzetting(const char* morse)
 {
-    if (strcmp(morse, "...") == 0)
+    if (strcmp(morse, '...') == 0)
     {
         return("S");
     }
