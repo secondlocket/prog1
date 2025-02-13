@@ -15,6 +15,7 @@
     //skip functie
     void skip(char *input)
     {
+        
         if(n % 2 != 0)
         {
             printf("%c", input[i]);
