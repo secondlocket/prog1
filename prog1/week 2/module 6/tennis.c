@@ -13,6 +13,7 @@ int begint_met(char *woord, char letter)
 int main ()
 {
     int beurt = 1;
+    char laaste_letter = 1;
     
     //speler1 
     if (beurt == 1)
