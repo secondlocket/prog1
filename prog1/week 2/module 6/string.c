@@ -28,7 +28,10 @@
     }
     
     //eek functie
-    
+    void eek(char *input)
+    {
+        
+    }
     
     
     //bob functie
