@@ -16,7 +16,7 @@
     void skip(char *input)
     {
         int n = 
-        if(n % 2 != 0)
+        if(int i % 2 != 0)
         {
             printf("%c", input[i]);
         }
