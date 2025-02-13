@@ -10,7 +10,6 @@ int begint_met(char *woord, char letter)
 }
 
 
-
 int main ()
 {
     int beurt = 1;
