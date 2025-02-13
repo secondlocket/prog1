@@ -12,7 +12,7 @@ int input1
         {
             
         }
-        while (n )
+        while (n > 0)
     }
 
     //skip functie
