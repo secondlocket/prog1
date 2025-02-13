@@ -41,7 +41,7 @@ int main ()
             if (begin(speler2, laaste_letter))
             {
                 laaste_letter = speler2[strlen(speler2) - 1];
-                beurt = 2;
+                beurt = 1;
             }
             else
             {
