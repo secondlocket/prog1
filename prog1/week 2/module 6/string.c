@@ -16,6 +16,9 @@
     void skip(char *input)
     {
         if(n % 2 != 0)
+        {
+            
+        }
     }
     
     //eek functie
