@@ -15,7 +15,7 @@ int main()
     int check = strlen(morse);
     if (check % 3 != 0)
     {
-        printf
+        printf("")
     }
     
 }
