@@ -22,7 +22,7 @@
         {
             if(i % 2 == 0)
             {
-                printf("%c\n", input[i]);
+                printf("%c", input[i]);
             }
         }
     }
