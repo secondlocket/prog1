@@ -3,7 +3,11 @@
 #include <string.h>
 
     //vertical functie
+    void vertical(string input)
+    {
     
+    }
+
     //skip functie
     
     //eek functie
