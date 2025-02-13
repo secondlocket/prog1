@@ -16,7 +16,7 @@ char omzetting(const char* morse)
     }
     else if (strcmp(morse, "---") == 0)
     {
-        return("O");
+        return('O');
     }
     else if (strcmp(morse, "-..") == 0)
     {
