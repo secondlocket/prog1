@@ -7,7 +7,7 @@
 //D = 68 = -..
 //R = 82 = .-.
 
-//omzetting
+//omzetting functie
 char omzetting(const char* morse)
 {
     if (strcmp(morse, "...") == 0)
