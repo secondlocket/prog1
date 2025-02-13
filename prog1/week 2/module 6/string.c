@@ -10,7 +10,7 @@ int input1
         int n = strlen(input1);
         do
         {
-            printf("%s\n");
+            printf("%s\n", str[0]);
             n--;
         }
         while (n > 0);
