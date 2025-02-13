@@ -2,7 +2,7 @@
 #include <cs50.h>
 #include <string.h>
 
-int 
+int input1
 
     //vertical functie
     void vertical(string input)
