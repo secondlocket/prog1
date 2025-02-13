@@ -12,6 +12,6 @@ int main()
     string morse = get_string("Geef een morse code: ");
     
     //controleren dat het deelbaar door 3 is
-    
+    int 
     
 }
