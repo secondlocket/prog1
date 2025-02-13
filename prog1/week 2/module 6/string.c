@@ -30,7 +30,7 @@
     //eek functie
     void eek(char *input)
     {
-        if ()
+        if (i = )
     }
     
     
