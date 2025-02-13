@@ -34,7 +34,15 @@ int main ()
     if (beurt == 2)
     {
         string speler2 = get_string("Speler 2, geef een woord = ");
-        beurt = 1
+        if (laaste_letter == 0 || begint_met(speler1, laaste_letter))
+        {
+            laaste_letter = speler1[strlen(speler1) - 1]
+            beurt = 2;
+        }
+        else
+        {
+            printf("Speler 2 wint!")
+        }
     }
     
     return 0;
