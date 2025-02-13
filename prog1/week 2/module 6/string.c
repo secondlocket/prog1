@@ -32,7 +32,7 @@
     {
         int n = 0;
         
-        for ()
+        for (i = 0; )
         if (input == 69 || input == 101)
         {
             n++;
