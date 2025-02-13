@@ -2,6 +2,8 @@
 #include <cs50.h>
 #include <string.h>
 
+int 
+
     //vertical functie
     void vertical(string input)
     {
