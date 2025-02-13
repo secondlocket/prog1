@@ -23,7 +23,6 @@ int input1;
 int main()
 {
     //vertical test
-    char str[] = "tokyo hotel";
     vertical(str);
     return 0;
     
