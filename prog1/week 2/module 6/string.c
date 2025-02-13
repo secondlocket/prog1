@@ -31,6 +31,7 @@ int main()
     eek("Eek! a mouse!")
     
     //bob test
+    bob("Know your meme")
     
     return 0;
 }
