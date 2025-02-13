@@ -22,7 +22,7 @@ char omzetting(const char* morse)
     {
         return("D");
     }
-    else if (strcmp(morse, '.-.') == 0)
+    else if (strcmp(morse, ".-.") == 0)
     {
         return("R");
     }
