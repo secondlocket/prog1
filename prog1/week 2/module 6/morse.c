@@ -5,7 +5,7 @@
 //S = 83 = ...
 //O = 79 = ---
 //D = 68 = -..
-//R = 82 = 
+//R = 82 = .-.
 
 //omzetting
 char omzetting
