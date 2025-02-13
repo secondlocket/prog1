@@ -17,7 +17,8 @@ int main ()
     //speler1 
     if (beurt == 1)
     {
-        if (laaste_letter != )
+        if (laaste_letter != 0)
+        {
         string speler1 = get_string("Speler 1, geef een woord = ");
     }
     
