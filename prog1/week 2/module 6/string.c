@@ -44,7 +44,10 @@
     
     
     //bob functie
-    void bob(char )
+    void bob(char *input)
+    {
+        
+    }
 
 int main()
 {
