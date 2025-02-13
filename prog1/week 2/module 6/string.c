@@ -12,6 +12,7 @@
 
 int main()
 {
-    string test1 = get_string("")
+    string test1 = get_string("vertical test = ")
+    
     
 }
