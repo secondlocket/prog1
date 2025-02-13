@@ -44,6 +44,7 @@
     
     
     //bob functie
+    void bob(char )
 
 int main()
 {
