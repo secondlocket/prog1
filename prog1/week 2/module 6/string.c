@@ -53,7 +53,7 @@
         {
             if(i % 2 == 0)
             {
-                toupper[i]
+                toupper()
             }
         }
     }
