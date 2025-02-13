@@ -32,7 +32,7 @@
     {
         int n = 0;
         
-        for (i = 0; )
+        for (i = 0; i < strlen)
         if (input == 69 || input == 101)
         {
             n++;
