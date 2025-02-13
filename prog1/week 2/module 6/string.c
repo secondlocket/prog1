@@ -2,12 +2,14 @@
 #include <cs50.h>
 #include <string.h>
 
-int main()
-{
     //vertical functie
     //skip functie
     //eek functie
     //bob functie
+
+int main()
+{
+    
     
     
     
