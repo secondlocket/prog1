@@ -34,7 +34,7 @@
         {
             n++;
         }
-        printf("The text ")
+        printf("The text "")
     }
     
     
