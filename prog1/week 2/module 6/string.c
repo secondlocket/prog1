@@ -8,13 +8,7 @@ int input1;
     void vertical(char *input)
     {
         int n = strlen(input);
-        do
-        {
-            printf("%s\n", str[0]);
-            n--;
-        }
-        while (n > 0);
-    }
+        for 
 
     //skip functie
     
