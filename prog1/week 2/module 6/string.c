@@ -62,7 +62,7 @@
             }
         }
         
-        printf("%s")
+        printf("%s");
     }
 
 int main()
