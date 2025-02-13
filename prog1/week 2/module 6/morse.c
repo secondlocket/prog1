@@ -3,8 +3,8 @@
 #include <string.h>
 
 //S = 83 = ...
-//O = 79
-//D = 68 
+//O = 79 = ---
+//D = 68 = 
 //R = 82
 
 //omzetting
