@@ -22,7 +22,7 @@ char omzetting
     {
         return("D")
     }
-    else if (strcmp(morse, ".-."))
+    else (strcmp(morse, ".-."))
     {
         return("R")
     }
