@@ -46,7 +46,7 @@ int main()
     
     for (int i = 0; i < check; i += 3)
     {
-        
+        char morse[4]
     }
     
     
