@@ -9,6 +9,9 @@
 
 //omzetting
 char omzetting
+{
+    strcmp
+}
 
 
 int main()
