@@ -2,7 +2,7 @@
 #include <cs50.h>
 #include <string.h>
 
-//S = 83
+//S = 83 = ...
 //O = 79
 //D = 68 
 //R = 82
