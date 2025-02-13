@@ -12,6 +12,9 @@ int begint_met(char *woord, char letter)
 
 int main ()
 {
+    
+    
+    
     do
     {
         string speler1 = get_string("Speler 1, geef een woord = ");
