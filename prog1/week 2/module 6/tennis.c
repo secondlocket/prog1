@@ -16,6 +16,10 @@ int main ()
     int beurt = 1;
     char laaste_letter = 0;
     
+    while(1)
+    {
+        
+    }
     //speler1 
     if (beurt == 1)
     {
