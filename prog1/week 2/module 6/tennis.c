@@ -22,8 +22,8 @@ int main ()
         if (laaste_letter == 0 || begint_met(speler1, laaste_letter))
         {
             
-        }
             beurt = 2;
+        }
     }
     
     //speler2 
