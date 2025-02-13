@@ -10,7 +10,7 @@
 //omzetting
 char omzetting
 {
-    strcmp
+    if (strcmp(morse)
 }
 
 
