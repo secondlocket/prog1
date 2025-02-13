@@ -8,7 +8,7 @@ int input1;
     void vertical(char *input)
     {
         int n = strlen(input);
-        for 
+        for ()
 
     //skip functie
     
