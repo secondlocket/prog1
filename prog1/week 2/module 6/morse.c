@@ -44,7 +44,10 @@ int main()
         printf("Ongeldige morse code\n");
     }
     
-    for (int i = 0; i < check; )
+    for (int i = 0; i < check; i += 3)
+    {
+        
+    }
     
     
 }
