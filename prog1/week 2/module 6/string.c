@@ -7,7 +7,7 @@ int input1
     //vertical functie
     void vertical(input1)
     {
-        strlen(input1);
+        int n = strlen(input1);
         while ()
         
     }
