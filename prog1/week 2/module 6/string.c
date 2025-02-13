@@ -57,7 +57,7 @@ int main()
     
     //eek test
     eek("Eeeek! a mouse!");
-    printf("\n")
+    printf("\n");
     
     //bob test
     //bob("Know your meme");
