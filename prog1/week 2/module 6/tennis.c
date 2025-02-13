@@ -12,9 +12,10 @@ int begint_met(char *woord, char letter)
 
 int main ()
 {
-    int beurt = 1
+    int beurt = 1;
     
-    
+    if (beurt == 1)
+    {
     do
     {
         string speler1 = get_string("Speler 1, geef een woord = ");
