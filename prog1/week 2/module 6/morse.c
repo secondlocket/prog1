@@ -47,6 +47,7 @@ int main()
     for (int i = 0; i < check; i += 3)
     {
         char letter[4] = {morse[i], morse[i+1], morse[i+2], '\0'}
+        
     }
     
     
