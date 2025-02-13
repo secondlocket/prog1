@@ -20,7 +20,7 @@ int main()
     printf("%s\n", vertical(test1))
     
     string test2 = get_string("skip test = \n")
-    printf("%s\'n", skip(test2))
+    printf("%s\n", skip(test2))
     
     string test3 = get_string("eek test = \n")
     printf("%s\n")
