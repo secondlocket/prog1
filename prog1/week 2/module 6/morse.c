@@ -22,9 +22,13 @@ char omzetting
     {
         return("D")
     }
-    else (strcmp(morse, ".-."))
+    else if (strcmp(morse, ".-."))
     {
         return("R")
+    }
+    else
+    {
+        return("?")
     }
 }
 
