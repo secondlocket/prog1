@@ -26,5 +26,6 @@ int main()
     printf("%s\n", eek(test3))
     
     string test4 = get_string("bob test = \n")
+    printf("%s\n", bob(test4))
     
 }
