@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>
-
+#include <ctype.h>
 
 //functie om te controleren of het volgende woord begint met dezelfde letter
 //letter is dus de laaste letter van het woord daarvoor
