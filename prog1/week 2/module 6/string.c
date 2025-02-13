@@ -38,6 +38,7 @@
             {
                 n++;
             }
+        }
         printf("The text "%c" contains %i e's", input, n)
     }
     
