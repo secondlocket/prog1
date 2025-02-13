@@ -13,6 +13,6 @@ int main()
     
     //controleren dat het deelbaar door 3 is
     int check = strlen(morse);
-    
+    if (check )
     
 }
