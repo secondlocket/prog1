@@ -54,7 +54,7 @@
         {
             if(i % 2 != 0)
             {
-                toupper(input[i]);
+                input[i] = toupper(input[i]);
             }
             else
             {
