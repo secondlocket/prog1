@@ -23,9 +23,9 @@
                 printf("%c", input[i]);
             }
             else
-        {
-            continue;
-        }
+            {
+                continue;
+            }
     }
     
     //eek functie
