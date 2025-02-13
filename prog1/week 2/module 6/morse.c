@@ -8,5 +8,5 @@
 
 int main()
 {
-    int morse = get_
+    int morse = get_int 
 }
