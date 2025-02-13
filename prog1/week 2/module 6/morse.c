@@ -8,7 +8,7 @@
 //R = 82 = .-.
 
 //omzetting
-char omzetting(const char*)
+char omzetting(const char* morse)
 {
     if (strcmp(morse, "...")
     {
