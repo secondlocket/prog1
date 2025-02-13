@@ -15,7 +15,6 @@
     //skip functie
     void skip(char *input)
     {
-        int i;
         int n = strlen(input);
         
         for (i = 0; i < n; i++)
