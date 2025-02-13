@@ -19,7 +19,7 @@ int main ()
     if (beurt == 1)
     {
         string speler1 = get_string("Speler 1, geef een woord = ");
-        if (laaste_letter == 0 || begint_met(speler1, laaste_letter))
+        if (laaste_letter == 0 || begin(speler1, laaste_letter))
         {
             laaste_letter = speler1[strlen(speler1) - 1]
             beurt = 2;
@@ -34,7 +34,7 @@ int main ()
     if (beurt == 2)
     {
         string speler2 = get_string("Speler 2, geef een woord = ");
-        if (laaste_letter == 0 || begint_met(speler2, laaste_letter))
+        if (laaste_letter == 0 || begin(speler2, laaste_letter))
         {
             laaste_letter = speler1[strlen(speler1) - 1]
             beurt = 2;
