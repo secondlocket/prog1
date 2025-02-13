@@ -41,13 +41,13 @@ int main ()
             {
                 laaste_letter = speler2[strlen(speler2) - 1];
                 beurt = 2;
+            }
+            else
+            {
+                printf("Speler 1 wint!");
+                break;
+            }
         }
-        else
-        {
-            printf("Speler 1 wint!");
-            break;
-        }
-    }
     
     }
     
