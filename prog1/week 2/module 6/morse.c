@@ -34,10 +34,10 @@ int main()
     for (int i = 0; i < 999; i++)
     {
         string morse = get_string("Geef een morse code: ");
-        if (check % 3 != 0)
-    {
-        printf("Ongeldige morse code\n");
-    }
+            if (check % 3 != 0)
+        {
+            printf("Ongeldige morse code\n");
+        }
     }
     
     
