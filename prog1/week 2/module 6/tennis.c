@@ -21,7 +21,7 @@ int main ()
         string speler1 = get_string("Speler 1, geef een woord = ");
         if (laaste_letter == 0 || begint_met(speler1, laaste_letter))
         {
-            laaste_letter = speler1[strlen(speler1)-1]
+            laaste_letter = speler1[strlen(speler1) - 1]
             beurt = 2;
         }
     }
