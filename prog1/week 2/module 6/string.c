@@ -5,6 +5,7 @@
 int main()
 {
     //vertical functie
+    //skip functie
     //
     
     
