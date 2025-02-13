@@ -20,6 +20,6 @@ int main()
     printf("%s\n", vertical(test1))
     
     string test2 = get_string("skip test = ")
-    printf("%s", )
+    printf("%s\'n", )
     
 }
