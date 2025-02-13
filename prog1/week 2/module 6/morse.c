@@ -24,7 +24,7 @@ char omzetting(const char* morse)
     }
     else if (strcmp(morse, ".-.") == 0)
     {
-        return('?');
+        return('R');
     }
     else 
     {
