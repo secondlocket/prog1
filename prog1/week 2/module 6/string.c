@@ -6,7 +6,7 @@
     void vertical(string input)
     {
         strlen(string input);
-        
+        while 
         
     }
 
