@@ -20,7 +20,7 @@ char omzetting(const char* morse)
     }
     else if (strcmp(morse, "-..") == 0)
     {
-        return("D");
+        return('D');
     }
     else if (strcmp(morse, ".-.") == 0)
     {
