@@ -25,6 +25,6 @@ int main()
     string test3 = get_string("eek test = \n")
     printf("%s\n", eek(test3))
     
-    string test4 = get_string("bob test = ")
+    string test4 = get_string("bob test = \n")
     
 }
