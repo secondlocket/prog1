@@ -19,18 +19,18 @@ int main ()
     while(1)
     {
         //speler1 
-    if (beurt == 1)
-    {
-        string speler1 = get_string("Speler 1, geef een woord = ");
-        if (laaste_letter == 0 || begin(speler1, laaste_letter))
+        if (beurt == 1)
         {
-            laaste_letter = speler1[strlen(speler1) - 1];
-            beurt = 2;
-        }
-        else
-        {
-            printf("Speler 2 wint!");
-        }
+            string speler1 = get_string("Speler 1, geef een woord = ");
+            if (laaste_letter == 0 || begin(speler1, laaste_letter))
+            {
+                laaste_letter = speler1[strlen(speler1) - 1];
+                beurt = 2;
+            }
+            else
+            {
+                printf("Speler 2 wint!");
+            }
     }
     
     //speler2 
