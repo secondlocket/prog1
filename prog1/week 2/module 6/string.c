@@ -5,6 +5,7 @@
     //vertical functie
     void vertical(char *input)
     {
+        int i = o
         int n = strlen(input);
         for (int i = 0; i < n; i++)
         {
