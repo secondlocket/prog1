@@ -28,7 +28,6 @@ int main ()
         else
         {
             printf("Speler 2 wint!");
-            break;
         }
     }
     
