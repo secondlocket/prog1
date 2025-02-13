@@ -24,5 +24,11 @@ int main()
     //vertical test
     vertical("tokyo hotel");
     
+    //skip test
+    
+    //eek test
+    
+    //bob test
+    
     return 0;
 }
