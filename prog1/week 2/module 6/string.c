@@ -3,8 +3,11 @@
 #include <string.h>
 
     //vertical functie
+    
     //skip functie
+    
     //eek functie
+    
     //bob functie
 
 int main()
