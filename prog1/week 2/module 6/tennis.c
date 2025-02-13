@@ -31,7 +31,7 @@ int main ()
             {
                 printf("Speler 2 wint!");
             }
-    }
+        } 
     
     //speler2 
     if (beurt == 2)
