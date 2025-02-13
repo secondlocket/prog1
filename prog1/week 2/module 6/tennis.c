@@ -36,7 +36,7 @@ int main ()
         string speler2 = get_string("Speler 2, geef een woord = ");
         if (begin(speler2, laaste_letter))
         {
-            laaste_letter = speler2[strlen(speler2) - 1]
+            laaste_letter = speler2[strlen(speler2) - 1];
             beurt = 2;
         }
         else
