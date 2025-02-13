@@ -14,15 +14,15 @@ char omzetting(const char* morse)
     {
         return("S");
     }
-    else if (strcmp(morse, "---"))
+    else if (strcmp(morse, "---") == 0)
     {
         return("O");
     }
-    else if (strcmp(morse, "-.."))
+    else if (strcmp(morse, "-..") == 0)
     {
         return("D");
     }
-    else if (strcmp(morse, ".-."))
+    else if (strcmp(morse, ".-.") == 0)
     {
         return("R");
     }
