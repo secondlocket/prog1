@@ -32,7 +32,10 @@ char omzetting(const char* morse)
 int main()
 {
     for (int i = 0; i < 999; i++)
-    string morse = get_string("Geef een morse code: ");
+    {
+        string morse = get_string("Geef een morse code: ");
+    }
+    
     
     //controleren dat het deelbaar door 3 is
     int check = strlen(morse);
