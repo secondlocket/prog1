@@ -25,7 +25,7 @@ int main()
     vertical("tokyo hotel");
     
     //skip test
-    
+    skip("Great, gifts!")
     //eek test
     
     //bob test
