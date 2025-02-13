@@ -7,6 +7,10 @@
 //D = 68 
 //R = 82
 
+//omzetting
+char 
+
+
 int main()
 {
     string morse = get_string("Geef een morse code: ");
