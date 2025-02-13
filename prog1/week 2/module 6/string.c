@@ -34,7 +34,7 @@
         
         for (int i = 0; i < strlen(input); i++)
         {
-            if ((int)input[i] = 'E' || input[i] = 'e')
+            if ((int)input[i] = 101 || input[i] = 'e')
             {
                 n++;
             }
