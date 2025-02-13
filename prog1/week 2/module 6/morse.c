@@ -33,16 +33,15 @@ int main()
 {
     for (int i = 0; i < 999; i++)
     {
+        //controleren dat het deelbaar door 3 is
         int check = strlen(morse);
+        
         string morse = get_string("Geef een morse code: ");
             if (check % 3 != 0)
         {
             printf("Ongeldige morse code\n");
         }
     }
-    
-    
-    //controleren dat het deelbaar door 3 is
     
     
     
