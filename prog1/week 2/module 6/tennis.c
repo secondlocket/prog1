@@ -22,6 +22,7 @@ int main ()
             string speler2 = get_string("Speler 2, geef een woord = ");
         }
         while()
+    }
     
     return 0;
 }
