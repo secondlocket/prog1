@@ -7,7 +7,7 @@ int input1;
     //vertical functie
     void vertical(string input)
     {
-        int n = strlen(input1);
+        int n = strlen(string input);
         do
         {
             printf("%s\n", str[0]);
