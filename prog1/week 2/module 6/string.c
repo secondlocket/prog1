@@ -8,7 +8,7 @@ int input1
     void vertical(input1)
     {
         int n = strlen(input1);
-        while ()
+        while (n )
         
     }
 
