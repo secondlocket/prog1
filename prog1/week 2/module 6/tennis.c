@@ -3,6 +3,7 @@
 #include <string.h>
 
 //functie om te controleren of het volgende woord begint met dezelfde letter
+//letter is dus de laaste letter van 
 int begint_met(char *woord, char letter)
 {
     return tolower(woord[0]) == tolower(letter);
