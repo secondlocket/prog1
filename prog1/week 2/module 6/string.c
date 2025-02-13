@@ -54,7 +54,7 @@ int main()
     skip("Great, gifts!");
     
     //eek test
-    //eek("Eek! a mouse!");
+    eek("Eek! a mouse!");
     
     //bob test
     //bob("Know your meme");
