@@ -13,6 +13,6 @@
 int main()
 {
     string test1 = get_string("vertical test = ")
-    printf("%")
+    printf("%s", test1)
     
 }
