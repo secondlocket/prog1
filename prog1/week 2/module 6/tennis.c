@@ -18,14 +18,12 @@ int main ()
     if (beurt == 1)
     {
         string speler1 = get_string("Speler 1, geef een woord = ");
-        }
-        while()
     }
     
     //speler2 
     if (beurt == 2)
     {
-        
+        string speler2 = get_string("Speler 2, geef een woord = ");
     }
     
     return 0;
