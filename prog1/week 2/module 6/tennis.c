@@ -27,6 +27,7 @@ int main ()
         else
         {
             printf("Speler 2 wint!")
+            break;
         }
     }
     
@@ -42,6 +43,7 @@ int main ()
         else
         {
             printf("Speler 1 wint!")
+            break;
         }
     }
     
