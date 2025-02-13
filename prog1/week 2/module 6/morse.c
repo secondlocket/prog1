@@ -24,7 +24,7 @@ char omzetting
     }
     else if (strcmp(morse, ".-."))
     {
-        return()
+        return("R")
     }
 }
 
