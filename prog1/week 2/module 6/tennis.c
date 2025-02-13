@@ -14,6 +14,7 @@ int main ()
 {
     int beurt = 1;
     
+    //speler1 
     if (beurt == 1)
     {
         do
