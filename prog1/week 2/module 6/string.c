@@ -23,6 +23,6 @@ int main()
     printf("%s\n", skip(test2))
     
     string test3 = get_string("eek test = \n")
-    printf("%s\n")
+    printf("%s\n", )
     
 }
