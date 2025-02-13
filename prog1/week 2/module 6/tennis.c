@@ -3,7 +3,7 @@
 #include <string.h>
 
 //functie om te controleren of het volgende woord begint met dezelfde letter
-int 
+int begint_met()
 
 int main ()
 {
