@@ -18,8 +18,8 @@ int main ()
     //speler1 
     if (beurt == 1)
     {
-            string speler1 = get_string("Speler 1, geef een woord = ");
-            if
+        string speler1 = get_string("Speler 1, geef een woord = ");
+        if (laaste_letter == 0 || )
             beurt = 2;
     }
     
