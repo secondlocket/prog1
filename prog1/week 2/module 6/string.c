@@ -31,6 +31,9 @@
     void eek(char *input)
     {
         if (i = 69 || i = 101)
+        {
+            
+        }
     }
     
     
