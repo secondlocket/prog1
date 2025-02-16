@@ -6,6 +6,7 @@ int main ()
 {
     float g = 0;
     int mg;
+    int drink = 0;
     //espresso
     //black_tea
     //green tea
@@ -24,7 +25,7 @@ int main ()
     {
         if (mg > 70)
         {
-            
+            drink++;
         }
     }
     while (mg > 0);
