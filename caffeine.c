@@ -12,7 +12,7 @@ int main ()
     //black_tea 30mg
     int b = 0;
     //green tea 20mg
-    int g = 0;
+    int gt = 0;
     //cocoa 10mg
     int c = 0;
     //piece of chocolate 1mg
