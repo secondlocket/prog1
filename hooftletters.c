@@ -19,6 +19,11 @@ int main ()
             teller ++;
         }
         binnen = 1;
+        
+        else
+        {
+            binnen = 0;
+        }
     }
     
     
