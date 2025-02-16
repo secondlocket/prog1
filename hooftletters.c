@@ -6,7 +6,7 @@
 int main ()
 {
     string tekst = get_string("Tekst: ");
-    space
+    string space
     
     
     return 0;
