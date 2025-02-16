@@ -12,7 +12,7 @@ int main ()
     }
     while(g < 0.001);
     
-    mg = 
+    mg = g * 1000;
     
     return 0;
 }
