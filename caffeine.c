@@ -3,9 +3,11 @@
 
 int main ()
 {
+    float x = 0;
+    
     do
     {
-        float x = get_float("Amount in grams = ");
+        x = get_float("Amount in grams = ");
     }
     while(x < 0.001);
     
