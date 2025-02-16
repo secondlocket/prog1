@@ -26,7 +26,7 @@ int main (void)
     
     do
     {
-        
+        n += 
     }
     
     printf("Years = %i", years);
