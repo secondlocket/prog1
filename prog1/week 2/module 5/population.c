@@ -24,6 +24,8 @@ int main (void)
 
     d = n/3 - n/4
     years = (x - n)/d
+    
+    printf("Years = ")
 
-
+    return 0;
 }
