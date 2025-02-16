@@ -3,7 +3,8 @@
 
 int main ()
 {
-    float x = 0;
+    float g = 0;
+    int mg;
     
     do
     {
