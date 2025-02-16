@@ -9,7 +9,8 @@ int main ()
     char tekst_lengte[999];
     
     
-    printf("Tekst = ")
+    printf("Tekst = ");
+    
     
     
     return 0;
