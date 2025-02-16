@@ -22,6 +22,8 @@ int main (void)
     }
     while (x < n);
 
+    d = 
+
     d
     years x - n 
 
