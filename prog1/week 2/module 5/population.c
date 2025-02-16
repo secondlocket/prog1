@@ -3,7 +3,7 @@
 
 int main (void)
 {
-    float n;
+    int n;
     int x;
     int years;
     
