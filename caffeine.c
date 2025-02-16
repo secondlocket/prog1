@@ -38,22 +38,25 @@ int main ()
         {
             mg = mg - 30;
             drink++;
-            
+            b++;
         }
         else if (mg > 20)
         {
             mg = mg - 20;
             drink++;
+            g++;
         }
         else if (mg > 10)
         {
             mg = mg - 10;
             drink++;
+            c++;
         }
         else if (mg > 1)
         {
             mg = mg - 1;
             drink++;
+            pc++;
         }
     }
     while (mg > 0);
