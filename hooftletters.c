@@ -8,6 +8,7 @@ int main ()
     int teller = 0;
     char tekst[tekst_lengte];
     
+    
     printf("Tekst = ");
     fgets(tekst, tekst_lengte, stdin);
     
