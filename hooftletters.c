@@ -6,6 +6,7 @@
 int main ()
 {
     int teller = 0;
+    //0 is niet binnen en 1 is wel binnen
     int binnen = 0;
     
     string tekst = get_string("Tekst: ");
