@@ -17,7 +17,7 @@ int main ()
             teller ++;
             binnen = 1;
         }
-        else
+        else if ()
         {
             binnen = 0;
         }
