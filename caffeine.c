@@ -75,11 +75,11 @@ int main ()
     }
     if (c > 0)
     {
-        printf("%i cocoa\n", c, c == 1 ? "" : "s");
+        printf("%i cocoa%s\n", c, c == 1 ? "" : "s");
     }
     if (pc > 0)
     {
-        printf("%i piece of chocolate\n", pc, pc == 1 ? "" : "s");
+        printf("%i piece of chocolate%s\n", pc, pc == 1 ? "" : "s");
     }
     
     printf("That makes %i drink%s in total\n", drink, drink == 1 ? "" : "s");
