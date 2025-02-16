@@ -5,6 +5,9 @@
 
 int main ()
 {
+    int teller;
+    
+    
     string tekst = get_string("Tekst: ");
     
     
