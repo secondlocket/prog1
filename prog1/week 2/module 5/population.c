@@ -3,7 +3,6 @@
 
 int main (void)
 {
-    //start size
     int n;
     int x;
     
