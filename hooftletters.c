@@ -3,6 +3,7 @@
 #include <string.h>
 
 
+
 int main ()
 {
     string tekst = get_string("Tekst: ");
