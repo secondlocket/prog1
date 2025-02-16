@@ -22,7 +22,10 @@ int main ()
     
     do
     {
-        if (mg )
+        if (mg > 70)
+        {
+            
+        }
     }
     while (mg > 0);
     
