@@ -6,6 +6,7 @@ int main (void)
     int n;
     int x;
     
+    //start size
     do
     {
         n = get_int("Start size: ");
