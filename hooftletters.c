@@ -26,7 +26,7 @@ int main ()
         }
     }
     
-    printf("")
+    printf("%d woord%s")
     
     return 0;
 }
