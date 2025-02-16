@@ -23,6 +23,7 @@ int main ()
         g = get_float("Amount in grams = ");
     }
     while(g < 0.001);
+    
     mg = (int) round(g * 1000);
     
     do
