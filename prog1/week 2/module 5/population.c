@@ -5,6 +5,7 @@ int main (void)
 {
     int n;
     int x;
+    int years
     
     //start size
     do
@@ -21,7 +22,7 @@ int main (void)
     while (x < n);
 
     //llamas born
-    x = n + n/3 - n/4
+     = n + n/3 - n/4
 
 
 
