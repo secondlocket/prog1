@@ -8,7 +8,9 @@ int main ()
     int mg;
     //espresso
     //black_tea
-    //
+    //green tea
+    //cocoa
+    //piece of chocolate
     
     do
     {
