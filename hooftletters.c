@@ -5,7 +5,7 @@
 
 int main ()
 {
-    string 
+    string tekst = get_string("Tekst: ");
     
     
     
