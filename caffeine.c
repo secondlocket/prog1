@@ -66,7 +66,7 @@ int main ()
         
     }
     
-    printf("That makes %i in total")
+    printf("That makes %i drink in total")
     
     return 0;
 }
