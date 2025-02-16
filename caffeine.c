@@ -28,31 +28,31 @@ int main ()
     
     do
     {
-        if (mg > 70)
+        if (mg >= 70)
         {
             mg = mg - 70;
             drink++;
             e++;
         }
-        else if (mg > 30)
+        else if (mg >= 30)
         {
             mg = mg - 30;
             drink++;
             b++;
         }
-        else if (mg > 20)
+        else if (mg >= 20)
         {
             mg = mg - 20;
             drink++;
             gt++;
         }
-        else if (mg > 10)
+        else if (mg >= 10)
         {
             mg = mg - 10;
             drink++;
             c++;
         }
-        else if (mg > 1)
+        else if (mg >= 1)
         {
             mg = mg - 1;
             drink++;
