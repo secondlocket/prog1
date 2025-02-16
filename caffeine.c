@@ -71,7 +71,7 @@ int main ()
     }
     if (g > 0)
     {
-        printf("%i green tea\n", g)
+        printf("%i green tea\n", g, g == 1 ? "" : "s")
     }
     if (c > 0)
     {
