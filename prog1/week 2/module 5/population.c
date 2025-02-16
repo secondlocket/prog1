@@ -21,6 +21,7 @@ int main (void)
         x = get_int("Start size: ");
     }
     while (x < n);
+
     //llamas born
 
     // TODO: print number of years
