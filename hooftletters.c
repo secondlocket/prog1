@@ -7,7 +7,7 @@ int main ()
 {
     int teller = 0;
     char tekst[tekst_lengte];
-    int 
+    int binnen = 0;
     
     printf("Tekst = ");
     fgets(tekst, tekst_lengte, stdin);
