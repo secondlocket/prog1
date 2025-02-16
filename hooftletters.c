@@ -14,7 +14,7 @@ int main ()
     
     for (int i = 0, tekst[i] != '\0'; i++)
     {
-        if 
+        if (binnen == 0, )
     }
     
     
