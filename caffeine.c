@@ -15,5 +15,7 @@ int main ()
     
     mg = (int) round(g * 1000);
     
+    printf("%i")
+    
     return 0;
 }
