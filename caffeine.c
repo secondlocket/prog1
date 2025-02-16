@@ -12,5 +12,7 @@ int main ()
     }
     while(g < 0.001);
     
+    mg = 
+    
     return 0;
 }
