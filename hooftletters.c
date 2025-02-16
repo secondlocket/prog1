@@ -26,7 +26,7 @@ int main ()
         }
     }
     
-    printf("%d woord%s met een hoofdletter\n", teller, teller == 1 "en")
+    printf("%d woord%s met een hoofdletter\n", teller, teller == 1 : "en")
     
     return 0;
 }
