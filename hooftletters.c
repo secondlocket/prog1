@@ -2,7 +2,7 @@
 #include <cs50.h>
 #include <string.h>
 
-//space functie
+//spatie functie
 
 int main ()
 {
