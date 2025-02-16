@@ -26,7 +26,7 @@ int main ()
         }
     }
     
-    printf("%d woord%s")
+    printf("%d woord%s met een hoofdletter\n")
     
     return 0;
 }
