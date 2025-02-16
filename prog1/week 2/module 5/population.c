@@ -22,7 +22,7 @@ int main (void)
     while (x < n);
 
     
-    x - n 
+    years x - n 
 
 
 
