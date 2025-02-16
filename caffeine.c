@@ -79,7 +79,7 @@ int main ()
     }
     if (pc > 0)
     {
-        printf("%i piece of chocolate\n", pc, pc == 1 ? "" : "s");
+        printf("%i piece of chocolate\n", pc);
     }
     
     printf("That makes %i drink%s in total", drink, drink == 1 ? "" : "s");
