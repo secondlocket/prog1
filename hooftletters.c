@@ -6,7 +6,7 @@
 int main ()
 {
     int teller = 0;
-    
+    char tekst 
     
     string tekst = get_string("Tekst: ");
     
