@@ -66,7 +66,7 @@ int main ()
         
     }
     
-    printf("That makes %i drink%s in total", drink, )
+    printf("That makes %i drink%s in total", drink, drink == 1 ? "" : "s")
     printf("%d woord%s met een hoofdletter\n", teller, teller == 1 ? "" : "en"
     
     return 0;
