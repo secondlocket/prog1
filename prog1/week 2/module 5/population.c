@@ -23,7 +23,7 @@ int main (void)
     while (x < n);
 
     d = n/3 - n/4;
-    years = (x - n)/d;
+    years = (x - n)/d - n;
     
     printf("Years = %i", years);
 
