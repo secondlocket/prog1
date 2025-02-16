@@ -17,7 +17,7 @@ int main ()
             teller ++;
             binnen = 1;
         }
-        else if (strcmp(tekst[i], " "))
+        else if (tekst[i], " "))
         {
             binnen = 0;
         }
