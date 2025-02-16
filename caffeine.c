@@ -30,5 +30,7 @@ int main ()
     }
     while (mg > 0);
     
+    printf("");
+    
     return 0;
 }
