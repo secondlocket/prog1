@@ -18,6 +18,7 @@ int main ()
             binnen = 1;
             teller ++;
         }
+        else if (islower(tekst[i]))
         else if (tekst[i] == ' ')
         {
             binnen = 0;
