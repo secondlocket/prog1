@@ -67,15 +67,15 @@ int main ()
     }
     if (b > 0)
     {
-        printf("%i black tea\n", b);
+        printf("%i black tea\n", b, b == 1 ? "" : "s");
     }
     if (gt > 0)
     {
-        printf("%i green tea\n", gt);
+        printf("%i green tea\n", gt, gt == 1 ? "" : "s");
     }
     if (c > 0)
     {
-        printf("%i cocoa\n", c);
+        printf("%i cocoa\n", c, c == 1 ? "" : "s");
     }
     if (pc > 0)
     {
