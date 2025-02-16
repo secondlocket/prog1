@@ -5,6 +5,7 @@ int main (void)
 {
     // TODO: prompt for start size
     int n;
+    int x;
     
     do
     {
