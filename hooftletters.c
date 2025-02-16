@@ -21,6 +21,7 @@ int main ()
         else if (tekst[i] == ' ')
         {
             binnen = 0;
+            teller --;
         }
     }
     
