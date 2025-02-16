@@ -5,7 +5,7 @@ int main ()
 {
     do
     {
-        float x = get_float()
+        float x = get_float("Amount in grams = ")
     }
     while(x < 0.001)
 }
