@@ -21,9 +21,6 @@ int main (void)
     }
     while (x < n);
 
-    float d = (n/3 - n/4);
-    years = (x - n)/d;
-    
     do
     {
         n += (n/3 - n/4);
