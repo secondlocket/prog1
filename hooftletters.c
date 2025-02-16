@@ -15,6 +15,9 @@ int main ()
     for (int i = 0, tekst[i] != '\0'; i++)
     {
         if (binnen == 0 && isupper(tekst[i]))
+        {
+            teller ++;
+        }
     }
     
     
