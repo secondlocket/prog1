@@ -25,6 +25,7 @@ int main (void)
     years = (x - n)/d;
     
     printf("Years = %i", years);
+    printf("")
 
     return 0;
 }
