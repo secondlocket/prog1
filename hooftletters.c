@@ -9,8 +9,7 @@ int main ()
     char tekst[tekst_lengte];
     int binnen = 0;
     
-    printf("Tekst = ");
-    fgets(tekst, tekst_lengte, stdin);
+    string tekst = 
     
     for (int i = 0, tekst[i] != '\0'; i++)
     {
