@@ -21,7 +21,7 @@ int main (void)
         x = get_int("Start size: ");
     }
     while (x < n);
-    // TODO: calculate number of years until we reach threshold
+    //llamas born
 
     // TODO: print number of years
 }
