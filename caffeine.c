@@ -61,7 +61,7 @@ int main ()
     }
     while (mg > 0);
     
-    if (mg > 0)
+    if (e > 0)
     {
         
     }
