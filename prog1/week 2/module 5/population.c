@@ -19,7 +19,7 @@ int main (void)
     {
         x = get_int("Start size: ");
     }
-    while (x < n);
+    while (x <= n);
     // TODO: calculate number of years until we reach threshold
 
     // TODO: print number of years
