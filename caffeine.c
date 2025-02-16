@@ -30,7 +30,7 @@ int main ()
     {
         if (mg >= 70)
         {
-            mg = mg - 70;
+            mg -= 70;
             drink++;
             e++;
         }
