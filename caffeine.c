@@ -75,7 +75,7 @@ int main ()
     }
     if (c > 0)
     {
-        printf("%i espresso", e)
+        printf("%i cocoa\n", e)
     }
     if (pc > 0)
     {
