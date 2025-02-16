@@ -9,8 +9,8 @@ int main (void)
     do
     {
         n = get_int("Start size: ");
-        
     }
+    while (n )
     
     // TODO: prompt for end size
 
