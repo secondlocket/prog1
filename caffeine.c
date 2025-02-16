@@ -8,7 +8,7 @@ int main ()
     
     do
     {
-        x = get_float("Amount in grams = ");
+        g = get_float("Amount in grams = ");
     }
     while(x < 0.001);
     
