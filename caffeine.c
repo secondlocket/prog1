@@ -13,7 +13,7 @@ int main ()
     }
     while(g < 0.001);
     
-    mg = double round(g * 1000;
+    mg = double round(double g * 1000;
     
     return 0;
 }
