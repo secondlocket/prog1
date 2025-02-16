@@ -21,5 +21,6 @@ int main ()
     mg = (int) round(g * 1000);
     
     
+    
     return 0;
 }
