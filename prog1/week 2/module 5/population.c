@@ -25,7 +25,7 @@ int main (void)
     d = n/3 - n/4
     years = (x - n)/d
     
-    printf("\nYears = $i")
+    printf("\nYears = %i", )
 
     return 0;
 }
