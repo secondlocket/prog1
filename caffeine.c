@@ -10,7 +10,7 @@ int main ()
     {
         g = get_float("Amount in grams = ");
     }
-    while(x < 0.001);
+    while(g < 0.001);
     
     return 0;
 }
