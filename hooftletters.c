@@ -15,8 +15,8 @@ int main ()
     {
         if (binnen == 0 && isupper(tekst[i]))
         {
-            teller ++;
             binnen = 1;
+            teller ++;
         }
         else if (tekst[i] == ' ')
         {
