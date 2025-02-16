@@ -36,13 +36,13 @@ int main ()
         }
         else if (mg >= 30)
         {
-            mg = mg - 30;
+            mg -= 30;
             drink++;
             b++;
         }
         else if (mg >= 20)
         {
-            mg = mg - 20;
+            mg -= 20;
             drink++;
             gt++;
         }
