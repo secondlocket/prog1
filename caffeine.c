@@ -25,7 +25,7 @@ int main ()
     {
         if (mg > 70)
         {
-            
+            mg 
             drink++;
         }
     }
