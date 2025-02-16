@@ -75,7 +75,7 @@ int main ()
     }
     if (c > 0)
     {
-        printf("%i cocoa\n", c, c == 1 ? "" : "s");
+        printf("%i cocoa\n", c);
     }
     if (pc > 0)
     {
