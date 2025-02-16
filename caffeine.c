@@ -5,7 +5,7 @@
 int main ()
 {
     float g = 0;
-    int mg;
+    int mg = 0;
     int drink = 0;
     //espresso 70mg
     int e = 0;
