@@ -4,6 +4,9 @@
 int main (void)
 {
     // TODO: prompt for start size
+    int n;
+    
+    
     
     // TODO: prompt for end size
 
