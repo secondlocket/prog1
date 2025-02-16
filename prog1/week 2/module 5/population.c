@@ -28,7 +28,7 @@ int main (void)
     {
         n += (n/3 - n/4);
     }
-    while (n )
+    while (n < x)
     
     printf("Years = %i", years);
 
