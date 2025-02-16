@@ -63,7 +63,7 @@ int main ()
     
     if (e > 0)
     {
-        printf("%i espresso\n", e);
+        printf("%i espresso%s\n", e);
     }
     if (b > 0)
     {
