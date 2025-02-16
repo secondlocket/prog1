@@ -9,7 +9,8 @@ int main ()
     char tekst[tekst_lengte];
     int binnen = 0;
     
-    string tekst = get_string("Tekst: ")
+    string tekst = get_string("Tekst: ");
+    
     
     for (int i = 0, tekst[i] != '\0'; i++)
     {
