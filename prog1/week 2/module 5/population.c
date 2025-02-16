@@ -24,5 +24,12 @@ int main (void)
 
     //llamas born
 
+
+
+
+
+
+
+
     // TODO: print number of years
 }
