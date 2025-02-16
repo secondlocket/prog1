@@ -10,7 +10,7 @@ int main ()
     
     
     printf("Tekst = ");
-    
+    fgets(tekst, tekst_lengte, )
     
     
     return 0;
