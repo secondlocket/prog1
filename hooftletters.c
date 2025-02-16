@@ -10,7 +10,7 @@ int main ()
     
     string tekst = get_string("Tekst: ");
 
-    for (int i = 0, tekst[i] != '\0'; i++)
+    for (int i = 0; tekst[i] != '\0'; i++)
     {
         if (binnen == 0 && isupper(tekst[i]))
         {
