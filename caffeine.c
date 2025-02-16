@@ -24,7 +24,7 @@ int main ()
     {
         
     }
-    while ()
+    while (mg > 0)
     
     return 0;
 }
