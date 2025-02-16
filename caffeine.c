@@ -28,7 +28,10 @@ int main ()
             mg = mg - 70;
             drink++;
         }
-        else if (mg > )
+        else if (mg > 30)
+        {
+            
+        }
     }
     while (mg > 0);
     
