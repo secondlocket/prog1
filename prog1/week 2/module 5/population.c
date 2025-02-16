@@ -21,8 +21,7 @@ int main (void)
     }
     while (x < n);
 
-    //llamas born
-    years = (n + n/3 - n/4)
+    
 
 
 
