@@ -7,8 +7,8 @@ int main ()
     float g = 0;
     int mg;
     //espresso
-    int black_tea
-    int 
+    //black_tea
+    //
     
     do
     {
