@@ -12,12 +12,11 @@ int main ()
 
     for (int i = 0; tekst[i] != '\0'; i++)
     {
-        if (binnen == 0 && isupper(tekst[i]))
+        if (binnen == 1 && isupper(tekst[i]))
         {
             teller ++;
             binnen = 1;
         }
-        
         else
         {
             binnen = 0;
