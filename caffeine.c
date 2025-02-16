@@ -6,6 +6,8 @@ int main ()
 {
     float g = 0;
     int mg;
+    int e
+    int 
     
     do
     {
