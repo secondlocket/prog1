@@ -67,7 +67,7 @@ int main ()
     }
     if (b > 0)
     {
-        printf("%i black tea\n", b, b == 1 ? "" : "s");
+        printf("%i black tea%s\n", b, b == 1 ? "" : "s");
     }
     if (gt > 0)
     {
