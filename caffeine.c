@@ -48,7 +48,7 @@ int main ()
         }
         else if (mg >= 10)
         {
-            mg = mg - 10;
+            mg -= 10;
             drink++;
             c++;
         }
