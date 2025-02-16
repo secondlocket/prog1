@@ -5,7 +5,6 @@ int main (void)
 {
     int n;
     int x;
-    int total = 0;
     
     //start size
     do
@@ -22,7 +21,7 @@ int main (void)
     while (x < n);
 
     //llamas born
-    total = n + n/3 - n/4
+    x = n + n/3 - n/4
 
 
 
