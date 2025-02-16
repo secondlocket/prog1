@@ -22,9 +22,9 @@ int main ()
     
     do
     {
-        
+        if (mg )
     }
-    while (mg > 0)
+    while (mg > 0);
     
     return 0;
 }
