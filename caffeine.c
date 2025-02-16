@@ -40,7 +40,7 @@ int main ()
         {
             
         }
-        else if (mg > 30)
+        else if (mg > 1)
         {
             
         }
