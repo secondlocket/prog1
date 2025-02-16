@@ -5,7 +5,7 @@ int main ()
 {
     do
     {
-        
+        float x = get_float()
     }
-    while
+    while(x < 0.001)
 }
