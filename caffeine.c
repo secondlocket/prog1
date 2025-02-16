@@ -69,9 +69,9 @@ int main ()
     {
         printf("%i black tea\n", b, b == 1 ? "" : "s");
     }
-    if (g > 0)
+    if (gt > 0)
     {
-        printf("%i green tea\n", g, g == 1 ? "" : "s");
+        printf("%i green tea\n", gt, gt == 1 ? "" : "s");
     }
     if (c > 0)
     {
