@@ -71,15 +71,15 @@ int main ()
     }
     if (g > 0)
     {
-        printf("%i green tea\n", e)
+        printf("%i green tea\n", g)
     }
     if (c > 0)
     {
-        printf("%i cocoa\n", e)
+        printf("%i cocoa\n", c)
     }
     if (pc > 0)
     {
-        printf("%i espresso", e)
+        printf("%i piece of chocolate\n", pc)
     }
     
     printf("That makes %i drink%s in total", drink, drink == 1 ? "" : "s");
