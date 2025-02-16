@@ -10,7 +10,7 @@ int main (void)
     {
         n = get_int("Start size: ");
     }
-    while (n )
+    while (n < 9);
     
     // TODO: prompt for end size
 
