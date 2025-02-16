@@ -26,6 +26,5 @@ int main (void)
     years = (x - n)/d
 
 
-
     // TODO: print number of years
 }
