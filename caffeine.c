@@ -16,6 +16,7 @@ int main ()
     //cocoa 10mg
     int c = 0;
     //piece of chocolate 1mg
+    int pc = 0;
     
     do
     {
