@@ -18,7 +18,7 @@ int main (void)
     //end size
     do
     {
-        x = get_int("Start size: ");
+        x = get_int("\nStart size: ");
     }
     while (x < n);
 
