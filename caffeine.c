@@ -63,23 +63,23 @@ int main ()
     
     if (e > 0)
     {
-        printf("%i espresso%s\n", e, e == 1 ? "" : "s")
+        printf("%i espresso%s\n", e, e == 1 ? "" : "s");
     }
     if (b > 0)
     {
-        printf("%i black tea\n", b, b == 1 ? "" : "s")
+        printf("%i black tea\n", b, b == 1 ? "" : "s");
     }
     if (g > 0)
     {
-        printf("%i green tea\n", g, g == 1 ? "" : "s")
+        printf("%i green tea\n", g, g == 1 ? "" : "s");
     }
     if (c > 0)
     {
-        printf("%i cocoa\n", c)
+        printf("%i cocoa\n", c);
     }
     if (pc > 0)
     {
-        printf("%i piece of chocolate\n", pc)
+        printf("%i piece of chocolate\n", pc);
     }
     
     printf("That makes %i drink%s in total", drink, drink == 1 ? "" : "s");
