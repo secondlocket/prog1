@@ -7,11 +7,11 @@ int main ()
     float g = 0;
     int mg;
     int drink = 0;
-    //espresso
-    //black_tea
-    //green tea
-    //cocoa
-    //piece of chocolate
+    //espresso 70mg
+    //black_tea 30mg
+    //green tea 20mg
+    //cocoa 10mg
+    //piece of chocolate 1mg
     
     do
     {
