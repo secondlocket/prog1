@@ -32,6 +32,7 @@ int main ()
         {
             mg = mg - 70;
             drink++;
+            
         }
         else if (mg > 30)
         {
