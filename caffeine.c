@@ -54,7 +54,7 @@ int main ()
         }
         else if (mg >= 1)
         {
-            mg = mg - 1;
+            mg -= 1;
             drink++;
             pc++;
         }
