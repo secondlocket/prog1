@@ -11,7 +11,7 @@ int main ()
     printf("Tekst = ");
     fgets(tekst, tekst_lengte, stdin);
     
-    for ()
+    for (int i = 0, )
     
     
     
