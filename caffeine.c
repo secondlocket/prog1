@@ -69,7 +69,15 @@ int main ()
     {
         printf("%i black tea\n", b)
     }
-    if (e > 0)
+    if (g > 0)
+    {
+        printf("%i espresso", e)
+    }
+    if (c > 0)
+    {
+        printf("%i espresso", e)
+    }
+    if (pc > 0)
     {
         printf("%i espresso", e)
     }
