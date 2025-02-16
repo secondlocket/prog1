@@ -59,7 +59,7 @@ int main ()
             pc++;
         }
     }
-    while (mg > 0);
+    while (mg < 0);
     
     if (e > 0)
     {
