@@ -20,7 +20,7 @@ int main ()
         }
         else if (islower(tekst[i]))
         {
-            binnen = 1
+            binnen = 1;
         }
         else if (tekst[i] == ' ')
         {
