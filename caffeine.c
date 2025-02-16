@@ -63,11 +63,11 @@ int main ()
     
     if (e > 0)
     {
-        printf("%i espresso", e)
+        printf("%i espresso\n", e)
     }
     if (b > 0)
     {
-        printf("%i espresso", e)
+        printf("%i black tea\n", b)
     }
     
     printf("That makes %i drink%s in total", drink, drink == 1 ? "" : "s");
