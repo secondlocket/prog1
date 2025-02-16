@@ -22,7 +22,7 @@ int main (void)
     while (x < n);
 
     //llamas born
-    total = 
+    total = n/3
 
 
 
