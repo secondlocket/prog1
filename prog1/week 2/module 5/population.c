@@ -8,6 +8,7 @@ int main (void)
     
     do
     {
+        n = get_int("Start size: ");
         
     }
     
