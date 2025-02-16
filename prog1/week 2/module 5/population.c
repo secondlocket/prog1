@@ -14,7 +14,6 @@ int main (void)
     while (n < 9);
     
     //end size
-    int x;
     
     do
     {
