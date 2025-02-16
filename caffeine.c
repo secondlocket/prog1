@@ -65,10 +65,8 @@ int main ()
     {
         
     }
-    else
-    {
-        printf("");
-    }
+    
+    printf("That makes %i in total")
     
     return 0;
 }
