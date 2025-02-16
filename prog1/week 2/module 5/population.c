@@ -5,7 +5,7 @@ int main (void)
 {
     int n;
     int x;
-    int jaren;
+    int years;
     
     //start size
     do
