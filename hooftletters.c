@@ -19,7 +19,7 @@ int main ()
         }
         else if (tekst[i] == ' ')
         {
-            binnen = 1;
+            binnen = 0;
         }
     }
     
