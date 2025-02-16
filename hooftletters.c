@@ -9,7 +9,7 @@ int main ()
     char tekst_lengte[999];
     
     
-    string tekst = get_string("Tekst: ");
+    printf("Tekst = ")
     
     
     return 0;
