@@ -5,7 +5,7 @@ int main (void)
 {
     int n;
     int x;
-    int total;
+    int total = 0;
     
     //start size
     do
