@@ -13,6 +13,9 @@ int main ()
     fgets(tekst, tekst_lengte, stdin);
     
     for (int i = 0, tekst[i] != '\0'; i++)
+    {
+        
+    }
     
     
     
