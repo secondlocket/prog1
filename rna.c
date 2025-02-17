@@ -4,7 +4,7 @@
 #include <string.h>
 
 string rna(string dna);
-int rna_s
+string rna_sequence;
 
 int main()
 {
