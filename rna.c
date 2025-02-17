@@ -12,4 +12,6 @@ int main()
 }
 
 string rna(string dna)
-const char dna[] = "agct"
+{
+    const char dna[] = "agct";    
+}
