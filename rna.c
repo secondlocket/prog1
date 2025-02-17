@@ -10,7 +10,7 @@ int main()
     string dna = get_string("DNA: ");
     
     //controleren
-    for (i = 0; i < strlen(dna); i++)
+    for (int i = 0; i < strlen(dna); i++)
     {
         char x = toupper(dna[i]);
         
