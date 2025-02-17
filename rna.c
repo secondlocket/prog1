@@ -28,7 +28,7 @@ int main()
 }
 
 //rna functie
-void rna(string dna)
+void rna(string dna, char rna_sequence[])
 {
     for (int i = 0; i < strlen(dna); i++)
     {
