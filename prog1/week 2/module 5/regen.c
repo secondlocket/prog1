@@ -17,9 +17,8 @@ int main ()
         {
             if (aantal_dagen == 0)
             {
-                
+                printf("Dat kan niet");
             }
-            printf("Dat kan niet");
             break;
         }
     
