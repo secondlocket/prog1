@@ -20,7 +20,6 @@ int main ()
                 printf("Dat kan niet");
                 break;
             }
-            
         }
     
         aantal_dagen++;
