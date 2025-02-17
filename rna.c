@@ -39,6 +39,7 @@ string rna(string dna)
             {
                 
             }
+            else if (dna)
         }
     }
 }
