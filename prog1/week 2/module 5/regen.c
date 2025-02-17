@@ -16,12 +16,6 @@ int main ()
         aantal_dagen++;
         totaal_regen = totaal_regen + h;
         
-        if (h == 999)
-        {
-            printf("Dat kan niet");
-            break;
-        }
-        
         if (h==0)
         {
             float g = totaal_regen / (aantal_dagen - 1);
