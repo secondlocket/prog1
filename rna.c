@@ -39,7 +39,10 @@ string rna(string dna)
             {
                 
             }
-            else if (dna)
+            else if (dna[i] == 'G')
+            {
+                
+            }
         }
     }
 }
