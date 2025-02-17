@@ -15,6 +15,10 @@ int main ()
         
         if (h == 999)
         {
+            if (aantal_dagen == 0)
+            {
+                
+            }
             printf("Dat kan niet");
             break;
         }
