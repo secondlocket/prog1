@@ -34,7 +34,7 @@ int klinkers(const char *woord)
     int teller = 0;
     if(char woord[] == "a", "e", "i", "o", "u")
     
-    for (int i = 0; )
+    for (int i = 0; woord[i] != "\0")
     {
         teller ++;
     }
