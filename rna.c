@@ -4,15 +4,14 @@
 #include <string.h>
 
 string rna(string dna);
-int i;
+string rna_sequence;
 
 int main()
 {
-    string rna_sequence;
     string dna = get_string("DNA: ");
     
     //controleren
-    for (i = 0; i < strlen(dna); i++)
+    for (int i = 0; i < strlen(dna); i++)
     {
         char x = toupper(dna[i]);
         
@@ -23,6 +22,7 @@ int main()
         }
     }
     
+    string rna_sequence = rna(dna);
     printf("%s\n", rna_sequence);
     
     return 0;
