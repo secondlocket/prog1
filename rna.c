@@ -8,4 +8,4 @@ int main()
     
 }
 
-string rna(string )
+string rna(string dna)
