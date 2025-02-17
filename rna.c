@@ -4,10 +4,11 @@
 #include <string.h>
 
 string rna(string dna);
-string rna_sequence;
+
 
 int main()
 {
+    string rna_sequence;
     string dna = get_string("DNA: ");
     
     //controleren
