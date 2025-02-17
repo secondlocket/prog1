@@ -51,7 +51,7 @@ int klinkers(string woord)
         
         for (int j = 0; klinkers[j] != '\0'; j++)
         {
-            if (woord[i] == klinkers[j])
+            if (x == klinkers[j])
             {
                 teller++;
             }
