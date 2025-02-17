@@ -22,7 +22,7 @@ int main ()
     }
     else if (klinkers(woord2) > klinkers(woord1))
     {
-        
+        printf("%s", woord2);
     }
     
     return 0;
