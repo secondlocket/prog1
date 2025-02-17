@@ -29,11 +29,11 @@ int main ()
     }
     else if (klinkers2 > klinkers1)
     {
-        printf("%s\n", kleine2);
+        printf("%s\n", woord2);
     }
     else
     {
-        printf("%s %s", kleine1, kleine2);
+        printf("%s %s", woord1, woord2);
     }
     
     return 0;
