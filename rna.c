@@ -7,6 +7,7 @@ int main()
 {
     string dna = get_string("DNA: ");
     
+    
     return 0;
 }
 
