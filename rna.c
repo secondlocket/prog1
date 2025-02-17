@@ -30,7 +30,8 @@ int main()
 //rna functie
 string rna(string dna)
 {
-    vchar x = toupper(dna[i]);
+    const char dna[] = 'A', 'G', 'C', 'T';
+    
     for (int i = 0; i < strlen(dna); i++)
     {
         char x = toupper(dna[i]);
