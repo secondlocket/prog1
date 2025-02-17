@@ -3,16 +3,6 @@
 #include <string.h>
 
 //meer_klinkers functie
-int meer_klinkers(string a, string b)
-{
-    for(i = 0; i < n; i++)
-    {
-        if
-        {
-            klinkers++;
-        }
-    }
-}
 
 
 int main ()
