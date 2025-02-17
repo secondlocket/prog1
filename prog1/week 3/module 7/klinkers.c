@@ -10,8 +10,15 @@ int main ()
     string woord1 = get_string("Woord 1 = ");
     string woord2 = get_string("Woord 2 = ");
     
-    string kleine1 = tolower(woord1);
-    string kleine2 = tolower(woord2);
+    for (int i = 0; woord1[i] != '\0'; i++)
+    {
+        woord1[i] = tolower(woord1[i]);
+    }
+    
+    for (int i = 0; woord2[i] != '\0'; i++)
+    {
+        woord2[i] = tolower(woord2[i]);
+    }
     
     int klinkers1 = klinkers(kleine1);
     int klinkers2 = klinkers(kleine2);
