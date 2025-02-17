@@ -35,8 +35,6 @@ string rna(string dna)
     for (int i = 0; i < strlen(dna); i++)
     {
         
-        for (int j = 0; dna[j] != "agct"; j++)
-        {
             if (dna[i] == 'A')
             {
                 dna[i] = 'U';
