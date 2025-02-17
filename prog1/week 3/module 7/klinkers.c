@@ -26,7 +26,7 @@ int main ()
     }
     else
     {
-        printf("%s %s", kleine1, woord2);
+        printf("%s %s", kleine1, kleine2);
     }
     
     return 0;
