@@ -5,7 +5,7 @@
 //klinkers tellen functie
 int klinkers(const char *woord)
 {
-    if(char [] == "a", "e", "i", "o", "u")
+    if(char woord[] == "a", "e", "i", "o", "u")
     {
         int teller ++;
     }
