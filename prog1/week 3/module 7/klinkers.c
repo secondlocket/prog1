@@ -3,7 +3,7 @@
 #include <string.h>
 #include <ctype.h>
 
-int klinkers();
+int klinkers(string woord);
 
 int main ()
 {
