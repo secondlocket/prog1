@@ -13,7 +13,8 @@ int main()
         return 1;
     }
     
-    rna(dna)
+    rna(dna);
+    
     
     
     return 0;
