@@ -9,7 +9,7 @@ int main ()
     string woord1 = tolower(get_string("Woord 1 = "));
     string woord2 = tolower(get_string("Woord 2 = "));
     
-    if (klinkers(woord1) > klinkers(woord2))
+    if (klinkers1 > klinkers2
     {
         printf("%s", woord1);
     }
