@@ -32,7 +32,7 @@ string rna(string dna)
 {
     const char dna[] = "agct";
     
-    for (int i = 0; dna[i] != "agct"; i++)
+    for (int i = 0; i < strlen(dna); i++)
     {
         
         for (int j = 0; dna[j] != "agct"; j++)
