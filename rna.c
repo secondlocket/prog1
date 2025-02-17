@@ -35,11 +35,11 @@ string rna(string dna)
         char x = toupper(dna[i]);
         if (x == 'A')
         {
-            dna[i] = 'U';
+            rna_sequence[i] = 'U';
         }
         else if (dna[i] == 'G')
         {
-            dna[i] = 'C';
+            rna_sequence[i] = 'C';
         }
         else if (dna[i] == 'C')
         {
