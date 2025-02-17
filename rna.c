@@ -9,6 +9,7 @@ int main()
 {
     string dna = get_string("DNA: ");
     
+    for (i = 0; i < strlen(dna); 
     if(dna[i] != 'a', 'g', 'c', 't')
     {
         printf("Invalid DNA");
