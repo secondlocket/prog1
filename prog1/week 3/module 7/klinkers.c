@@ -20,7 +20,10 @@ int main ()
     {
         printf
     }
-    else if (klinkers(woord1) > klinkers(woord2))
+    else if (klinkers(woord2) > klinkers(woord1))
+    {
+        
+    }
     
     return 0;
 }
