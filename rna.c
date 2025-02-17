@@ -33,7 +33,7 @@ string rna(string dna)
         {
             if (dna[i] == 'A')
             {
-                dna[i] = 
+                dna[i] = 'U';
             }
             else if (dna[i] == 'G')
         }
