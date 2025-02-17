@@ -16,7 +16,7 @@ int main()
         
         if(strchr("AGCT", x) == NULL)
         {
-            printf("Invalid DNA");
+            printf("Invalid DNA\n");
             return 1;
         }
     }
