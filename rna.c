@@ -23,5 +23,17 @@ int main()
 //rna functie
 string rna(string dna)
 {
-    const char dna[] = "agct";    
+    const char dna[] = "agct";
+    for (int i = 0; woord[i] != '\0'; i++)
+    {
+        char x = tolower(woord[i]);
+        
+        for (int j = 0; klinkers[j] != '\0'; j++)
+        {
+            if (woord[i] == klinkers[j])
+            {
+                teller++;
+            }
+        }
+    }
 }
