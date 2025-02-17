@@ -25,10 +25,6 @@ int main ()
             break;
         }
     
-        if (h==0)
-        {
-            
-        }
         aantal_dagen++;
         totaal_regen = totaal_regen + h;
         
