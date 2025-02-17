@@ -13,7 +13,7 @@ int main ()
     kleine1 = tolower(woord1);
     kleine2 = tolower(woord2);
     
-    int klinkers1 = klinkers(woord1);
+    int klinkers1 = klinkers(kleine1);
     int klinkers2 = klinkers(woord2);
     
     if (klinkers1 > klinkers2)
