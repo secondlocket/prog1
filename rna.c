@@ -12,3 +12,4 @@ int main()
 }
 
 string rna(string dna)
+const char 
