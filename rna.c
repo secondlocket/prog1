@@ -35,7 +35,7 @@ string rna(string dna)
             {
                 teller++;
             }
-            else if (dna[i] == '')
+            else if (dna[i] == 'G')
         }
     }
 }
