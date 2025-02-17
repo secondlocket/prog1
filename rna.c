@@ -38,15 +38,15 @@ void rna(string dna, char rna_sequence[])
         {
             rna_sequence[i] = 'U';
         }
-        else if (dna[i] == 'G')
+        else if (x == 'G')
         {
             rna_sequence[i] = 'C';
         }
-        else if (dna[i] == 'C')
+        else if (x == 'C')
         {
             rna_sequence[i] = 'G';
         }
-        else if (dna[i] == 'T')
+        else if (x == 'T')
         {
             rna_sequence[i] = 'A';
         }
