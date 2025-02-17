@@ -11,7 +11,7 @@ int main ()
     string woord2 = get_string("Woord 2 = ");
     
     kleine1 = tolower(woord1);
-    kleine2
+    kleine2 = tolower(woord2);
     
     int klinkers1 = klinkers(woord1);
     int klinkers2 = klinkers(woord2);
