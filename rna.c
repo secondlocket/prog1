@@ -29,7 +29,7 @@ string rna(string dna)
     {
         char x = toupper(woord[i]);
         
-        for (int j = 0; klinkers[j] != '\0'; j++)
+        for (int j = 0; dna[j] != '\0'; j++)
         {
             if (woord[i] == klinkers[j])
             {
