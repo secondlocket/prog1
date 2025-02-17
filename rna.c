@@ -9,7 +9,7 @@ int main()
     
     if(dna[i] != "agct");
     {
-        printf("")
+        printf("Invalid DNA");
         return 1;
     }
     
