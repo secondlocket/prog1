@@ -54,7 +54,6 @@ int klinkers(string woord)
             if (woord[i] = klinkers[j])
             {
                 teller++;
-                
             }
         }
     }
