@@ -43,11 +43,11 @@ string rna(string dna)
         }
         else if (dna[i] == 'C')
         {
-            dna[i] = 'G';
+            rna_sequence[i] = 'G';
         }
         else if (dna[i] == 'T')
         {
-            dna[i] = 'A';
+            rna_sequence[i] = 'A';
         }
     }
     
