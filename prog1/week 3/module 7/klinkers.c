@@ -3,7 +3,7 @@
 #include <string.h>
 
 //klinkers tellen functie
-int teller;
+int teller = 0;
 int klinkers(const char *woord)
 {
     if(char woord[] == "a", "e", "i", "o", "u")
