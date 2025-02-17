@@ -22,8 +22,9 @@ int main()
     }
     
     char rna_sequence = rna(dna, rna_sequence);
-    printf("%s\n", rna_sequence);
     
+    
+    printf("%s\n", rna_sequence);
     return 0;
 }
 
