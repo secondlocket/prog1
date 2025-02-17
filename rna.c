@@ -5,7 +5,7 @@ string rna();
 
 int main()
 {
-    
+    string dna = get_string("DNA: ")
 }
 
 string rna(string dna)
