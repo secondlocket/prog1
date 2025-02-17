@@ -13,12 +13,14 @@ int main()
     for (i = 0; i < strlen(dna); i++)
     {
         char x = toupper(dna[i]);
-    }
-    if(dna[i] != 'a', 'g', 'c', 't')
+        
+        if(dna[i] != 'a', 'g', 'c', 't')
     {
         printf("Invalid DNA");
         return 1;
     }
+    }
+    
     
     string rna_sequence = rna(dna);
     printf("%s\n", rna_sequence);
