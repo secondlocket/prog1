@@ -29,7 +29,6 @@ string rna(string dna)
     
     for (int i = 0; dna[i] != "agct"; i++)
     {
-        char x = toupper(dna[i]);
         
         for (int j = 0; dna[j] != "agct"; j++)
         {
