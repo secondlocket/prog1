@@ -21,7 +21,7 @@ int main()
         }
     }
     
-    char rna_sequence[strlen(dna) + 1, rna_sequence);
+    char rna_sequence[strlen(dna) + 1];
     rna(dna, rna_sequence);
     
     printf("%s\n", rna_sequence);
