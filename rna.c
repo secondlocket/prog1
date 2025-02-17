@@ -20,6 +20,7 @@ int main()
     return 0;
 }
 
+//rna functie
 string rna(string dna)
 {
     const char dna[] = "agct";    
