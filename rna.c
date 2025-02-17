@@ -42,15 +42,15 @@ string rna(string dna)
         else if (dna[i] == 'G')
         {
             dna[i] = 'C';
-            }
-            else if (dna[i] == 'C')
-            {
-                dna[i] = 'G';
-            }
-            else if (dna[i] == 'T')
-            {
-                dna[i] = 'A';
-            }
+        }
+        else if (dna[i] == 'C')
+        {
+            dna[i] = 'G';
+        }
+        else if (dna[i] == 'T')
+        {
+            dna[i] = 'A';
         }
     }
+}
 }
