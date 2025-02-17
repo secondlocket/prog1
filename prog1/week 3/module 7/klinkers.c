@@ -38,7 +38,7 @@ int klinkers(const char *woord)
     {
         teller ++;
 
-        if (woord[i] = '\0')
+        if (woord[i] == klinkers[j])
         {
             break;
         }
