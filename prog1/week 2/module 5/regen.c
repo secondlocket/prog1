@@ -18,7 +18,6 @@ int main ()
         
         if (h == 999)
         {
-            printf("Dat kan niet");
             break;
         }
         
