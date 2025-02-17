@@ -4,6 +4,9 @@
 
 //meer_klinkers functie
 int meer_klinkers
+{
+    
+}
 
 
 int main ()
