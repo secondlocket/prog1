@@ -13,7 +13,7 @@ int main ()
     {
         printf("%s", woord1);
     }
-    else if (klinkers2 > klinkers(woord1))
+    else if (klinkers2 > klinkers1)
     {
         printf("%s", woord2);
     }
