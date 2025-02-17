@@ -15,7 +15,7 @@ float bereken_coupon2(int stuks, float prijs) {
     return (stuks - 1)  * prijs * 3/4 + prijs;
 }
 
-float optie3(int stuks, float prijs) {
+float bereken_coupon3(int stuks, float prijs) {
     if (stuks == 1)
     return stuks * prijs * 0.95;
     
