@@ -7,7 +7,11 @@ int main()
 {
     string dna = get_string("DNA: ");
     
-    if(dna[i])
+    if(dna[i] != "agct");
+    {
+        printf("")
+        return 1;
+    }
     
     
     return 0;
