@@ -32,7 +32,7 @@ int main ()
 int klinkers(const char *woord)
 {
     int teller = 0;
-    if(char woord[] == "a", "e", "i", "o", "u")
+    const char klinkers[] = "aeiou" 
     
     for (int i = 0; woord[i] != '\0'; i++)
     {
