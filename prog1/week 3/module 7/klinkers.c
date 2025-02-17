@@ -20,7 +20,7 @@ int main ()
     {
         printf("%s\n", kleine1);
     }
-    else if (klinkers2 > klinkers1)
+    else if (klinkers2 > kleine1)
     {
         printf("%s\n", woord2);
     }
