@@ -10,7 +10,7 @@ int main ()
     string woord1 = tolower(get_string("Woord 1 = "));
     string woord2 = tolower(get_string("Woord 2 = "));
     
-    int klinkers1 = klinkers(woord1);
+    int klinker1 = klinkers(woord1);
     int klinkers2 = klinkers(woord2);
     
     if (klinkers1 > klinkers2)
