@@ -29,9 +29,9 @@ int main ()
 }
 
 //klinkers tellen functie
-int teller = 0;
 int klinkers(const char *woord)
 {
+    int teller = 0;
     if(char woord[] == "a", "e", "i", "o", "u")
     {
         teller ++;
