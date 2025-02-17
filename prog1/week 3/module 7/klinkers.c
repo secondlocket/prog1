@@ -5,7 +5,7 @@
 int main ()
 {
     string woord1 = tolower(get_string("Woord 1 = "));
-    string woord2 = tolower(get_string("Woord 2 = ");
+    string woord2 = tolower(get_string("Woord 2 = "));
     
     return 0;
 }
