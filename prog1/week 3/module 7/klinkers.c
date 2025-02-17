@@ -2,6 +2,9 @@
 #include <cs50.h>
 #include <string.h>
 
+//
+
+
 int main ()
 {
     string woord1 = tolower(get_string("Woord 1 = "));
