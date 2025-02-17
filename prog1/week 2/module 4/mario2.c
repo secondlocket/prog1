@@ -26,7 +26,7 @@ int main () {
         }
         
         //spatie ertussen
-        printf(" ");
+        printf("  ");
         
         //loop L-aligned
         //#
