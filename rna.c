@@ -36,6 +36,9 @@ string rna(string dna)
                 dna[i] = 'U';
             }
             else if (dna[i] == 'G')
+            {
+                
+            }
         }
     }
 }
