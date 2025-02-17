@@ -30,7 +30,7 @@ int main ()
 }
 
 //klinkers tellen functie
-int klinkers(const char *woord)
+int klinkers(string woord)
 {
     int teller = 0;
     const char klinkers[] = "aeiou";
