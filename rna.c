@@ -7,6 +7,8 @@ int main()
 {
     string dna = get_string("DNA: ");
     
+    if(dna[i])
+    
     
     return 0;
 }
