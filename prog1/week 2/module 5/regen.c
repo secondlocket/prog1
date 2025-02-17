@@ -20,6 +20,7 @@ int main ()
                 printf("Dat kan niet");
                 break;
             }
+            
         }
     
         if (h==0)
