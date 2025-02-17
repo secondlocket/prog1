@@ -31,7 +31,7 @@ string rna(string dna)
         
         for (int j = 0; dna[j] != "agct"; j++)
         {
-            if (dna[i] == )
+            if (dna[i] == 'a')
             {
                 teller++;
             }
