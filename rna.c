@@ -15,7 +15,7 @@ int main()
     
     rna(dna);
     
-    
+    printf("%s", rna)
     
     return 0;
 }
