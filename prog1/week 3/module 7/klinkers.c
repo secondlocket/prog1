@@ -3,7 +3,7 @@
 #include <string.h>
 
 //klinkers tellen functie
-int klinkers(const char *wo)
+int klinkers(const char *woord)
 
 int main ()
 {
