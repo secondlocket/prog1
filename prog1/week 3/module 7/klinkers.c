@@ -18,7 +18,7 @@ int main ()
     
     if (klinkers(woord1) > klinkers(woord2))
     {
-        printf
+        printf("%s", woord1);
     }
     else if (klinkers(woord2) > klinkers(woord1))
     {
