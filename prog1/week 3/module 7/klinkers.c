@@ -20,6 +20,7 @@ int main ()
     {
         printf
     }
+    else
     
     return 0;
 }
