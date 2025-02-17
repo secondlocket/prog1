@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <cs50.h>
 
-char rna();
+string rna();
 
 int main()
 {
     
 }
 
-char rna
+string rna()
