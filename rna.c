@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
+int i;
 string rna();
 
 int main()
