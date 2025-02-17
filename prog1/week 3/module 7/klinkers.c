@@ -22,7 +22,7 @@ int main ()
     }
     else if (klinkers2 > klinkers1)
     {
-        printf("%s\n", woord2);
+        printf("%s\n", kleine2);
     }
     else
     {
