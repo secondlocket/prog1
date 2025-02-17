@@ -20,6 +20,10 @@ int main ()
     {
         printf("%s\n", woord2);
     }
+    else
+    {
+        printf()
+    }
     
     return 0;
 }
