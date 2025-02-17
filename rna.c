@@ -52,5 +52,7 @@ string rna(string dna)
             dna[i] = 'A';
         }
     }
+    
+    return dna[i];
 }
 
