@@ -52,6 +52,6 @@ void rna(string dna, char rna_sequence[])
         }
     }
     
-    return rna_sequence[i];
+    return rna_sequence;
 }
 
