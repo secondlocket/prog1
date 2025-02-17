@@ -30,7 +30,6 @@ int main()
 //rna functie
 string rna(string dna)
 {
-    
     for (int i = 0; i < strlen(dna); i++)
     {
         char x = toupper(dna[i]);
