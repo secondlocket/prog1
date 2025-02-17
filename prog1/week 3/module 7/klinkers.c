@@ -4,6 +4,9 @@
 
 //klinkers tellen functie
 int klinkers(const char *woord)
+{
+    
+}
 
 int main ()
 {
