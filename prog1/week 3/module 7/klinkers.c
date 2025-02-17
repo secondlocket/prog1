@@ -19,3 +19,13 @@ int main ()
     
     return 0;
 }
+
+//klinkers tellen functie
+int teller = 0;
+int klinkers(const char *woord)
+{
+    if(char woord[] == "a", "e", "i", "o", "u")
+    {
+        teller ++;
+    }
+}
