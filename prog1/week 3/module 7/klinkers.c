@@ -5,7 +5,7 @@
 //meer_klinkers functie
 int meer_klinkers(string a, string b)
 {
-    i
+    
 }
 
 
