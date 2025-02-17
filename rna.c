@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <cs50.h>
 
-char 
+char rna();
 
 int main()
 {
     
 }
+
+char rna
