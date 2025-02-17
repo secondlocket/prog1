@@ -7,7 +7,10 @@ int meer_klinkers(string a, string b)
 {
     for(i = 0; i < n; i++)
     {
-        
+        if
+        {
+            
+        }
     }
 }
 
