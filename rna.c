@@ -30,7 +30,7 @@ int main()
 //rna functie
 string rna(string dna)
 {
-    const char dna[] = 'A', 'g', 'c', 't';
+    const char dna[] = 'A', 'G', 'C', 'T';
     
     for (int i = 0; i < strlen(dna); i++)
     {
