@@ -2,7 +2,7 @@
 #include <cs50.h>
 #include <string.h>
 
-//klinkers functie
+//klinkers tellen functie
 
 
 int main ()
