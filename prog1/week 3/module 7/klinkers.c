@@ -3,7 +3,7 @@
 #include <string.h>
 
 //meer_klinkers functie
-int meer_klinkers
+int meer_klinkers()
 {
     
 }
