@@ -13,6 +13,8 @@ int main()
         return 1;
     }
     
+    rna(dna)
+    
     
     return 0;
 }
