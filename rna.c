@@ -14,7 +14,7 @@ int main()
     {
         char x = toupper(dna[i]);
         
-        if(dna[i] |= 'a', 'g', 'c', 't')
+        if(dna[i] |= 'A', 'G', 'C', 'T')
         {
             printf("Invalid DNA");
             return 1;
