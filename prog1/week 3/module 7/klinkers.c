@@ -37,7 +37,8 @@ int klinkers(string woord)
     
     for (int i = 0; woord[i] != '\0'; i++)
     {
-        char letter = tolower(woord[i])
+        char letter = tolower(woord[i]);
+        
         if (woord[i] == klinkers[i])
         {
             teller ++;
