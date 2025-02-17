@@ -43,7 +43,7 @@ int main () {
     }
     else if (eind_prijs2 <= eind_prijs1 && eind_prijs2 <= eind_prijs3) 
     {
-    printf("met coupon 2 kost het: %.2f\n", optie2(stuks,prijs));
+    printf("met coupon 2 kost het: %.2f\n", bereken_coupon2(stuks,prijs));
     } 
     else 
     {
