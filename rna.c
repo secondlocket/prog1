@@ -3,7 +3,6 @@
 #include <ctype.h>
 #include <string.h>
 
-int i;
 string rna(string dna);
 
 int main()
