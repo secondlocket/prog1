@@ -38,6 +38,7 @@ int klinkers(const char *woord)
     {
         if (woord[i] == klinkers[j])
         {
+            teller ++;
             break;
         }
     }
