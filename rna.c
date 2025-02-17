@@ -35,7 +35,7 @@ string rna(string dna)
     for (int i = 0; i < strlen(dna); i++)
     {
         char x = toupper(dna[i]);
-        if (dna[i] == 'A')
+        if (x == 'A')
         {
                 dna[i] = 'U';
             }
