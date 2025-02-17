@@ -32,7 +32,7 @@ int main ()
             break;
         }
     }
-    while (h < 999);
+    while (h != 999);
   
     return 0;
 }
