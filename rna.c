@@ -21,7 +21,6 @@ int main()
         }
     }
     
-    
     string rna_sequence = rna(dna);
     printf("%s\n", rna_sequence);
     
