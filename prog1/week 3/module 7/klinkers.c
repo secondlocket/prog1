@@ -18,7 +18,7 @@ int main ()
     }
     else if (klinkers2 > klinkers1)
     {
-        printf("%s", woord2);
+        printf("%s\n", woord2);
     }
     
     return 0;
