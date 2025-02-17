@@ -9,7 +9,7 @@ int meer_klinkers(string a, string b)
     {
         if
         {
-            
+            klinkers++;
         }
     }
 }
