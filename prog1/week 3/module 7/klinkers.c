@@ -45,5 +45,6 @@ int klinkers(string woord)
             break;
         }
     }
+    
     return teller
 }
