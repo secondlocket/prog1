@@ -22,7 +22,7 @@ int main ()
     }
     else
     {
-        printf("%s %s")
+        printf("%s %s", woord1, woord2);
     }
     
     return 0;
