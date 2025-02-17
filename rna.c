@@ -27,7 +27,7 @@ string rna(string dna)
     
     for (int i = 0; dna[i] != "agct"; i++)
     {
-        char x = tolower(woord[i]);
+        char x = toupper(woord[i]);
         
         for (int j = 0; klinkers[j] != '\0'; j++)
         {
