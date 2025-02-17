@@ -3,7 +3,7 @@
 #include <string.h>
 
 //klinkers tellen functie
-
+int klinkers()
 
 int main ()
 {
