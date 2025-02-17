@@ -16,11 +16,11 @@ int main ()
     string woord1 = tolower(get_string("Woord 1 = "));
     string woord2 = tolower(get_string("Woord 2 = "));
     
-    if(klinkers(woord1) > klinkers(woord2))
+    if (klinkers(woord1) > klinkers(woord2))
     {
         printf
     }
-    else
+    else if (klinkers(woord1) > klinkers(woord2))
     
     return 0;
 }
