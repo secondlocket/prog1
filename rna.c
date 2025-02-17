@@ -51,6 +51,6 @@ string rna(string dna)
         }
     }
     
-    return dna[i];
+    return rna_sequence[i];
 }
 
