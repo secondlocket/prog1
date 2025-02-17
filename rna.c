@@ -14,7 +14,7 @@ int main()
     {
         char x = toupper(dna[i]);
         
-        if(strchr("AGCT", dna[i]) == NULL)
+        if(strchr("AGCT", x) == NULL)
         {
             printf("Invalid DNA");
             return 1;
