@@ -12,4 +12,4 @@ int main()
 }
 
 string rna(string dna)
-const char 
+const char dna[] = ""
