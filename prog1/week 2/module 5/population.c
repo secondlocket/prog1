@@ -28,7 +28,7 @@ int main (void)
     }
     while (n < x);
     
-    printf("Years = %i", years);
+    printf("Years: %i", years);
 
     return 0;
 }
