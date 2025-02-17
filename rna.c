@@ -24,6 +24,7 @@ int main()
 string rna(string dna)
 {
     const char dna[] = "agct";
+    
     for (int i = 0; woord[i] != '\0'; i++)
     {
         char x = tolower(woord[i]);
