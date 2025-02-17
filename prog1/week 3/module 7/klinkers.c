@@ -2,15 +2,6 @@
 #include <cs50.h>
 #include <string.h>
 
-//klinkers tellen functie
-int teller = 0;
-int klinkers(const char *woord)
-{
-    if(char woord[] == "a", "e", "i", "o", "u")
-    {
-        teller ++;
-    }
-}
 
 int main ()
 {
