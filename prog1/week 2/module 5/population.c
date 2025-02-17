@@ -26,8 +26,7 @@ int main (void)
         n += (n/3 - n/4);
         years++;
     }
-    
-    
+
     printf("Years: %i", years);
 
     return 0;
