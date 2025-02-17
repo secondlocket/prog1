@@ -2,7 +2,8 @@
 #include <cs50.h>
 #include <string.h>
 
-//
+//meer_klinkers functie
+int 
 
 
 int main ()
