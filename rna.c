@@ -10,6 +10,9 @@ int main()
     string dna = get_string("DNA: ");
     
     for (i = 0; i < strlen(dna); i++)
+    {
+        char x = toupper(dna[i]);
+    }
     if(dna[i] != 'a', 'g', 'c', 't')
     {
         printf("Invalid DNA");
