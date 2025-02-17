@@ -16,8 +16,7 @@ int main()
         return 1;
     }
     
-    rna(dna);
-    string rna_sequence = rna
+    string rna_sequence = rna(dna);
     printf("%s", rna)
     
     return 0;
