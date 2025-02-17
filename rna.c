@@ -3,8 +3,7 @@
 #include <ctype.h>
 #include <string.h>
 
-string rna(string dna);
-char rna_sequence;
+void rna(string dna, char rna_sequence[]);
 
 int main()
 {
