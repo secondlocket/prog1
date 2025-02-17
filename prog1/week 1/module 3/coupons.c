@@ -35,7 +35,7 @@ int main () {
     
     float eind_prijs1 = bereken_coupon1(stuks, prijs);
     float eind_prijs2 = bereken_coupon2(stuks, prijs);
-    float eind_prijs3 = optie3(stuks, prijs);
+    float eind_prijs3 = bereken_coupon3(stuks, prijs);
     
     if (eind_prijs1 <= eind_prijs2 && eind_prijs1 <= eind_prijs3) 
     {
