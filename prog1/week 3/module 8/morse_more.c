@@ -31,6 +31,9 @@ string naar_morse(string c)
 char naar_tekst(string c)
 {
     if (c = ".-")
+    {
+        return 'a';
+    }
 }
 
 int main()
