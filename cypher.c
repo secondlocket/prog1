@@ -6,9 +6,9 @@ int main()
 {
     string invoer = get_string("plaintext: ");
     
-    for(int pos = 0; pos < strlen(s); pos++)
+    for(int i = 0; i < strlen(s); i++)
     {
-        s[pos] = 'a';
+        s[i] = 'a';
     }
     
     return 0;
