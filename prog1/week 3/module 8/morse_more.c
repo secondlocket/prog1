@@ -91,7 +91,7 @@ char naar_tekst(string c)
     }
     else if (c = "-.-")
     {
-        return 'a';
+        return 'k';
     }
     else if (c = ".-")
     {
