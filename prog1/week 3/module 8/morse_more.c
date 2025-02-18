@@ -48,7 +48,7 @@ char naar_tekst(string c)
     }
     else if (c = ".")
     {
-        return 'a';
+        return 'e';
     }
     else if (c = ".-")
     {
