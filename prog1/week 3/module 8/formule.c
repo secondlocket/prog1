@@ -9,6 +9,9 @@ int main()
     string f = get_string("Geef een formule: ");
     
     for (int i = 0; i < strlen(f); i++)
+    {
+        
+    }
     
     
     //haakje1 "(" controleren
