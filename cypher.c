@@ -8,9 +8,9 @@ int main()
     
     string invoer = get_string("plaintext: ");
     
-    for(int i = 0; i < strlen(s); i++)
+    for(int i = 0; i < strlen(invoer); i++)
     {
-        s[i] = 'a';
+        invoer[i] = 'a';
         
         for (int i = 0; i < strlen(dna); i++)
         {
