@@ -9,6 +9,7 @@ int main()
     
     
     
+    
     for (int i = 0; i < haakje1; i++)
     {
         teller++;
