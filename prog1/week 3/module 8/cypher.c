@@ -26,7 +26,7 @@ int main()
     
     for(int i = 0; i < strlen(invoer); i++)
     {
-        printf("%c", reverse(invoer[i]));
+        printf("cyphertext: %c", reverse(invoer[i]));
     }
 
     return 0;
