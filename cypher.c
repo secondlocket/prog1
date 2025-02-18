@@ -5,7 +5,7 @@
 //omkeren functie
 char reverse(char c)
 {
-    if (isupper(c)
+    if (isupper(c))
     {
         s[i] = tolower(s[i]);
     }
