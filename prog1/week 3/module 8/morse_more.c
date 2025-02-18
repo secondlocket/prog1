@@ -25,6 +25,7 @@ char naar_morse(string c)
         return c = " ";
     }
     
+    return c;
 }
 
 int main()
