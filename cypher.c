@@ -4,6 +4,8 @@
 
 int main()
 {
+    char s[];
+    
     string invoer = get_string("plaintext: ");
     
     for(int i = 0; i < strlen(s); i++)
