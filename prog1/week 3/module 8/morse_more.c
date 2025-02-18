@@ -64,9 +64,10 @@ char naar_tekst(string c)
     {
         return 'h';
     }
-    else if (c = ".-")
+    //bijzonder
+    else if (c = "..")
     {
-        return 'a';
+        return 'i';
     }
     else if (c = ".-")
     {
