@@ -11,9 +11,9 @@ char reverse(char c)
     }
         
     if (islower(s[i]))
-        {
-            s[i] = toupper(s[i]);
-        }
+    {
+        s[i] = toupper(s[i]);
+    }
 }
 
 
