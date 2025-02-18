@@ -47,8 +47,7 @@ char naar_tekst(string c)
     {
         return 'h';
     }
-    //bijzonder 1
-    else if (c = ".")
+    else if (c = ".---")
     {
         return 'e';
     }
