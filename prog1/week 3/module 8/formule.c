@@ -8,12 +8,14 @@ int main()
     //haakje1 "("
     if ()
     
-    //haakje2 ")"
-    if ()
-    
     for (int i = 0; i < haakje1; i++)
     {
         teller++;
     }
+    
+    //haakje2 ")"
+    if ()
+    
+    
     
 }
