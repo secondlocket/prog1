@@ -28,7 +28,7 @@ int main()
         }
     }
     
-    char 
+    char x *f 
     
     
     return 0;
