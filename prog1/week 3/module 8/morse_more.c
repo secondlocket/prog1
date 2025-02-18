@@ -7,6 +7,7 @@ int main()
 {
     string invoer = get_string("Code: ");
     
+    char morse[i] = invoer[i];
     
     return 0;
 }
