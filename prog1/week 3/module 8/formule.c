@@ -21,7 +21,7 @@ int main()
             haakje1++;
         }
         
-        //haakje2 tellen
+        //haakje2 ")" tellen
         else if (strchr(")", f))
         {
             haakje2++;
