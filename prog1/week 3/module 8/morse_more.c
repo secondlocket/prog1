@@ -56,9 +56,9 @@ char naar_tekst(string c)
     {
         return 'f';
     }
-    else if (c = "")
+    else if (c = "--.")
     {
-        return 'a';
+        return 'g';
     }
     else if (c = ".-")
     {
