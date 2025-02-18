@@ -6,7 +6,7 @@ int main()
     int teller1;
     int teller2;
     
-    
+    string f = 
     
     
     //haakje1 "(" controleren
