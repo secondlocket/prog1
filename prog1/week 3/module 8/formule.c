@@ -3,7 +3,7 @@
 
 int main()
 {
-    int teller1;
+    int haakje1;
     int teller2;
     
     string f = get_string("Geef een formule: ");
