@@ -50,7 +50,7 @@ char naar_tekst(string c)
     {
         return 'e';
     }
-    else if (c = ".-")
+    else if (c = "..-.")
     {
         return 'f';
     }
