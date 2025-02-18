@@ -64,11 +64,12 @@ char naar_tekst(string c)
     {
         return 'h';
     }
-    //bijzonder
+    //bijzonder 2
     else if (c = "..")
     {
         return 'i';
     }
+    //bijzonder 2
     else if (c = ".-")
     {
         return 'a';
