@@ -27,4 +27,9 @@ int main()
             haakje2++;
         }
     }
+    
+    
+    
+    
+    return 0;
 }
