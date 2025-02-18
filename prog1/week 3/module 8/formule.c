@@ -11,7 +11,7 @@ int main()
     //haakje1 "(" tellen
     for (int i = 0; i < haakje1; i++)
     {
-        teller++;
+        teller1++;
     }
     
     //haakje2 ")"
