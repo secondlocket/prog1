@@ -10,7 +10,7 @@ int main()
     
     for (int i = 0; i < strlen(f); i++)
     {
-        if(strchr("()", x) == NULL)
+        if(strchr("()", f) == NULL)
         {
             printf("Invalid DNA\n");
             return 1;
