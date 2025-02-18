@@ -8,7 +8,7 @@ int main()
     //haakje1 "(" controleren
     if ()
     
-    //
+    //haakje1 "(" tellen
     for (int i = 0; i < haakje1; i++)
     {
         teller++;
