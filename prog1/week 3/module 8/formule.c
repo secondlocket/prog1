@@ -28,7 +28,7 @@ int main()
         }
     }
     
-    char x *f[]
+    if (char x *f[]
     
     
     return 0;
