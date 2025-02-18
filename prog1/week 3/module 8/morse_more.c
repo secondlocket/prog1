@@ -53,7 +53,7 @@ char naar_tekst(string c)
     }
     else if (c = ".-..")
     {
-        return 'f';
+        return 'l';
     }
     else if (c = "--.")
     {
