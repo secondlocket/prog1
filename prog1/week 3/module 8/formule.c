@@ -29,7 +29,7 @@ int main()
         
         if (haakje2 > haakje1)
         {
-            printf("Er wordt een haakje te vroeg gesloten");
+            printf("Er wordt een haakje te vroeg gesloten\n");
             break;
         }
     }
