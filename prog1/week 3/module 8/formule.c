@@ -6,7 +6,6 @@ int main()
 {
     int haakje1 = 0;
     int haakje2 = 0;
-    int a;
     
     string string = get_string("Geef een formule: ");
     char f = string[a];
