@@ -15,7 +15,7 @@ int main()
         
         if (strchr("()", f) == NULL)
         {
-            printf("Er zijn geen fouten\n");
+            printf("Er zijn geen fouten.\n");
             break;
         }
         
