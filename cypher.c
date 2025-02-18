@@ -2,7 +2,7 @@
 #include <cs50.h>
 #include <string.h>
 
-//omgekeerd functie
+//omkeren functie
 
 
 
