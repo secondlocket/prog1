@@ -28,6 +28,8 @@ char naar_morse(string c)
     return c;
 }
 
+char 
+
 int main()
 {
     string invoer = get_string("Code: ");
