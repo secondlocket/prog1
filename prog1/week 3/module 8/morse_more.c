@@ -6,5 +6,8 @@
 int main()
 {
     string invoer = get_string("Code: ");
+    
+    
+    return 0;
 }
 
