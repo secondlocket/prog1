@@ -20,7 +20,7 @@ int main()
         }
         
         //haakje2 ")" tellen
-        else if (f (")", f))
+        else if (f == ')')
         {
             haakje2++;
         }
