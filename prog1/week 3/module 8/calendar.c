@@ -3,5 +3,7 @@
 
 int main ()
 {
-    int year = get_int("Year")
+    int year = get_int("Year: ");
+    int month = get_int("Month: ");
+    
 }
