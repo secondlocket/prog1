@@ -5,9 +5,10 @@ int main()
 {
     int teller
     
-    //haakje1 "("
+    //haakje1 "(" controleren
     if ()
     
+    //
     for (int i = 0; i < haakje1; i++)
     {
         teller++;
