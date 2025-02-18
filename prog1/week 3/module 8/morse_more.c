@@ -2,7 +2,7 @@
 #include <cs50.h>
 
 //naar morse functie
-
+c
 
 int main()
 {
