@@ -25,7 +25,7 @@ int main()
     
     for(int i = 0; i < strlen(invoer); i++)
     {
-        printf("%s")
+        printf("%c",)
     }
         
 
