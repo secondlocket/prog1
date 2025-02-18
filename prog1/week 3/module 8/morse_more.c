@@ -123,11 +123,11 @@ char naar_tekst(string c)
     {
         return 'i';
     }
-    else if (c = ".-")
+    else if (c = "--")
     {
-        return 'a';
+        return 'm';
     }
-    else if (c = ".-")
+    else if (c = "-.")
     {
         return 'a';
     }
