@@ -6,7 +6,7 @@ int main()
     int teller1;
     int teller2;
     
-    string f = 
+    string f = get_string("Geef een formule: ");
     
     
     //haakje1 "(" controleren
