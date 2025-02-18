@@ -18,6 +18,6 @@ int main()
     //haakje2 ")" controleren
     if ()
     
-    
+    //haakje2 ")" tellen
     
 }
