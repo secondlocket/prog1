@@ -10,7 +10,7 @@ int main()
     string string = get_string("Geef een formule: ");
     char f = string[];
     
-    for (int i = 0; i < strlen(f); i++)
+    for (int i = 0; i < strlen(string[i]); i++)
     {
         if (strchr("()", f) == NULL)
         {
