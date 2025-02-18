@@ -15,6 +15,8 @@ char reverse(char c)
     {
         return 'z' - (c - 'A');
     }
+    
+    return c;
 }
 
 
