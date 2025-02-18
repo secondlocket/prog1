@@ -14,6 +14,8 @@ int main()
         {
             printf("Er zijn geen fouten\n");
         }
+        
+        
     }
     
     
