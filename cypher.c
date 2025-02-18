@@ -28,8 +28,6 @@ int main()
     {
         printf("%c", reverse(invoer[i]));
     }
-        
 
-    
     return 0;
 }
