@@ -28,7 +28,10 @@ int main()
         }
     }
     
-    if (haakje1 == haakje2
+    if (haakje1 != haakje2)
+    {
+        printf("")
+    }
     
     
     return 0;
