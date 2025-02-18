@@ -36,7 +36,7 @@ int main()
         printf("Er worden te weinig haakjes gesloten\n");
         break;
     }
-    else 
+    else if (haakje1 == haakje 2)
     {
         printf("Er zijn geen fouten\n");
         break;
