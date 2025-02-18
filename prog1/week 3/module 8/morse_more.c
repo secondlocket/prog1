@@ -44,9 +44,9 @@ char naar_tekst(string c)
     }
     else if (c = "-..")
     {
-        return 'a';
+        return 'd';
     }
-    else if (c = ".-")
+    else if (c = "")
     {
         return 'a';
     }
