@@ -28,7 +28,7 @@ string naar_morse(string c)
     return c;
 }
 
-char naar_tekst(char c)
+char naar_tekst(string c)
 {
     
 }
