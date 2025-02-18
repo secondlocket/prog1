@@ -49,7 +49,7 @@ char naar_tekst(string c)
     }
     else if (c = ".---")
     {
-        return 'e';
+        return 'j';
     }
     //bijzonder 1
     else if (c = "..-.")
