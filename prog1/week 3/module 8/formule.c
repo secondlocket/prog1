@@ -11,6 +11,7 @@ int main()
     
     for (int i = 0; i < strlen(string); i++)
     {
+        char f = formule[i]
         
         if (strchr("()", f) == NULL)
         {
