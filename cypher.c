@@ -12,8 +12,14 @@ int main()
         
         if (isupper(s[i]))
         {
-            tolower
+            s[i] = tolower(s[i]);
         }
+        
+        if (islower(s[i]))
+        {
+            s[i] = toupper(s[i]);
+        }
+        
     }
     
     return 0;
