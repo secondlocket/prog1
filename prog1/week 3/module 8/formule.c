@@ -13,7 +13,6 @@ int main()
         if(strchr("()", f) == NULL)
         {
             printf("Invalid DNA\n");
-            return 1;
         }
     }
     
