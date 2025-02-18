@@ -139,7 +139,7 @@ char naar_tekst(string c)
     }
     else if (c = "-")
     {
-        return 'a';
+        return 't';
     }
     
     return c;
