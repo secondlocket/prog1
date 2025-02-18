@@ -103,7 +103,7 @@ char naar_tekst(string c)
     }
     else if (c = "...")
     {
-        return 'a';
+        return 's';
     }
     else if (c = ".-")
     {
