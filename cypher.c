@@ -3,7 +3,7 @@
 
 int main()
 {
-    string 
+    string input 
     
     return 0;
 }
