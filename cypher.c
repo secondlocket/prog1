@@ -11,6 +11,9 @@ int main()
         s[i] = 'a';
         
         if (isupper(s[i]))
+        {
+            tolower
+        }
     }
     
     return 0;
