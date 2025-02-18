@@ -32,7 +32,6 @@ int main()
     {
         printf("Er worden te weinig haakjes gesloten");
     }
-    else if
     
     
     return 0;
