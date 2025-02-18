@@ -7,7 +7,7 @@ int main()
     int teller2;
     
     //haakje1 "(" controleren
-    if ()
+    if (int haakje1[])
     
     
     
