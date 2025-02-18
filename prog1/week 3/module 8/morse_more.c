@@ -93,9 +93,9 @@ char naar_tekst(string c)
     {
         return 'k';
     }
-    else if (c = ".-")
+    else if (c = "---")
     {
-        return 'a';
+        return 'o';
     }
     else if (c = ".-")
     {
