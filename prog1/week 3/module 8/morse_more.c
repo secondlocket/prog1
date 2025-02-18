@@ -73,11 +73,11 @@ char naar_tekst(string c)
     }
     else if (c = "-.--")
     {
-        return 'a';
+        return 'y';
     }
-    else if (c = ".-")
+    else if (c = "--..")
     {
-        return 'a';
+        return 'z';
     }
     else if (c = ".-")
     {
