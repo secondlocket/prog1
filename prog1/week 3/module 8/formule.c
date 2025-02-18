@@ -15,7 +15,7 @@ int main()
             printf("Er zijn geen fouten\n");
         }
         
-        else if ()
+        else if (strchr)
     }
     
     
