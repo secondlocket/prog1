@@ -131,6 +131,8 @@ char naar_tekst(string c)
     {
         return 'n';
     }
+    
+    //1
     else if (c = ".-")
     {
         return 'a';
