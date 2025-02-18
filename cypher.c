@@ -10,7 +10,7 @@ char reverse(char c)
         c = tolower(c);
     }
         
-    if (islower(c)
+    if (islower(c))
     {
         c = toupper(c);
     }
