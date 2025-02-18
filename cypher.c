@@ -3,7 +3,9 @@
 
 int main()
 {
-    string invoer
+    string invoer = get_string("plaintext: ");
+    
+    
     
     return 0;
 }
