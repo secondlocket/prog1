@@ -7,7 +7,7 @@ char reverse(char c)
 {
     if (isupper(c))
     {
-        s[i] = tolower(s[i]);
+        c = tolower(s[i]);
     }
         
     if (islower(s[i]))
