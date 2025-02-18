@@ -59,7 +59,7 @@ char naar_tekst(string c)
     {
         return 'p';
     }
-    else if (c = "....")
+    else if (c = ".")
     {
         return 'h';
     }
