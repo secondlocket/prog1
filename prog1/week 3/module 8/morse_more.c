@@ -30,7 +30,7 @@ string naar_morse(string c)
 
 char naar_tekst(string c)
 {
-    
+    if (c = "")
 }
 
 int main()
