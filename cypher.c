@@ -12,7 +12,7 @@ char reverse(char c)
         
     if (islower(c))
     {
-        return 'z' - (c - 'a');
+        return 'z' - (c - 'A');
     }
 }
 
