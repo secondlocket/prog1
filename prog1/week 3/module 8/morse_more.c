@@ -22,7 +22,7 @@ string naar_morse(string c)
     }
     else if (c == ",")
     {
-        return c = ' ';
+        return c = " ";
     }
     
     return c;
