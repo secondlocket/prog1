@@ -67,7 +67,6 @@ char naar_tekst(string c)
     {
         return 'v';
     }
-    //bijzonder 2
     else if (c = ".-")
     {
         return 'a';
