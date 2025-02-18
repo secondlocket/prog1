@@ -19,5 +19,9 @@ int main()
     if ()
     
     //haakje2 ")" tellen
+    for (int i = 0; i < haakje1; i++)
+    {
+        teller1++;
+    }
     
 }
