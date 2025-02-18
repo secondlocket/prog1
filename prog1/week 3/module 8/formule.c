@@ -24,10 +24,10 @@ int main()
         {
             haakje2++;
             if (haakje2 > haakje1)
-        {
-            printf("Er wordt een haakje te vroeg gesloten\n");
-            break;
-        }
+            {
+                printf("Er wordt een haakje te vroeg gesloten\n");
+                break;
+            }
         }
     }
     
