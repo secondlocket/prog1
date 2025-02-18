@@ -33,6 +33,7 @@ int main()
         if (haakje1 > haakje2)
         {
             printf("Er worden te weinig haakjes gesloten\n");
+            break;
         }
         else
         {
