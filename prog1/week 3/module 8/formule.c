@@ -29,7 +29,7 @@ int main()
         
         if (haakje2 > haakje1)
         {
-            
+            printf("")
         }
     }
     
