@@ -4,7 +4,7 @@
 
 int main()
 {
-    int haakje1;
+    int haakje1 = 0;
     int haakje2;
     int a;
     
