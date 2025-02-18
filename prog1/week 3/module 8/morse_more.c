@@ -63,9 +63,9 @@ char naar_tekst(string c)
     {
         return 'q';
     }
-    else if (c = "..")
+    else if (c = "...-")
     {
-        return 'i';
+        return 'v';
     }
     //bijzonder 2
     else if (c = ".-")
