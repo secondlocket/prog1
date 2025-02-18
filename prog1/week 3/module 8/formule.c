@@ -19,6 +19,11 @@ int main()
         {
             haakje1++;
         }
+        
+        else if (strchr("(", f))
+        {
+            haakje1++;
+        }
     }
     
     
