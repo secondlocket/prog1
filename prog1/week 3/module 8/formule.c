@@ -4,7 +4,7 @@
 int main()
 {
     int haakje1;
-    int teller2;
+    int haakje2;
     
     string f = get_string("Geef een formule: ");
     
