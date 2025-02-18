@@ -3,6 +3,9 @@
 
 int main()
 {
+    int teller
+    
+    
     
     for (int i = 0; i < haakje1; i++)
     {
