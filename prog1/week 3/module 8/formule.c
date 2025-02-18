@@ -19,9 +19,9 @@ int main()
     if ()
     
     //haakje2 ")" tellen
-    for (int i = 0; i < haakje1; i++)
+    for (int i = 0; i < haakje2; i++)
     {
-        teller1++;
+        teller2++;
     }
     
 }
