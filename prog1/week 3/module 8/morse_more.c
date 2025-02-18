@@ -69,7 +69,7 @@ char naar_tekst(string c)
     }
     else if (c = "-..-")
     {
-        return 'a';
+        return 'x';
     }
     else if (c = ".-")
     {
