@@ -50,6 +50,35 @@ char naar_tekst(string c)
     {
         return 'a';
     }
+    else if (c = ".-")
+    {
+        return 'a';
+    }
+    else if (c = ".-")
+    {
+        return 'a';
+    }
+    else if (c = ".-")
+    {
+        return 'a';
+    }
+    else if (c = ".-")
+    {
+        return 'a';
+    }
+    else if (c = ".-")
+    {
+        return 'a';
+    }
+    else if (c = ".-")
+    {
+        return 'a';
+    }
+    else if (c = ".-")
+    {
+        return 'a';
+    }
+    
 }
 
 int main()
