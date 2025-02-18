@@ -6,9 +6,10 @@ int main()
 {
     int haakje1;
     int haakje2;
+    int a;
     
     string string = get_string("Geef een formule: ");
-    char f = string[int a]
+    char f = string[a]
     
     for (int i = 0; i < strlen(f); i++)
     {
