@@ -3,7 +3,7 @@
 #include <string.h>
 
 //omkeren functie
-char reverse(char c)
+char omkeren(char c)
 {
     if (islower(c))
     {
