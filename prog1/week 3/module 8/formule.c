@@ -8,6 +8,8 @@ int main()
     
     string f = get_string("Geef een formule: ");
     
+    for ()
+    
     
     //haakje1 "(" controleren
     if (int haakje1[])
