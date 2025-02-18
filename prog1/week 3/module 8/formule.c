@@ -23,12 +23,11 @@ int main()
         else if (f == ')')
         {
             haakje2++;
-        }
-        
-        if (haakje2 > haakje1)
+            if (haakje2 > haakje1)
         {
             printf("Er wordt een haakje te vroeg gesloten\n");
             break;
+        }
         }
     }
     
