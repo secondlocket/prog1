@@ -133,11 +133,11 @@ char naar_tekst(string c)
     }
     
     //1
-    else if (c = ".-")
+    else if (c = ".")
     {
-        return 'a';
+        return 'e';
     }
-    else if (c = ".-")
+    else if (c = "-")
     {
         return 'a';
     }
