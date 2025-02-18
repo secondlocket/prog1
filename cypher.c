@@ -10,7 +10,7 @@ int main()
     
     for(int i = 0; i < strlen(invoer); i++)
     {
-        invoer[i] = 'a';
+        if invoer[i] = 'a';
         
     }
         
