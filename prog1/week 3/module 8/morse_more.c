@@ -51,7 +51,7 @@ char naar_tekst(string c)
     {
         return 'j';
     }
-    else if (c = "..-.")
+    else if (c = ".-..")
     {
         return 'f';
     }
