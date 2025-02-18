@@ -13,14 +13,8 @@ int main()
     {
         char f = formule[i];
         
-        if (strchr("()", f) == NULL)
-        {
-            printf("Er zijn geen fouten.\n");
-            break;
-        }
-        
         //haakje1 "(" tellen
-        else if (strchr("(", f))
+        if (f == '(')
         {
             haakje1++;
         }
