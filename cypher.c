@@ -10,7 +10,7 @@ int main()
     {
         s[i] = 'a';
         
-        if (isupper(s[i])
+        if (isupper(s[i]))
     }
     
     return 0;
