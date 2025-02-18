@@ -15,7 +15,7 @@ int main()
             printf("Er zijn geen fouten\n");
         }
         
-        //haakje1 tellen
+        //haakje1 "(" tellen
         else if (strchr("(", f))
         {
             haakje1++;
