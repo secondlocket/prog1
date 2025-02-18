@@ -2,8 +2,8 @@
 #include <cs50.h>
 #include <string.h>
 
-//omkeren functie
-char omkeren(char c)
+//reverse functie
+char reverse(char c)
 {
     if (islower(c))
     {
