@@ -7,7 +7,7 @@ char reverse(char c)
 {
     if (isupper(c))
     {
-        return 'Z' - (c - 'a')
+        return 'Z' - (c - 'a');
     }
         
     if (islower(c))
