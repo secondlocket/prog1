@@ -6,11 +6,11 @@ string naar_morse(string c)
 {
     if (c == ",,,,,,,")
     {
-        return c = ' ';
+        return c = " ";
     }
     else if (c == ",,,")
     {
-        return c = ' ';
+        return c = " ";
     }
     else if (c == "===")
     {
