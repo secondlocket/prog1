@@ -52,7 +52,7 @@ char naar_tekst(string c)
     }
     else if (c = ".-")
     {
-        return 'a';
+        return 'f';
     }
     else if (c = ".-")
     {
