@@ -28,7 +28,10 @@ char naar_morse(string c)
     return c;
 }
 
-char naar_tekst()
+char naar_tekst(char c)
+{
+    
+}
 
 int main()
 {
