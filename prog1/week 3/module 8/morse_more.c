@@ -5,5 +5,5 @@
 
 int main()
 {
-    string 
+    string invoer = get_string("")
 }
