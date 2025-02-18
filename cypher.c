@@ -12,7 +12,7 @@ char reverse(char c)
         
     if (islower(c))
     {
-        c = toupper(c);
+        return c = toupper(c);
     }
 }
 
