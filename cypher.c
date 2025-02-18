@@ -5,12 +5,12 @@
 //omkeren functie
 char reverse(char c)
 {
-    if (isupper(c))
+    if (islower(c))
     {
         return 'Z' - (c - 'a');
     }
         
-    if (islower(c))
+    if (isupper(c))
     {
         return 'z' - (c - 'A');
     }
