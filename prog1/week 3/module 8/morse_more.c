@@ -109,10 +109,12 @@ char naar_tekst(string c)
     {
         return 'u';
     }
-    else if (c = ".-")
+    else if (c = ".--")
     {
-        return 'a';
+        return 'w';
     }
+    
+    //2
     else if (c = ".-")
     {
         return 'a';
