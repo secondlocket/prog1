@@ -51,7 +51,6 @@ char naar_tekst(string c)
     {
         return 'j';
     }
-    //bijzonder 1
     else if (c = "..-.")
     {
         return 'f';
