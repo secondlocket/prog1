@@ -21,15 +21,7 @@ int main()
         
         
         //uitvoer
-        if (isupper(s[i]))
-        {
-            s[i] = tolower(s[i]);
-        }
-        
-        if (islower(s[i]))
-        {
-            s[i] = toupper(s[i]);
-        }
+
         
     }
     
