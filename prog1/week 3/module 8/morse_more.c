@@ -134,6 +134,8 @@ char naar_tekst(string c)
     {
         return 'a';
     }
+    
+    return c;
 }
 
 int main()
