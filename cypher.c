@@ -3,7 +3,7 @@
 #include <string.h>
 
 //omkeren functie
-
+char reverse(char )
 
 
 
