@@ -12,7 +12,7 @@ char naar_morse(string c)
     {
         return c = " ";
     }
-    else if (c == "")
+    else if (c == ", ")
 }
 
 int main()
