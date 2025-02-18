@@ -28,7 +28,7 @@ int main()
         }
     }
     
-    if (char x *f[]
+    if (haakje1 == haakje2
     
     
     return 0;
