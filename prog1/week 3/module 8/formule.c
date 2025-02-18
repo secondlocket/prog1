@@ -30,14 +30,14 @@ int main()
             }
         }
     
-    if (haakje1 > haakje2)
-    {
-        printf("Er worden te weinig haakjes gesloten\n");
-    }
-    else
-    {
-        printf("Er zijn geen fouten\n");
-    }
+        if (haakje1 > haakje2)
+        {
+            printf("Er worden te weinig haakjes gesloten\n");
+        }
+        else
+        {
+            printf("Er zijn geen fouten\n");
+        }
     }
     
     return 0;
