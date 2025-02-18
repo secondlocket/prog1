@@ -30,7 +30,8 @@ string naar_morse(string c)
 
 char naar_tekst(string c)
 {
-    if (c = ".-")
+    //vier
+    if (c = "-...")
     {
         return 'a';
     }
