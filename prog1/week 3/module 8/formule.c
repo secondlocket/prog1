@@ -9,7 +9,7 @@ int main()
     
     string formule = get_string("Geef een formule: ");
     
-    for (int i = 0; i < strlen(string); i++)
+    for (int i = 0; i < strlen(f); i++)
     {
         char f = formule[i]
         
