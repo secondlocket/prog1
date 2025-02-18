@@ -39,9 +39,9 @@ char naar_tekst(string c)
     {
         return 'c';
     }
-    else if (c = "-.-.")
+    else if (c = "..-.")
     {
-        return 'c';
+        return 'f';
     }
     else if (c = "-..")
     {
