@@ -2,7 +2,7 @@
 #include <cs50.h>
 
 //naar morse functie
-char naar_morse
+char naar_morse(char )
 
 int main()
 {
