@@ -15,11 +15,13 @@ int main()
             printf("Er zijn geen fouten\n");
         }
         
+        //haakje1 tellen
         else if (strchr("(", f))
         {
             haakje1++;
         }
         
+        //haakje2 tellen
         else if (strchr(")", f))
         {
             haakje2++;
