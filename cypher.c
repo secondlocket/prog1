@@ -3,6 +3,7 @@
 
 int main()
 {
+    printf("plaintext:")
     string invoer = get_string("plaintext: ");
     
     
