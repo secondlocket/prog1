@@ -10,12 +10,12 @@ int main()
     
     for (int i = 0; i < strlen(f); i++)
     {
-        if(strchr("()", f) == NULL)
+        if (strchr("()", f) == NULL)
         {
             printf("Er zijn geen fouten\n");
         }
         
-        
+        else if ()
     }
     
     
