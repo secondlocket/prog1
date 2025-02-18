@@ -79,6 +79,8 @@ char naar_tekst(string c)
     {
         return 'z';
     }
+    
+    //3
     else if (c = ".-")
     {
         return 'a';
