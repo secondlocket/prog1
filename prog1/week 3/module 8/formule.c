@@ -6,6 +6,9 @@ int main()
     int teller1;
     int teller2;
     
+    
+    
+    
     //haakje1 "(" controleren
     if (int haakje1[])
     
