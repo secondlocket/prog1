@@ -25,8 +25,7 @@ int main()
     
     for(int i = 0; i < strlen(invoer); i++)
     {
-        if int invoer[i] = 'a';
-        
+        printf("%s")
     }
         
 
