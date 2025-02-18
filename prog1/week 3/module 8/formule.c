@@ -26,9 +26,5 @@ int main()
         {
             haakje2++;
         }
-        
-        char
-        
-        
     }
 }
