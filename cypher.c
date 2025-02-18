@@ -8,7 +8,7 @@ int main()
     
     for(int i = 0; i < strlen(s); i++)
     {
-        s[i] = 'a';
+        char s[i] = 'a';
         
         if (isupper(s[i]))
         {
