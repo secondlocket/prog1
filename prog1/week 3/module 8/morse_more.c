@@ -46,12 +46,12 @@ char naar_tekst(string c)
     {
         return 'd';
     }
-    //bijzonder
+    //bijzonder 1
     else if (c = ".")
     {
         return 'e';
     }
-    //bijzonder
+    //bijzonder 1
     else if (c = "..-.")
     {
         return 'f';
