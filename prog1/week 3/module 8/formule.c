@@ -26,6 +26,8 @@ int main()
         {
             haakje2++;
         }
+        
+        if ()
     }
     
     if (haakje1 != haakje2)
