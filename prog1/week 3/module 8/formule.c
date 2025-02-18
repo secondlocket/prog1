@@ -8,7 +8,7 @@ int main()
     int haakje2;
     
     string string = get_string("Geef een formule: ");
-    char
+    char f = string[i]
     
     for (int i = 0; i < strlen(f); i++)
     {
