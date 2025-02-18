@@ -46,6 +46,7 @@ char naar_tekst(string c)
     {
         return 'd';
     }
+    //speciaal
     else if (c = ".")
     {
         return 'e';
