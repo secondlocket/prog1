@@ -7,10 +7,11 @@ int main()
     int haakje1 = 0;
     int haakje2 = 0;
     
-    string f = get_string("Geef een formule: ");
+    string formule = get_string("Geef een formule: ");
     
     for (int i = 0; i < strlen(string); i++)
     {
+        
         if (strchr("()", f) == NULL)
         {
             printf("Er zijn geen fouten\n");
