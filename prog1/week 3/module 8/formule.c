@@ -42,6 +42,5 @@ int main()
         printf("Er worden te weinig haakjes gesloten\n");
     }
     
-    
     return 0;
 }
