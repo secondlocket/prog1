@@ -15,7 +15,7 @@ int main()
         teller1++;
     }
     
-    //haakje2 ")"
+    //haakje2 ")" controleren
     if ()
     
     
