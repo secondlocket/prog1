@@ -14,6 +14,7 @@ char reverse(char c)
         {
             s[i] = toupper(s[i]);
         }
+}
 
 
 int main()
