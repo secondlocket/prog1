@@ -17,7 +17,7 @@ int main()
         
         else if (strchr("(", f))
         {
-            
+            haakje1++;
         }
     }
     
