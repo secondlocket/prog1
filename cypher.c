@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>
+#include 
 
 //reverse functie
 char reverse(char c)
