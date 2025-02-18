@@ -16,6 +16,7 @@ int main()
         if (strchr("()", f) == NULL)
         {
             printf("Er zijn geen fouten\n");
+            break;
         }
         
         //haakje1 "(" tellen
