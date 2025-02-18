@@ -12,7 +12,16 @@ int main()
     {
         s[i] = 'a';
         
+        for (int i = 0; i < strlen(dna); i++)
+    {
+        char x = toupper(dna[i]);
         
+        if(strchr("AGCT", x) == NULL)
+        {
+            printf("Invalid DNA\n");
+            return 1;
+        }
+    }
         
         
         //uitvoer
