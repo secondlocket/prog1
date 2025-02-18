@@ -5,6 +5,7 @@ int main()
 {
     int teller
     
+    //haakje1 "("
     if ()
     
     
