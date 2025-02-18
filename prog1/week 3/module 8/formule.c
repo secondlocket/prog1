@@ -38,6 +38,7 @@ int main()
         else
         {
             printf("Er zijn geen fouten\n");
+            break;
         }
     }
     
