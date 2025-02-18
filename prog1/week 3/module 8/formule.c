@@ -15,7 +15,10 @@ int main()
             printf("Er zijn geen fouten\n");
         }
         
-        else if (strchr)
+        else if (strchr("(", f))
+        {
+            
+        }
     }
     
     
