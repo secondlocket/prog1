@@ -8,7 +8,7 @@ int main()
     
     string f = get_string("Geef een formule: ");
     
-    for ()
+    for (int i = 0; i < strlen(dna); i++)
     
     
     //haakje1 "(" controleren
