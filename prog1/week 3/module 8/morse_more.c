@@ -4,7 +4,7 @@
 //naar morse functie
 char naar_morse(string c)
 {
-    if 
+    if (c == '')
 }
 
 int main()
