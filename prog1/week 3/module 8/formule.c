@@ -25,7 +25,7 @@ int main()
             haakje2++;
             if (haakje2 > haakje1)
             {
-                printf("Er wordt een haakje te vroeg gesloten\n");
+                printf("Er wordt een haakje te vroeg gesloten.\n");
                 break;
             }
         }
@@ -33,11 +33,11 @@ int main()
     
     if (haakje1 > haakje2)
     {
-        printf("Er worden te weinig haakjes gesloten\n");
+        printf("Er worden te weinig haakjes gesloten.\n");
     }
     else if (haakje1 == haakje2)
     {
-        printf("Er zijn geen fouten\n");
+        printf("Er zijn geen fouten.\n");
     }
     
     return 0;
