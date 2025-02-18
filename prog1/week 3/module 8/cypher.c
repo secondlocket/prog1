@@ -24,7 +24,7 @@ int main()
 {
     string invoer = get_string("plaintext: ");
     
-    printf("cyphertext: ")
+    printf("cyphertext: ");
     for(int i = 0; i < strlen(invoer); i++)
     {
         printf("%c", reverse(invoer[i]));
