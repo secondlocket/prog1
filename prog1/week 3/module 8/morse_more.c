@@ -39,7 +39,7 @@ int main()
                 i += 2;
             }
             
-            //dit '.' en dah '-'
+            //dah '-' en dit '.'
             else 
             {
                 if (input[i] == '=' && input[i + 1] == '=' && input[i + 2] == '=') 
