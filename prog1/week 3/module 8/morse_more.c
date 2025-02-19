@@ -96,6 +96,7 @@ int main()
         printf("%c", naar_morse(morse));
     }
     
+    printf("\n");
     return 0;
 }
 
