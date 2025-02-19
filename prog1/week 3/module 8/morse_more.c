@@ -71,8 +71,8 @@ int main()
                 if (index < 9)
                 {
                     morse[index++] = '-';
-                    i += 2;
                 }
+                i += 2;
             } 
             //dit
             else if (rauw[i] == '=') 
