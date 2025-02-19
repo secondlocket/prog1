@@ -40,6 +40,15 @@ int main()
             }
             
             //spatie tussen symbolen
+            else 
+      {
+            if (input[i] == '=' && input[i + 1] == '=' && input[i + 2] == '=') {
+                morse[morse_index++] = '-';
+                i += 2;
+            } else if (input[i] == '=') {
+                morse[morse_index++] = '.';
+            }
+        }
         }
         
         if (rauw)
