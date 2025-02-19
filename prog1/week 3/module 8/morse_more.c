@@ -82,10 +82,9 @@ int main()
                     
                     if (index < 9)
                     {
-                        morse[index++] = '-';
-                        i += 2;
-                    }morse[index++] = '.';
-                    i++;
+                        morse[index++] = '.';
+                        i++;
+                    }
                 }
             }
         }
