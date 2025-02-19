@@ -4,6 +4,9 @@
 
 //naar_morse functie (van dit ".", dah "-" en spaties)
 char naar_morse(char )
+{
+    
+}
 
 int main()
 {
