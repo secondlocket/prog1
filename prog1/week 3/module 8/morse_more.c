@@ -15,6 +15,7 @@ int main()
         {
             if (strncmp(&rauw[i + 1], ",,,,,,", rauw[i + 6]) == 0)
             {
+                printf(" ");
                 
             }
         }
