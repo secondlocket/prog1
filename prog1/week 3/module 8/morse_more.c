@@ -20,7 +20,7 @@ int main()
                 i += 6;
             }
             
-            if(strncmp(&rauw[i + 1]) == 0)
+            if(rauw[i + 1] == 0)
         }
         
         if (rauw)
