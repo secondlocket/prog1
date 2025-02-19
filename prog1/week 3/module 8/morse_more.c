@@ -80,6 +80,7 @@ int main()
             {
                 morse[index++] = '.';
             }
+            i++;
         }
     
     }
