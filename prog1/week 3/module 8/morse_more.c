@@ -51,17 +51,17 @@ int main()
                 i += 6;
             }
             
-        //karakters afscheiden en printen 1 voor 1 (als het 3x ',' is)
-        else if (rauw[i + 1] == ',' && rauw[i + 2] == ',')
-        {
-            if (index > 0)
+            //karakters afscheiden en printen 1 voor 1 (als het 3x ',' is)
+            else if (rauw[i + 1] == ',' && rauw[i + 2] == ',')
             {
-                morse[index] = '\0';
-                printf("%c", naar_morse(morse));
-                index = 0;
+               if (index > 0)
+                {
+                    morse[index] = '\0';
+                    printf("%c", naar_morse(morse));
+                    index = 0;
+                }
+                i += 2;
             }
-            i += 2;
-        }
         
         //als het een ',' of dah '-' of dit '.' is
         //dah
