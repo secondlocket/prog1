@@ -50,6 +50,7 @@ int main()
                 else if (input[i] == '=') 
                 {
                     morse[nummer++] = '.';
+                    
                 }
             }
         }
