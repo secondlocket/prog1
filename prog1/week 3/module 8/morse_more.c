@@ -70,7 +70,9 @@ int main()
                 //dah
                 if (rauw[i] == '=' && rauw[i + 1] == '=' && rauw[i + 2] == '=') 
                 {
-                    morse[index++] = '-';
+                    if (index < 9)
+                    {
+                        morse[index++] = '-';
                     i += 2;
                 } 
                 //dit
