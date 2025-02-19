@@ -34,7 +34,7 @@ int main()
                 {
                     morse[index] = '\0';
                     printf("%c", naar_morse(morse));
-                    nummer = 0;
+                    index = 0;
                 }
                 i += 2;
             }
@@ -44,12 +44,12 @@ int main()
             {
                 if (input[i] == '=' && input[i + 1] == '=' && input[i + 2] == '=') 
                 {
-                    morse[nummer++] = '-';
+                    morse[index++] = '-';
                     i += 2;
                 } 
                 else if (input[i] == '=') 
                 {
-                    morse[nummer++] = '.';
+                    morse[index++] = '.';
                     i += 2;
                 }
             }
