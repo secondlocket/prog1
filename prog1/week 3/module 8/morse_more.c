@@ -41,7 +41,7 @@ int main()
     
     string rauw = get_string("Code: ");
     
-    for (int i = 0; rauw; i++)
+    for (int i = 0; rauw[i] != '\0'; i++)
     {
         if (rauw[i] == ',')
         {
