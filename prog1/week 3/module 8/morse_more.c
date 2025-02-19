@@ -10,7 +10,7 @@ int main()
     
     for (int i = 0; i < strlen(rauw); i++)
     {
-        if (rauw[i] == ",")
+        if (rauw[i] == ','')
         {
             if (rauw[i + 1] == ',')
         }
