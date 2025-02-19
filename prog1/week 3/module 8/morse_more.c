@@ -35,6 +35,7 @@ int main()
                     printf("%c", naar_morse(morse));
                     nummer = 0;
                 }
+                i += 2;
             }
             
              else if (input[i + 1] == ',' && input[i + 2] == ',') 
