@@ -71,7 +71,7 @@ int main()
                 if (rauw[i] == '=' && rauw[i + 1] == '=' && rauw[i + 2] == '=') 
                 {
                     morse[index++] = '-';
-                    i += 3;
+                    i += 2;
                 } 
                 //dit
                 else if (rauw[i] == '=') 
