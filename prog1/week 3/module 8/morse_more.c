@@ -7,11 +7,11 @@ char naar_morse(char *morse) {
     if (strcmp(morse, ".- ") == 0) return 'a';
     if (strcmp(morse, "-... ") == 0) return 'b';
     if (strcmp(morse, "-.-. ") == 0) return 'c';
-    if (strcmp(morse, "-..") == 0) return 'd';
-    if (strcmp(morse, ".") == 0) return 'e';
-    if (strcmp(morse, "..-.") == 0) return 'f';
-    if (strcmp(morse, "--.") == 0) return 'g';
-    if (strcmp(morse, "....") == 0) return 'h';
+    if (strcmp(morse, "-.. ") == 0) return 'd';
+    if (strcmp(morse, ". ") == 0) return 'e';
+    if (strcmp(morse, "..-. ") == 0) return 'f';
+    if (strcmp(morse, "--. ") == 0) return 'g';
+    if (strcmp(morse, ".... ") == 0) return 'h';
     if (strcmp(morse, "..") == 0) return 'i';
     if (strcmp(morse, ".---") == 0) return 'j';
     if (strcmp(morse, "-.-") == 0) return 'k';
