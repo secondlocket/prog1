@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
+#include <string.h>
 
 //naar_morse functie (van dit ".", dah "-" en spaties)
 
