@@ -26,7 +26,7 @@ int main()
                 
             }
             
-            //spatie 
+            //spatie tussen symbolen ()
         }
         
         if (rauw)
