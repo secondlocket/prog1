@@ -74,7 +74,7 @@ int main()
                     i += 3;
                 } 
                 //dit
-                else if (input[i] == '=') 
+                else if (rauw[i] == '=') 
                 {
                     morse[index++] = '.';
                     i++;
