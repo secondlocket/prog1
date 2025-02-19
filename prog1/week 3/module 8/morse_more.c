@@ -12,7 +12,7 @@ int main()
     {
         if (rauw[i] == ',')
         {
-            if (rauw[i + 1] == ',' && rauw[i + 2] == ',' && rauw[i + 3] == ',' && rauw[i + 4] == ',' && rauw[i + 5] == ',' && rauw[i + 6] == ','
+            if (rauw[i + 1] == ',' && rauw[i + 2] == ',' && rauw[i + 3] == ',' && rauw[i + 4] == ',' && rauw[i + 5] == ',' && rauw[i + 6] == ',')
         }
         
     }
