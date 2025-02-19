@@ -37,7 +37,7 @@ int main()
 {
     //nummer in het morse array
     int index = 0;
-    char morse[index];
+    char morse[10];
     
     string rauw = get_string("Code: ");
     
