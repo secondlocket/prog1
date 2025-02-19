@@ -61,8 +61,6 @@ int main()
         }
     }
     
-    string morse[i] = naar_morse(invoer[i]);
-    
     return 0;
 }
 
