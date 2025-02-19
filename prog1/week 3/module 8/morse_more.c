@@ -35,7 +35,6 @@ char naar_morse(char *morse) {
     
 int main()
 {
-    //nummer in het morse array
     int index = 0;
     char morse[10];
     
