@@ -3,7 +3,7 @@
 #include <string.h>
 
 //naar_morse functie (van dit ".", dah "-" en spaties)
-char morse_to_letter(char *morse) {
+char naar_morse(char *morse) {
     if (strcmp(morse, ".-") == 0) return 'a';
     if (strcmp(morse, "-...") == 0) return 'b';
     if (strcmp(morse, "-.-.") == 0) return 'c';
