@@ -44,7 +44,6 @@ int main()
     {
         if (rauw[i] == ',')
         {
-            
             //karakters afscheiden en printen 1 voor 1 (als het 3x ',' is)
             else if (strncmp(&rauw[i], ",,,", 3) == 0)
             {
