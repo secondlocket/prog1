@@ -20,6 +20,7 @@ int main()
                 i += 6;
             }
             
+            //spatie tussen karakters
             if(rauw[i + 1] == ',')
             {
                 
