@@ -31,7 +31,7 @@ int main()
             {
                 if (nummer > 0)
                 {
-                    morse[nummer] = ''
+                    morse[nummer] = '\0';
                 i += 2;
                 }
             }
