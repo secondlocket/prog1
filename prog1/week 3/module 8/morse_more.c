@@ -63,27 +63,28 @@ int main()
                 i += 2;
             }
         }
-        
-        //als het een ',' of dah '-' of dit '.' is
-        //dah
-        if (rauw[i] == '=' && rauw[i + 1] == '=' && rauw[i + 2] == '=') 
+        else
         {
-            if (index < 9)
+            //als het een ',' of dah '-' of dit '.' is
+            //dah
+            if (rauw[i] == '=' && rauw[i + 1] == '=' && rauw[i + 2] == '=') 
             {
-                morse[index++] = '-';
-            }
-            i += 2;
-        } 
-        //dit
-        else if (rauw[i] == '=') 
-        {
-           if (index < 9)
+                if (index < 9)
+                {
+                    morse[index++] = '-';
+                }
+                i += 2;
+            } 
+            //dit
+            else if (rauw[i] == '=') 
             {
-                morse[index++] = '.';
+               if (index < 9)
+                {
+                    morse[index++] = '.';
+                }
+                i++;
             }
-            i++;
         }
-    }
     
     if (index > 0) 
     {
