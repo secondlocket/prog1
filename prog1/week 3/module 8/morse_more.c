@@ -65,7 +65,6 @@ int main()
         }
         else
         {
-            //als het een ',' of dah '-' of dit '.' is
             //dah
             if (rauw[i] == '=' && rauw[i + 1] == '=' && rauw[i + 2] == '=') 
             {
