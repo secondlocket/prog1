@@ -79,11 +79,6 @@ int main()
                     morse[index++] = '.';
                     i++;
                 }
-                //','
-                {
-                    morse[index++] = ' ';
-                    i++;
-                }
             }
         }
     }
