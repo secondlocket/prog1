@@ -39,6 +39,7 @@ int main()
                 i += 2;
             }
             
+            //if ',' of als 
             //dah '-' en dit '.'
             else 
             {
