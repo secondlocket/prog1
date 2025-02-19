@@ -44,7 +44,7 @@ int main()
             {
                 if (input[i] == '=' && input[i + 1] == '=' && input[i + 2] == '=') 
                 {
-                    morse[morse_index++] = '-';
+                    morse[nummer++] = '-';
                     i += 2;
                 } 
                 else if (input[i] == '=') 
