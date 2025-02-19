@@ -10,6 +10,7 @@ char naar_morse(char )
 
 int main()
 {
+    //nummer in het morse array
     int nummer;
     char morse[];
     
