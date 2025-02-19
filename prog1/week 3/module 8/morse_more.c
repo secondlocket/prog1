@@ -30,9 +30,9 @@ int main()
             //karakters afscheiden en printen 1 vóór 1
             else if(rauw[i + 1] == ',' && rauw[i + 2] == ',')
             {
-                if (nummer > 0)
+                if (index > 0)
                 {
-                    morse[nummer] = '\0';
+                    morse[index] = '\0';
                     printf("%c", naar_morse(morse));
                     nummer = 0;
                 }
