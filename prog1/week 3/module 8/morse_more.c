@@ -11,8 +11,8 @@ char naar_morse(char *morse) {
     if (strcmp(morse, ".") == 0) return 'e';
     if (strcmp(morse, "..-.") == 0) return 'f';
     if (strcmp(morse, "--.") == 0) return 'g';
-    if (strcmp(morse, ".... ") == 0) return 'h';
-    if (strcmp(morse, ".. ") == 0) return 'i';
+    if (strcmp(morse, "....") == 0) return 'h';
+    if (strcmp(morse, "..") == 0) return 'i';
     if (strcmp(morse, ".--- ") == 0) return 'j';
     if (strcmp(morse, "-.- ") == 0) return 'k';
     if (strcmp(morse, ".-.. ") == 0) return 'l';
