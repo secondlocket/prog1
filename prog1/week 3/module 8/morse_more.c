@@ -57,7 +57,7 @@ int main()
                 //','
                 else
                 {
-                    morse
+                    morse[]
                     i++;
                 }
             }
