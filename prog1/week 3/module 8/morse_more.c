@@ -53,7 +53,7 @@ int main()
             }
             
             //karakters afscheiden en printen 1 vóór 1 (als het 3x ',' is)
-            else if(rauw[i + 1] == ',' && rauw[i + 2] == ',')
+            else if (rauw[i + 1] == ',' && rauw[i + 2] == ',')
             {
                 if (index > 0)
                 {
