@@ -68,7 +68,7 @@ int main()
             else 
             {
                 //dah
-                if (input[i] == '=' && input[i + 1] == '=' && input[i + 2] == '=') 
+                if (rauw[i] == '=' && rauw[i + 1] == '=' && rauw[i + 2] == '=') 
                 {
                     morse[index++] = '-';
                     i += 3;
