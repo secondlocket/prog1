@@ -5,8 +5,8 @@
 //naar_morse functie (van dit ".", dah "-" en spaties)
 char naar_morse(char *morse) {
     if (strcmp(morse, ".- ") == 0) return 'a';
-    if (strcmp(morse, "-...") == 0) return 'b';
-    if (strcmp(morse, "-.-.") == 0) return 'c';
+    if (strcmp(morse, "-... ") == 0) return 'b';
+    if (strcmp(morse, "-.-. ") == 0) return 'c';
     if (strcmp(morse, "-..") == 0) return 'd';
     if (strcmp(morse, ".") == 0) return 'e';
     if (strcmp(morse, "..-.") == 0) return 'f';
