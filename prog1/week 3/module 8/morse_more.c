@@ -21,14 +21,14 @@ char naar_morse(char *morse) {
     if (strcmp(morse, "---") == 0) return 'o';
     if (strcmp(morse, ".--.") == 0) return 'p';
     if (strcmp(morse, "--.-") == 0) return 'q';
-    if (strcmp(morse, ".-. ") == 0) return 'r';
-    if (strcmp(morse, "... ") == 0) return 's';
-    if (strcmp(morse, "- ") == 0) return 't';
-    if (strcmp(morse, "..- ") == 0) return 'u';
-    if (strcmp(morse, "...- ") == 0) return 'v';
-    if (strcmp(morse, ".-- ") == 0) return 'w';
-    if (strcmp(morse, "-..- ") == 0) return 'x';
-    if (strcmp(morse, "-.-- ") == 0) return 'y';
+    if (strcmp(morse, ".-.") == 0) return 'r';
+    if (strcmp(morse, "...") == 0) return 's';
+    if (strcmp(morse, "-") == 0) return 't';
+    if (strcmp(morse, "..-") == 0) return 'u';
+    if (strcmp(morse, "...-") == 0) return 'v';
+    if (strcmp(morse, ".--") == 0) return 'w';
+    if (strcmp(morse, "-..-") == 0) return 'x';
+    if (strcmp(morse, "-.--") == 0) return 'y';
     if (strcmp(morse, "--.. ") == 0) return 'z';
     return '?';
 }
