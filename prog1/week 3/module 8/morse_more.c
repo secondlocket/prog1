@@ -62,7 +62,6 @@ int main()
             }
             i += 2;
         }
-    }
         
         //als het een ',' of dah '-' of dit '.' is
         //dah
