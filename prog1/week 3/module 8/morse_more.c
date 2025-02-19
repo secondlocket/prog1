@@ -91,6 +91,7 @@ int main()
     
     if (index > 0) 
     {
+        morse[index]
         printf("%c", naar_morse(morse));
     }
     
