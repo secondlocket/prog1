@@ -8,6 +8,9 @@ char naar_morse(char )
     
 }
 
+
+    string morse[i] = naar_morse(invoer[i]);
+    
 int main()
 {
     //nummer in het morse array
