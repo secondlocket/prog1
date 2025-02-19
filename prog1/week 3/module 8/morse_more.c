@@ -20,7 +20,10 @@ int main()
                 i += 6;
             }
             
-            if(rauw[i + 1] == 0)
+            if(rauw[i + 1] == ',')
+            {
+                
+            }
         }
         
         if (rauw)
