@@ -75,14 +75,14 @@ int main()
             }
             i += 2;
         } 
-           //dit
-            else if (rauw[i] == '=') 
+        //dit
+        else if (rauw[i] == '=') 
+        {
+           if (index < 9)
             {
-               if (index < 9)
-                {
-                    morse[index++] = '.';
-                }
+                morse[index++] = '.';
             }
+        }
     
     }
     
