@@ -11,6 +11,7 @@ int main()
     
     for (int i = 0; i < strlen(rauw); i++)
     {
+        //spatie 
         if (rauw[i] == ',')
         {
             if (strncmp(&rauw[i + 1], ",,,,,,", rauw[i + 6]) == 0)
