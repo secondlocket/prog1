@@ -27,7 +27,7 @@ int main()
             }
             
             //spatie tussen karakters
-            if(rauw[i + 1] == ',')
+            if(rauw[i + 1] == ',' && rauw[i + 2] == ',')
             {
                 
             }
