@@ -49,7 +49,7 @@ int main()
                 } 
                 else if (input[i] == '=') 
                 {
-                    morse[morse_index++] = '.';
+                    morse[nummer++] = '.';
                 }
             }
         }
