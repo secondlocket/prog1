@@ -13,7 +13,7 @@ int main()
     {
         if (rauw[i] == ',')
         {
-            if (strncmp
+            if (strncmp rauw[i]
         }
         
     }
