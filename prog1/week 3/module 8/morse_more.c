@@ -32,7 +32,7 @@ int main()
                 if (nummer > 0)
                 {
                     morse[nummer] = '\0';
-                    printf("%c", naar_morse())
+                    printf("%c", naar_morse(morse));
                     nummer = 0;
                 }
             }
