@@ -3,9 +3,34 @@
 #include <string.h>
 
 //naar_morse functie (van dit ".", dah "-" en spaties)
-char naar_morse(char )
-{
-    
+char morse_to_letter(char *morse) {
+    if (strcmp(morse, ".-") == 0) return 'a';
+    if (strcmp(morse, "-...") == 0) return 'b';
+    if (strcmp(morse, "-.-.") == 0) return 'c';
+    if (strcmp(morse, "-..") == 0) return 'd';
+    if (strcmp(morse, ".") == 0) return 'e';
+    if (strcmp(morse, "..-.") == 0) return 'f';
+    if (strcmp(morse, "--.") == 0) return 'g';
+    if (strcmp(morse, "....") == 0) return 'h';
+    if (strcmp(morse, "..") == 0) return 'i';
+    if (strcmp(morse, ".---") == 0) return 'j';
+    if (strcmp(morse, "-.-") == 0) return 'k';
+    if (strcmp(morse, ".-..") == 0) return 'l';
+    if (strcmp(morse, "--") == 0) return 'm';
+    if (strcmp(morse, "-.") == 0) return 'n';
+    if (strcmp(morse, "---") == 0) return 'o';
+    if (strcmp(morse, ".--.") == 0) return 'p';
+    if (strcmp(morse, "--.-") == 0) return 'q';
+    if (strcmp(morse, ".-.") == 0) return 'r';
+    if (strcmp(morse, "...") == 0) return 's';
+    if (strcmp(morse, "-") == 0) return 't';
+    if (strcmp(morse, "..-") == 0) return 'u';
+    if (strcmp(morse, "...-") == 0) return 'v';
+    if (strcmp(morse, ".--") == 0) return 'w';
+    if (strcmp(morse, "-..-") == 0) return 'x';
+    if (strcmp(morse, "-.--") == 0) return 'y';
+    if (strcmp(morse, "--..") == 0) return 'z';
+    return '?'; // Unknown character
 }
     
 int main()
