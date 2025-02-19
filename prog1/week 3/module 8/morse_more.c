@@ -45,7 +45,7 @@ int main()
         if (rauw[i] == ',')
         {
             //echte spatie (als het 7x ',' is)
-            if (strncmp(&rauw[i], ",,,,,,", 6) == 0)
+            if (strncmp(&rauw[i], ",,,,,,,", 7) == 0)
             {
                 printf(" ");
                 i += 6;
