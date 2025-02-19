@@ -81,7 +81,7 @@ int main()
                 }
                 //','
                 {
-                    morse[index++];
+                    morse[index++] = '.';
                     i++;
                 }
             }
