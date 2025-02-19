@@ -30,6 +30,7 @@ int main()
             if(rauw[i + 1] == ',' && rauw[i + 2] == ',')
             {
                 
+                i += 2;
             }
             
             //spatie tussen symbolen
