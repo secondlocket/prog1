@@ -9,6 +9,9 @@ int main()
     string rauw = get_string("Code: ");
     
     for (int i = 0; i < strlen(rauw); i++)
+    {
+        
+    }
     
     string morse[i] = naar_morse(invoer[i]);
     
