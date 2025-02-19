@@ -7,7 +7,8 @@
 
 int main()
 {
-    int nummer
+    int nummer;
+    
     
     string rauw = get_string("Code: ");
     
