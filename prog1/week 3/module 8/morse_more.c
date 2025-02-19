@@ -67,7 +67,7 @@ int main()
     if (index > 0) 
     {
         morse[index] = '\0';
-        printf("%c", morse_to_letter(morse));
+        printf("%c", naar_morse(morse));
     }
     
     return 0;
