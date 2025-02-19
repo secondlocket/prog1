@@ -11,9 +11,9 @@ int main()
     
     for (int i = 0; i < strlen(rauw); i++)
     {
-        //spatie
         if (rauw[i] == ',')
         {
+            //echte spatie
             if (strncmp(&rauw[i + 1], ",,,,,,", rauw[i + 6]) == 0)
             {
                 printf(" ");
