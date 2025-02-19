@@ -11,7 +11,7 @@ char naar_morse(char )
 int main()
 {
     //nummer in het morse array
-    int nummer = -1;
+    int nummer = 0;
     char morse[];
     
     string rauw = get_string("Code: ");
