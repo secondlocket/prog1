@@ -46,10 +46,12 @@ int main()
                 {
                     morse[morse_index++] = '-';
                     i += 2;
-            } else if (input[i] == '=') {
+                } 
+                else if (input[i] == '=') 
+                {
                 morse[morse_index++] = '.';
+                }
             }
-        }
         }
         
         if (rauw)
