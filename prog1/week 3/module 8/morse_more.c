@@ -80,9 +80,8 @@ int main()
                     i++;
                 }
                 //','
-                else
                 {
-                    index++;
+                    morse[index++;
                     i++;
                 }
             }
