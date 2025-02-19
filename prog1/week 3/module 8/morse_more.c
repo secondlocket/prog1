@@ -53,6 +53,10 @@ int main()
                     morse[index++] = '.';
                     i += 2;
                 }
+                else
+                {
+                    i++;
+                }
             }
         }
         
