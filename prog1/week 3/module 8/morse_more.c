@@ -42,16 +42,19 @@ int main()
             //als het een ',' of dah '-' of dit '.' is
             else 
             {
+                //dah
                 if (input[i] == '=' && input[i + 1] == '=' && input[i + 2] == '=') 
                 {
                     morse[index++] = '-';
                     i += 3;
                 } 
+                //dit
                 else if (input[i] == '=') 
                 {
                     morse[index++] = '.';
                     i ++;
                 }
+                //','
                 else
                 {
                     i++;
