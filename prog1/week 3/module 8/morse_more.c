@@ -29,8 +29,11 @@ int main()
             //spatie tussen karakters
             else if(rauw[i + 1] == ',' && rauw[i + 2] == ',')
             {
-                morse[]
+                if (nummer > 0)
+                {
+                    morse[]
                 i += 2;
+                }
             }
             
              else if (input[i + 1] == ',' && input[i + 2] == ',') 
