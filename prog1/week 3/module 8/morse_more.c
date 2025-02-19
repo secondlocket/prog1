@@ -80,7 +80,6 @@ int main()
                if (index < 9)
                 {
                     morse[index++] = '.';
-                    i++;
                 }
             }
         }
