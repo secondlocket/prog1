@@ -7,7 +7,7 @@
 
 int main()
 {
-    
+    int morse
     
     string rauw = get_string("Code: ");
     
