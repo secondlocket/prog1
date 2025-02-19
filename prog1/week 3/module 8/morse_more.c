@@ -20,6 +20,13 @@ int main()
     {
         if (rauw[i] == ',')
         {
+            //echte spatie
+            if (strncmp(&rauw[i + 1], ",,,,,,", rauw[i + 6]) == 0)
+            {
+                printf(" ");
+                i += 6;
+            }
+            
             //karakters afscheiden en printen 1 vóór 1
             else if(rauw[i + 1] == ',' && rauw[i + 2] == ',')
             {
