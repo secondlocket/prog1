@@ -19,6 +19,8 @@ int main()
                 printf(" ");
                 i += 6;
             }
+            
+            if
         }
         
         if (rauw)
