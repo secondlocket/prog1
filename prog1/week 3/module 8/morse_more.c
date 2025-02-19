@@ -39,7 +39,7 @@ int main()
                 i += 2;
             }
             
-            //als het ',' of als het een dah of dit is
+            //als het ',' of een dah of dit is
             //dah '-' en dit '.'
             else 
             {
