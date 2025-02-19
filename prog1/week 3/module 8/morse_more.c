@@ -41,7 +41,7 @@ int main()
     
     string rauw = get_string("Code: ");
     
-    for (int i = 0; i < strlen(rauw); i++)
+    for (int i = 0; rauw[i] != '\0'; i++)
     {
         if (rauw[i] == ',')
         {
@@ -52,7 +52,7 @@ int main()
                 i += 6;
             }
             
-            //karakters afscheiden en printen 1 vóór 1 (als het 3x ',' is)
+            //karakters afscheiden en printen 1 vÃ³Ã³r 1 (als het 3x ',' is)
             else if (rauw[i + 1] == ',' && rauw[i + 2] == ',')
             {
                 if (index > 0)
