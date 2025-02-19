@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
-//naar_morse functie
+//naar_morse functie (van dit, dah en spaties)
 
 
 int main()
