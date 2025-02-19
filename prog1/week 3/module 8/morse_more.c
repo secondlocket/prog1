@@ -57,6 +57,7 @@ int main()
                 //','
                 else
                 {
+                    index++;
                     i++;
                 }
             }
