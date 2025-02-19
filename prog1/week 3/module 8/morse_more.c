@@ -29,7 +29,7 @@ char naar_morse(char *morse) {
     if (strcmp(morse, ".-- ") == 0) return 'w';
     if (strcmp(morse, "-..- ") == 0) return 'x';
     if (strcmp(morse, "-.-- ") == 0) return 'y';
-    if (strcmp(morse, "--..") == 0) return 'z';
+    if (strcmp(morse, "--.. ") == 0) return 'z';
     return '?';
 }
     
