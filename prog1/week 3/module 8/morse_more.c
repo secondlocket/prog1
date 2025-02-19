@@ -8,7 +8,7 @@ int main()
 {
     string invoer = get_string("Code: ");
     
-    
+    for (int i = 0; i < strlen(invoer); i++)
     
     string morse[i] = naar_morse(invoer[i]);
     
