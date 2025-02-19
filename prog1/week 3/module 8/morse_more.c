@@ -51,7 +51,7 @@ int main()
                 i += 6;
             }
             
-            //karakters afscheiden en printen 1 voor 1 (als het 3x ',' is)
+        //karakters afscheiden en printen 1 voor 1 (als het 3x ',' is)
             else if (rauw[i + 1] == ',' && rauw[i + 2] == ',')
             {
                 if (index > 0)
