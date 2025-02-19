@@ -82,7 +82,6 @@ int main()
             }
             i++;
         }
-    
     }
     
     if (index > 0) 
