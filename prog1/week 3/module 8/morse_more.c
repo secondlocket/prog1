@@ -27,7 +27,7 @@ int main()
                 i += 6;
             }
             
-            //spatie tussen karakters
+            //karakters 
             else if(rauw[i + 1] == ',' && rauw[i + 2] == ',')
             {
                 if (nummer > 0)
