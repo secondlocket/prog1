@@ -49,7 +49,7 @@ int main()
             if (strncmp(&rauw[i + 1], ",,,,,,", 6) == 0)
             {
                 printf(" ");
-                i += 6;
+                i += 5;
             }
             
             //karakters afscheiden en printen 1 vóór 1 (als het 3x ',' is)
