@@ -32,7 +32,7 @@ int main()
                 if (nummer > 0)
                 {
                     morse[nummer] = '\0';
-                i += 2;
+                    nummer += 2;
                 }
             }
             
