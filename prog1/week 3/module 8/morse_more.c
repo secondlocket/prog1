@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <cs50.h>
 
+//naar_morse functie
+
 
 int main()
 {
