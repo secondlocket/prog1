@@ -59,9 +59,6 @@ int main()
                 }
             }
         }
-        
-        if (rauw)
-        
     }
     
     string morse[i] = naar_morse(invoer[i]);
