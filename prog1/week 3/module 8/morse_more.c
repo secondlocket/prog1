@@ -39,8 +39,7 @@ int main()
                 i += 2;
             }
             
-            //als het een ',' of dah '-' of dit is
-            //dah '-' en dit '.'
+            //als het een ',' of dah '-' of dit '.' is
             else 
             {
                 if (input[i] == '=' && input[i + 1] == '=' && input[i + 2] == '=') 
