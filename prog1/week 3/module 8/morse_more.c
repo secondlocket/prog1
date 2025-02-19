@@ -45,12 +45,12 @@ int main()
                 if (input[i] == '=' && input[i + 1] == '=' && input[i + 2] == '=') 
                 {
                     morse[index++] = '-';
-                    i += 2;
+                    i += 3;
                 } 
                 else if (input[i] == '=') 
                 {
                     morse[index++] = '.';
-                    i += 2;
+                    i ++;
                 }
                 else
                 {
