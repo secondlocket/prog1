@@ -12,7 +12,7 @@ int main()
     {
         if (rauw[i] == ",")
         {
-            if (rauw[i])
+            if (rauw[i + 1] == ',')
         }
         
     }
