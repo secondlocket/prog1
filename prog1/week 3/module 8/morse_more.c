@@ -33,6 +33,17 @@ int main()
                 i += 2;
             }
             
+             else if (input[i + 1] == ',' && input[i + 2] == ',') 
+            {
+                if (morse_index > 0) 
+                {
+                    morse[morse_index] = '\0';
+                    printf("%c", morse_to_letter(morse));
+                    morse_index = 0;
+                }
+                i += 2;
+            }
+            
             //spatie tussen symbolen
         }
         
