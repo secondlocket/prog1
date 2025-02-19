@@ -27,7 +27,7 @@ int main()
                 i += 6;
             }
             
-            //karakters afscheiden en printen 1 vo 1
+            //karakters afscheiden en printen 1 vóór 1
             else if(rauw[i + 1] == ',' && rauw[i + 2] == ',')
             {
                 if (nummer > 0)
