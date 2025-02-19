@@ -44,12 +44,6 @@ int main()
     {
         if (rauw[i] == ',')
         {
-            //echte spatie (als het 7x ',' is)
-            if (strncmp(&rauw[i], ",,,,,,", 6) == 0)
-            {
-                printf(" ");
-                i += 6;
-            }
             
             //karakters afscheiden en printen 1 voor 1 (als het 3x ',' is)
             else if (strncmp(&rauw[i], ",,,", 3) == 0)
