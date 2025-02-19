@@ -66,24 +66,23 @@ int main()
             
             //als het een ',' of dah '-' of dit '.' is
                 //dah
-                if (rauw[i] == '=' && rauw[i + 1] == '=' && rauw[i + 2] == '=') 
+            if (rauw[i] == '=' && rauw[i + 1] == '=' && rauw[i + 2] == '=') 
+            {
+                if (index < 9)
                 {
-                    if (index < 9)
-                    {
-                        morse[index++] = '-';
-                        i += 2;
-                    }
-                } 
-                //dit
-                else if (rauw[i] == '=') 
-                {
-                    
-                    if (index < 9)
-                    {
-                        morse[index++] = '.';
-                        i++;
-                    }
+                    morse[index++] = '-';
+                    i += 2;
                 }
+            } 
+            //dit
+            else if (rauw[i] == '=') 
+            {
+               if (index < 9)
+                {
+                    morse[index++] = '.';
+                    i++;
+                }
+            }
         }
     }
     
