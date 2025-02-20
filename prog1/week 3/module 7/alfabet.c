@@ -10,8 +10,6 @@ int main ()
     for (i = 0; i < strlen(woord1); i++)
     {
         woord1[i] = tolower(woord1[i]);
-        
-        if (woord[i])
     }
     
     for (i = 0; i < strlen(woord2); i++)
