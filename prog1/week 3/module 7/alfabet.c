@@ -8,7 +8,10 @@ int main ()
     string woord1 = get_string("Woord 1: ");
     string woord2 = get_string("Woord 2: ");
     
-    if (strlen(woord1))
+    if (strlen(woord1) > strlen(woord2))
+    {
+        
+    }
     
     for (int i = 0; i < strlen(woord1); i++)
     {
