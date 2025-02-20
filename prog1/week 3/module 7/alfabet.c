@@ -30,7 +30,8 @@ int main ()
         }
         else if (woord2[i] < woord1[i])
         {
-            printf("%s first")
+            printf("%s first", woord2);
+            break;
         }
     }
     
