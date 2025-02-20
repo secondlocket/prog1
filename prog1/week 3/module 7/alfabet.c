@@ -12,6 +12,7 @@ int main ()
     {
         int n = strlen(woord1);
     }
+    else if (strlen(woord2) > strlen(woord1))
     
     for (int i = 0; i < strlen(woord1); i++)
     {
