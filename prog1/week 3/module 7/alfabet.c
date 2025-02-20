@@ -22,7 +22,7 @@ int main ()
     {
         if (woord1[i] == woord2[i])
         {
-            if (woord1[i])
+            if (woord1[i] == '\0' )
             i++;
         }
         else if (woord1[i] < woord2[i])
