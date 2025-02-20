@@ -6,13 +6,14 @@
 int main ()
 {
     int n = 0;
+    
     string woord1 = get_string("Woord 1: ");
     string woord2 = get_string("Woord 2: ");
     
     //controleren welke langer is
     if (strlen(woord1) > strlen(woord2))
     {
-        int n = strlen(woord1);
+        n = strlen(woord1);
     }
     else if (strlen(woord2) > strlen(woord1))
     {
