@@ -77,7 +77,7 @@ int main ()
             }
         }
         
-        
+        //als ze niet vergel
         else if (woord1[i] < woord2[i])
         {
             printf("%s first", woord1);
