@@ -35,7 +35,10 @@ int main ()
             printf("%s first", woord2);
             break;
         }
-        else if (x = y)
+        else if (x == y)
+        {
+            printf("")
+        }
     }
     
     return 0;
