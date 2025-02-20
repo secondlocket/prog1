@@ -54,7 +54,7 @@ int main ()
             {
                 if (strlen(cmp1) == strlen(cmp2))
                 {
-                    printf("no need to decide!");
+                    printf("No need to decide!");
                     break;
                 }
                 else if (n == strlen(cmp2))
