@@ -3,5 +3,5 @@
 
 int main ()
 {
-    string invoer = get_string("")
+    string invoer = get_string("Wachtwoord? ")
 }
