@@ -11,7 +11,7 @@ int main ()
     string woord2 = get_string("Woord 2: ");
     
     char cmp1 [strlen(woord1)];
-    char cmp2 [strlen(woord2)]
+    char cmp2 [strlen(woord2)];
     
     //controleren welke langer is
     if (strlen(woord1) > strlen(woord2))
