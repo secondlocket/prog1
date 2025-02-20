@@ -21,7 +21,7 @@ int main ()
     {
         if (woord1[i] == woord2[i])
         {
-            if 
+            if  
             i++
         }
         else if (woord1[i] < woord2[i])
