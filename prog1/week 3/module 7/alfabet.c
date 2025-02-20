@@ -45,7 +45,7 @@ int main ()
         {
             if (woord1[i] == '\0' || woord2[i] == '\0')
             {
-                if (n == strlen(woord1))
+                if (strlen(woord2) == strlen(woord1))
                 {
                     printf("%s first", woord1);
                 }
