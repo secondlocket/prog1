@@ -35,7 +35,7 @@ int main ()
     }
     
     //omzetten naar kleine letters 1
-    for (int i = 0; i < strlen(woord1); i++)
+    for (int i = 0; i < leng1; i++)
     {
         cmp1[i] = tolower(woord1[i]);
     }
