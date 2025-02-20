@@ -8,6 +8,7 @@ int sterk(string a)
 
 int main ()
 {
+    do
     string invoer = get_string("Wachtwoord? ");
     
     
