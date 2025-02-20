@@ -52,11 +52,13 @@ int main ()
                 i++;
             }
         }
+        
         else if (woord1[i] < woord2[i])
         {
             printf("%s first", woord1);
             break;
         }
+        
         else if (woord2[i] < woord1[i])
         {
             printf("%s first", woord2);
