@@ -17,4 +17,7 @@ int main ()
         woord2[i] = tolower(woord2[i]);
     }
     
+    
+    
+    return 0;
 }
