@@ -42,8 +42,7 @@ int main ()
     for (int i = 0; i < strlen(woord2); i++)
     {
         cmp2[i] = tolower(woord2[i]);
-    }
-    cmp2[strlen(woord2)] = '\0';  
+    }  
     
     //als de woorden hetzelfde zijn
     for (int i = 0; i < n; i++)
