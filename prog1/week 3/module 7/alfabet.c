@@ -29,6 +29,9 @@ int main ()
             break;
         }
         else if (woord2[i] < woord1[i])
+        {
+            printf
+        }
     }
     
     return 0;
