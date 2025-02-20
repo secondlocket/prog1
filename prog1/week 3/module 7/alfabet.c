@@ -48,14 +48,17 @@ int main ()
                 if (strlen(woord2) == strlen(woord1))
                 {
                     printf("no need to decide!");
+                    break;
                 }
                 else if (n == strlen(woord2))
                 {
                     printf("%s first", woord2);
+                    break;
                 }
                 else if (n == strlen(woord1))
                 {
                     printf("%s first", woord1);
+                    break;
                 }
             }
             else
