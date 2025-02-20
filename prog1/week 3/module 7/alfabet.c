@@ -14,6 +14,7 @@ int main ()
     }
     else if (strlen(woord2) > strlen(woord1))
     
+    
     for (int i = 0; i < strlen(woord1); i++)
     {
         woord1[i] = tolower(woord1[i]);
