@@ -4,6 +4,6 @@
 int main ()
 {
     string woord1 = ("Woord 1: ");
-    string woord2 = ("Woord 2: ")
+    string woord2 = ("Woord 2: ");
     
 }
