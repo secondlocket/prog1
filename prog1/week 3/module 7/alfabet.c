@@ -10,7 +10,7 @@ int main ()
     string woord1 = get_string("Woord 1: ");
     string woord2 = get_string("Woord 2: ");
     
-    
+    char 
     
     //controleren welke langer is
     if (strlen(woord1) > strlen(woord2))
