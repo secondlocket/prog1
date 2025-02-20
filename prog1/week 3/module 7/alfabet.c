@@ -11,7 +11,7 @@ int main ()
     string woord2 = get_string("Woord 2: ");
     
     int leng1 = strlen(woord1) + 1
-    int leng2 = strlen(woord1) + 1
+    int leng2 = strlen(woord2) + 1
     
     char cmp1 [strlen(woord1) + 1];
     char cmp2 [strlen(woord2) + 1];
