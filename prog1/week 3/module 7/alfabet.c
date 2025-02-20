@@ -7,19 +7,19 @@ int main ()
     string woord1 = ("Woord 1: ");
     string woord2 = ("Woord 2: ");
     
-    for (i = 0; i < strlen(woord1); i++)
+    for (int i = 0; i < strlen(woord1); i++)
     {
         woord1[i] = tolower(woord1[i]);
         string x = tolower(woord1);
     }
     
-    for (i = 0; i < strlen(woord2); i++)
+    for (int i = 0; i < strlen(woord2); i++)
     {
         woord2[i] = tolower(woord2[i]);
         string y = tolower(woord2);
     }
     
-    for (i = 0; woord1 != '\0' && woord2 != '\0'; i++)
+    for (int i = 0; woord1 != '\0' && woord2 != '\0'; i++)
     {
         if (woord1[i] == woord2[i])
         {
