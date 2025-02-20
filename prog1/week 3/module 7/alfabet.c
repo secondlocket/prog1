@@ -46,7 +46,7 @@ int main ()
     //hoofdlus
     for (int i = 0; i < n; i++)
     {
-        if (cmp1[i] == woord2[i])
+        if (cmp1[i] == cmp2[i])
         {
             if (woord1[i] == '\0' || woord2[i] == '\0')
             {
