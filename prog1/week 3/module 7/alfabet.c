@@ -35,6 +35,7 @@ int main ()
             printf("%s first", woord2);
             break;
         }
+        else if ()
     }
     
     return 0;
