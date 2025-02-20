@@ -56,7 +56,7 @@ int main ()
                     printf("no need to decide!");
                     break;
                 }
-                else if (n == strlen(woord2))
+                else if (n == strlen(cmp2))
                 {
                     printf("%s first", woord2);
                     break;
