@@ -24,6 +24,7 @@ int main ()
     {
         if (woord1[i] == woord2[i])
         {
+            printf("No need to decide!");
             i++;
         }
         else if (woord1[i] < woord2[i])
