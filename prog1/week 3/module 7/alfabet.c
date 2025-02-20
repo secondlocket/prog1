@@ -10,7 +10,7 @@ int main ()
     
     if (strlen(woord1) > strlen(woord2))
     {
-        
+        int n = strlen(woord1);
     }
     
     for (int i = 0; i < strlen(woord1); i++)
