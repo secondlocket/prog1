@@ -10,8 +10,8 @@ int main ()
     string woord1 = get_string("Woord 1: ");
     string woord2 = get_string("Woord 2: ");
     
-    int leng1 = strlen(woord1) + 1
-    int leng2 = strlen(woord2) + 1
+    int leng1 = strlen(woord1) + 1;
+    int leng2 = strlen(woord2) + 1;
     
     char cmp1 [leng1];
     char cmp2 [leng2];
