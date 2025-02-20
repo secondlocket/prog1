@@ -42,7 +42,7 @@ int main ()
     cmp1[strlen(woord1)] = '\0';
     
     //omzetten naar kleine letters 2
-    for (int i = 0; i < strlen(woord2); i++)
+    for (int i = 0; i < leng2; i++)
     {
         cmp2[i] = tolower(woord2[i]);
     }  
