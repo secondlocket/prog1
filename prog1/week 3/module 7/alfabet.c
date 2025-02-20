@@ -36,10 +36,6 @@ int main ()
             printf("%s first", woord2);
             break;
         }
-        else if (x == y)
-        {
-            
-        }
     }
     
     return 0;
