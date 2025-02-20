@@ -13,7 +13,7 @@ int main ()
     int leng1 = strlen(woord1) + 1
     int leng2 = strlen(woord2) + 1
     
-    char cmp1 [strlen(woord1) + 1];
+    char cmp1 [leng1];
     char cmp2 [strlen(woord2) + 1];
     
     //n definieren
