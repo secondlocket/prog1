@@ -25,11 +25,13 @@ int main ()
         printf("Error try again");
     }
     
+    //omzetten naar kleine letters 1
     for (int i = 0; i < strlen(woord1); i++)
     {
         woord1[i] = tolower(woord1[i]);
     }
     
+    //omzetten naar kleine letters 2
     for (int i = 0; i < strlen(woord2); i++)
     {
         woord2[i] = tolower(woord2[i]);
