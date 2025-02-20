@@ -61,7 +61,7 @@ int main ()
                     printf("%s first", woord2);
                     break;
                 }
-                else if (n == strlen(woord1))
+                else if (n == strlen(cmp1))
                 {
                     printf("%s first", woord1);
                     break;
