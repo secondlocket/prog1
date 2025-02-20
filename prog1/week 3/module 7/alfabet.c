@@ -19,7 +19,7 @@ int main ()
     //n definieren
     if (leng1 > leng2)
     {
-        n = strlen(woord1);
+        n = leng1;
     }
     else if (leng2 > leng1)
     {
