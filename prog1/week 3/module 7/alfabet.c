@@ -16,7 +16,7 @@ int main ()
     {
         int n = strlen(woord2);
     }
-    else if (strprintf("No need to decide!");len)
+    else if (strlen(woord1) > strlen(woord2))
     {
         int n = strlen(woord1);
     }
