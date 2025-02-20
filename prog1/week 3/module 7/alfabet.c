@@ -17,11 +17,11 @@ int main ()
     }
     else if (strlen(woord2) > strlen(woord1))
     {
-        int n = strlen(woord2);
+        n = strlen(woord2);
     }
     else if (strlen(woord1) == strlen(woord2))
     {
-        int n = strlen(woord1);
+        n = strlen(woord1);
     }
     else
     {
