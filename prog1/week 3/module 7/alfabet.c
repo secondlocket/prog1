@@ -8,6 +8,8 @@ int main ()
     string woord1 = get_string("Woord 1: ");
     string woord2 = get_string("Woord 2: ");
     
+    if 
+    
     for (int i = 0; i < strlen(woord1); i++)
     {
         woord1[i] = tolower(woord1[i]);
