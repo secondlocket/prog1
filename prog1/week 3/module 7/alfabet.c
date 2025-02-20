@@ -16,7 +16,7 @@ int main ()
     {
         int n = strlen(woord2);
     }
-    else if (printf("No need to decide!");)
+    else if (strprintf("No need to decide!");len)
     {
         int n = strlen(woord1);
     }
