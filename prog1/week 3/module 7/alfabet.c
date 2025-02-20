@@ -3,5 +3,7 @@
 
 int main ()
 {
+    string woord1 
+    string woord2 
     
 }
