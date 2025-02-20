@@ -23,6 +23,7 @@ int main ()
         {
             i++
         }
+        else if (woord1[i])
     }
     
     return 0;
