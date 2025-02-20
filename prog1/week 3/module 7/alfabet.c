@@ -38,7 +38,7 @@ int main ()
         woord2[i] = tolower(woord2[i]);
     }
     
-    //main loop
+    //hoofdlus
     for (int i = 0; i < n; i++)
     {
         if (woord1[i] == woord2[i])
