@@ -43,7 +43,7 @@ int main ()
         cmp2[i] = tolower(woord2[i]);
     }
     
-    //hoofdlus
+    //als de woorden hetzelfde zijn
     for (int i = 0; i < n; i++)
     {
         if (cmp1[i] == cmp2[i])
