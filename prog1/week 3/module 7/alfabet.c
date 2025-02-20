@@ -53,6 +53,10 @@ int main ()
                 {
                     printf("%s first", woord2);
                 }
+                else
+                {
+                    return 1;
+                }
             }
             else
             {
