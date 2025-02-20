@@ -5,7 +5,7 @@
 
 int main ()
 {
-    string woord1 = ("Woord 1: ");
+    string woord1 = get_string("Woord 1: ");
     string woord2 = ("Woord 2: ");
     
     for (int i = 0; i < strlen(woord1); i++)
