@@ -16,7 +16,7 @@ int main ()
     {
         int n = strlen(woord2);
     }
-    else
+    else if (strlen)
     {
         int n = strlen(woord1);
     }
