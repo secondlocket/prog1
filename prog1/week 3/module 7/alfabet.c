@@ -55,7 +55,7 @@ int main ()
                 }
                 else if
                 {
-                    return 1;
+                    printf("%s first", woord1);
                 }
             }
             else
