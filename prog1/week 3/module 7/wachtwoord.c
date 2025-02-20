@@ -12,7 +12,7 @@ int main ()
     {
         string invoer = get_string("Wachtwoord? ");
     }
-    while (sterk)
+    while (sterk())
     
     return 0;
 }
