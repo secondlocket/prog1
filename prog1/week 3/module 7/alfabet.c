@@ -60,6 +60,7 @@ int main ()
                     printf("%s first", woord1);
                     break;
                 }
+                
             }
             else
             {
