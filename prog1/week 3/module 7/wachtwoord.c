@@ -3,11 +3,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-int sterk(string a)
-{
-    if
-}
-
 int main ()
 {
     do
