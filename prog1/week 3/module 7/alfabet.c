@@ -17,7 +17,7 @@ int main ()
     char cmp2 [leng2];
     
     //n definieren
-    if (leng1 > strlen(woord2))
+    if (leng1 > leng2)
     {
         n = strlen(woord1);
     }
