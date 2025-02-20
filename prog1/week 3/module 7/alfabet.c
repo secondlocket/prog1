@@ -47,7 +47,7 @@ int main ()
             {
                 if (strlen(woord2) == strlen(woord1))
                 {
-                    printf("%s first", woord1);
+                    
                 }
                 else if (n == strlen(woord2))
                 {
