@@ -3,7 +3,7 @@
 
 int main ()
 {
-    string woord1 
+    string woord1 = ("Woord 1: ")
     string woord2 
     
 }
