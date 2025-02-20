@@ -3,7 +3,7 @@
 
 int sterk(string a)
 {
-    
+    if
 }
 
 int main ()
