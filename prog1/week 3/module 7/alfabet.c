@@ -39,7 +39,7 @@ int main ()
     {
         cmp1[i] = tolower(woord1[i]);
     }
-    cmp1[strlen(woord1)] = '\0';
+    cmp1[leng1] = '\0';
     
     //omzetten naar kleine letters 2
     for (int i = 0; i < leng2; i++)
