@@ -53,7 +53,7 @@ int main ()
                 {
                     printf("%s first", woord2);
                 }
-                else
+                else if ()
                 {
                     return 1;
                 }
