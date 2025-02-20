@@ -48,7 +48,7 @@ int main ()
     {
         if (cmp1[i] == cmp2[i])
         {
-            if (woord1[i] == '\0' || woord2[i] == '\0')
+            if (cmp1[i] == '\0' || woord2[i] == '\0')
             {
                 if (strlen(woord2) == strlen(woord1))
                 {
