@@ -13,7 +13,7 @@ int main ()
     char cmp1 [strlen(woord1)];
     char cmp2 [strlen(woord2)];
     
-    //controleren welke langer is
+    //n definieren
     if (strlen(woord1) > strlen(woord2))
     {
         n = strlen(woord1);
