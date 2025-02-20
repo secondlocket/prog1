@@ -17,7 +17,6 @@ int main ()
     for (int i = 0; i < strlen(woord2); i++)
     {
         woord2[i] = tolower(woord2[i]);
-        string y = tolower(woord2);
     }
     
     for (int i = 0; woord1 != '\0' && woord2 != '\0'; i++)
