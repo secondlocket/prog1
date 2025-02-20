@@ -84,7 +84,7 @@ int main ()
             break;
         }
         
-        else if (woord2[i] < woord1[i])
+        else if (cmp2[i] < cmp1[i])
         {
             printf("%s first", woord2);
             break;
