@@ -37,7 +37,7 @@ int main ()
     //omzetten naar kleine letters 2
     for (int i = 0; i < strlen(woord2); i++)
     {
-        woord2[i] = tolower(woord2[i]);
+        vergelijk2[i] = tolower(woord2[i]);
     }
     
     //hoofdlus
