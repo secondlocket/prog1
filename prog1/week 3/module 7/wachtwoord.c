@@ -9,7 +9,9 @@ int sterk(string a)
 int main ()
 {
     do
-    string invoer = get_string("Wachtwoord? ");
+    {
+        string invoer = get_string("Wachtwoord? ");
+    }
     
-    
+    return 0;
 }
