@@ -49,7 +49,7 @@ int main ()
                 {
                     printf("%s first", woord1)
                 }
-                else
+                else if (n == strlen(woord2))
                 {
                     printf("%s first", woord2)
                 }
