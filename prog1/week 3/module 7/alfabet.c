@@ -51,7 +51,6 @@ int main ()
             {
                 i++;
             }
-            i++;
         }
         else if (woord1[i] < woord2[i])
         {
