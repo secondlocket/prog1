@@ -11,7 +11,6 @@ int main ()
     for (int i = 0; i < strlen(woord1); i++)
     {
         woord1[i] = tolower(woord1[i]);
-        string x = tolower(woord1);
     }
     
     for (int i = 0; i < strlen(woord2); i++)
