@@ -10,8 +10,8 @@ int main ()
     string woord1 = get_string("Woord 1: ");
     string woord2 = get_string("Woord 2: ");
     
-    char cmp1 [strlen(woord1) + 1];
-    char cmp2 [strlen(woord2) + 1];
+    char cmp1 [strlen(woord1)];
+    char cmp2 [strlen(woord2)];
     
     //n definieren
     if (strlen(woord1) > strlen(woord2))
