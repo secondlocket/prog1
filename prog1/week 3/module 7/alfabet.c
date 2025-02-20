@@ -22,7 +22,7 @@ int main ()
         if (woord1[i] == woord2[i])
         {
             i++
-            if strlen(woord1) 
+            if (strlen(woord1) 
         }
         else if (woord1[i] < woord2[i])
         {
