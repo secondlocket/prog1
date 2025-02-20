@@ -38,7 +38,7 @@ int main ()
         }
         else if (x == y)
         {
-            printf("No need to decide!");
+            
         }
     }
     
