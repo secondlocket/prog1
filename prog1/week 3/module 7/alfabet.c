@@ -7,7 +7,7 @@ int main ()
     string woord1 = ("Woord 1: ");
     string woord2 = ("Woord 2: ");
     
-    while 
+    for (i = 0; i < strlen(woord1); i++)
     {
         woord1[i] = tolower(woord1[i]);
         woord2[i] = tolower(woord2[i]);
