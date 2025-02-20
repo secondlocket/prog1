@@ -78,7 +78,7 @@ int main ()
         }
         
         //als ze niet gelijk zijn
-        else if (woord1[i] < woord2[i])
+        else if (cmp1[i] < cmp2[i])
         {
             printf("%s first", woord1);
             break;
