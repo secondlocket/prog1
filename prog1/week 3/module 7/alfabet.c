@@ -47,7 +47,7 @@ int main ()
             {
                 if (strlen(woord2) == strlen(woord1))
                 {
-                    printf
+                    printf("no need to decide")
                 }
                 else if (n == strlen(woord2))
                 {
