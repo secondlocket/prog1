@@ -25,7 +25,7 @@ int main ()
         printf("Error try again");
     }
     
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < strlen(woord1); i++)
     {
         woord1[i] = tolower(woord1[i]);
     }
