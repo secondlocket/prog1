@@ -19,7 +19,10 @@ int main ()
     
     for (i = 0; woord1 != '\0' && woord2 != '\0'; i++)
     {
-        
+        if (woord1[i] == woord2[i])
+        {
+            
+        }
     }
     
     return 0;
