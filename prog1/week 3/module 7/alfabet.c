@@ -23,7 +23,7 @@ int main ()
     }
     else
     {
-        printf("Error try again");
+        return 1;
     }
     
     //omzetten naar kleine letters 1
