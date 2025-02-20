@@ -56,7 +56,6 @@ int main ()
                     printf("no need to decide!");
                     break;
                 }
-                //als de woorden hetzelfde zijn
                 else if (n == strlen(cmp2))
                 {
                     printf("%s first", woord2);
