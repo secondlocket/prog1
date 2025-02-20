@@ -78,6 +78,7 @@ int main ()
             }
         }
         
+        
         else if (woord1[i] < woord2[i])
         {
             printf("%s first", woord1);
