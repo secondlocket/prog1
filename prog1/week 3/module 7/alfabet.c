@@ -49,6 +49,10 @@ int main ()
                 {
                     printf("%s first", woord1)
                 }
+                else
+                {
+                    printf("%s first", woord2)
+                }
             }
             else
             {
