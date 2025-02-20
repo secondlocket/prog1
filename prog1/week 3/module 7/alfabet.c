@@ -43,7 +43,7 @@ int main ()
     //hoofdlus
     for (int i = 0; i < n; i++)
     {
-        if (woord1[i] == woord2[i])
+        if (vergelijk1[i] == woord2[i])
         {
             if (woord1[i] == '\0' || woord2[i] == '\0')
             {
