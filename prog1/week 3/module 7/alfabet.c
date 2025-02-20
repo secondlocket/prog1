@@ -5,6 +5,7 @@
 
 int main ()
 {
+    int n = 0;
     string woord1 = get_string("Woord 1: ");
     string woord2 = get_string("Woord 2: ");
     
