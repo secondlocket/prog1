@@ -10,6 +10,7 @@ int main ()
         //if not sterk genoeg dan return 1
         //als het sterk genoeg is dan return 0
     }
+    
     do
     {
         string invoer = get_string("Wachtwoord? ");
