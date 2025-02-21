@@ -7,7 +7,7 @@ int main ()
 {
     int sterk(string a)
     {
-        if not sterk genoeg 
+        //if not sterk genoeg 
     }
     do
     {
