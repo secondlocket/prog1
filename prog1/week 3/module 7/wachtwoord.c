@@ -28,10 +28,6 @@ int main ()
             {
                 printf("Sterk genoeg!");
             }
-            else
-            {
-                return 1;
-            }
         }
     }
     while (lengte < 8);
