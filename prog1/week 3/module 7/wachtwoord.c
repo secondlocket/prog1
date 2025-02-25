@@ -5,10 +5,10 @@
 
 int main ()
 {
-    string invoer = get_string("Wachtwoord? ");
     int lengte = 0;
     do
     {
+        string invoer = get_string("Wachtwoord? ");
         lengte = strlen(invoer);
         
         if (lengte < 8)
