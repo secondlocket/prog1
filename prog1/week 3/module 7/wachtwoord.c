@@ -16,21 +16,21 @@ int main ()
             printf("Niet sterk genoeg!");
         }
         for (int i = 0; i < lengte; i++)
-    {
-        char c = invoer[i];
+        {
+            char c = invoer[i];
         
-        if (invoer[i] == invoer[i + 1])
-        {
-            printf("Niet sterk genoeg!");
-        }
-        else if (lengte > 7 && invoer[i] != invoer[i + 1])
-        {
-            printf("Sterk genoeg!");
-        }
-        else
-        {
-            return 1;
-        }
+            if (invoer[i] == invoer[i + 1])
+            {
+                printf("Niet sterk genoeg!");
+            }
+            else if (lengte > 7 && invoer[i] != invoer[i + 1])
+            {
+                printf("Sterk genoeg!");
+            }
+            else
+            {
+                return 1;
+            }
     }
     }
     while (lengte < 8);
