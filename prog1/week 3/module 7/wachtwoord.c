@@ -5,7 +5,7 @@
 
 int main ()
 {
-
+    
     do
     {
         string invoer = get_string("Wachtwoord? ");
