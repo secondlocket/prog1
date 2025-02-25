@@ -18,12 +18,11 @@ int main ()
         
         for (int i = 0; i < lengte - 1; i++)
         {
-            char c = invoer[i];
-        
             if (invoer[i] == invoer[i + 1])
             {
                 printf("Niet sterk genoeg!\n");
             }
+            
             else if (lengte > 7 && invoer[i] != invoer[i + 1])
             {
                 printf("Sterk genoeg!\n");
