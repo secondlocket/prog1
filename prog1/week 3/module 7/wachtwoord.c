@@ -24,6 +24,9 @@ int main ()
         char c = invoer[i];
         
         if (invoer[i] == invoer[i + 1])
+        {
+            printf("Niet sterk genoeg!")
+        }
     }
     
     
