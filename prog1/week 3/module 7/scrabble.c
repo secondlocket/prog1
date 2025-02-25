@@ -9,5 +9,6 @@ int main ()
     //punten player 2
     int teller2 = 0;
     
-    string 
+    string player1 = get_string("")
+    string player2 
 }
