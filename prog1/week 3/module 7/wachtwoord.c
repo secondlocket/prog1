@@ -23,7 +23,7 @@ int main ()
     {
         char c = invoer[i];
         
-        
+        if (invoer[i] == invoer[i + 1])
     }
     
     
