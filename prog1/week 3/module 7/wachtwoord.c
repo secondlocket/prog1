@@ -27,6 +27,7 @@ int main ()
         {
             printf("Niet sterk genoeg!");
         }
+        else
     }
     
     
