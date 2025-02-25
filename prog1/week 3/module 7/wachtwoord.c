@@ -19,7 +19,7 @@ int main ()
     while (lengte < 8);
     
     
-    for (i = 0; i < strlen(invoer); i++)
+    for (i = 0; i < lengte; i++)
     {
         char c = invoer[i];
         
