@@ -9,5 +9,5 @@ int main ()
     //punten player 2
     int teller2 = 0;
     
-    
+    string 
 }
