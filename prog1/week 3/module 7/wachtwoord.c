@@ -18,7 +18,10 @@ int main ()
     while (sterk(invoer) == 1);
     
     
-    for (i = 0; i < strlen(invoer); )
+    for (i = 0; i < strlen(invoer); i++)
+    {
+        
+    }
     
     
     return 0;
