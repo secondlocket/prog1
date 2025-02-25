@@ -15,6 +15,7 @@ int main ()
         {
             printf("Niet sterk genoeg!");
         }
+        
         for (int i = 0; i < lengte; i++)
         {
             char c = invoer[i];
