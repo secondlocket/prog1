@@ -25,8 +25,9 @@ int main ()
         
         if (invoer[i] == invoer[i + 1])
         {
-            printf("Niet sterk genoeg!")
+            printf("Niet sterk genoeg!");
         }
+        
     }
     
     
