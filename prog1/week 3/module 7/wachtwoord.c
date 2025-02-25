@@ -31,7 +31,7 @@ int main ()
             {
                 return 1;
             }
-    }
+        }
     }
     while (lengte < 8);
     
