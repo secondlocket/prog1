@@ -20,6 +20,8 @@ int main ()
     
     for (i = 0; i < strlen(invoer); i++)
     {
+        char c = invoer[i];
+        
         
     }
     
