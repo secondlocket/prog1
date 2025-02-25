@@ -9,8 +9,9 @@ int main ()
     do
     {
         string invoer = get_string("Wachtwoord? ");
+        lengte = strlen(invoer);
     }
-    while (lengte == 1);
+    while (lengte < 1);
     
     
     for (i = 0; i < strlen(invoer); i++)
