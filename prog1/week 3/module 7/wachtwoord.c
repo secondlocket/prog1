@@ -28,6 +28,13 @@ int main ()
             printf("Niet sterk genoeg!");
         }
         else if (lengte > 7 && invoer[i] != invoer[i + 1])
+        {
+            printf("Sterk genoeg!");
+        }
+        else
+        {
+            return 1;
+        }
     }
     
     
