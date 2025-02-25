@@ -11,7 +11,7 @@ int main ()
         string invoer = get_string("Wachtwoord? ");
         lengte = strlen(invoer);
     }
-    while (lengte < 1);
+    while (lengte < 8);
     
     
     for (i = 0; i < strlen(invoer); i++)
