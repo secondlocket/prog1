@@ -21,7 +21,7 @@ int main ()
     
     for (int i = 0; i < lengte; i++)
     {
-        char c = invoer[i];
+        char c = string invoer[i];
         
         if (invoer[i] == invoer[i + 1])
         {
