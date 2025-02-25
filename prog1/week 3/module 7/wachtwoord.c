@@ -18,7 +18,7 @@ int main ()
     while (sterk(invoer) == 1);
     
     
-    
+    for (i = 0; )
     
     
     return 0;
