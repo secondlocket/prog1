@@ -26,7 +26,7 @@ int main ()
             }
             else if (lengte > 7 && invoer[i] != invoer[i + 1])
             {
-                printf("Sterk genoeg!\n);
+                printf("Sterk genoeg!\n");
             }
         }
     }
