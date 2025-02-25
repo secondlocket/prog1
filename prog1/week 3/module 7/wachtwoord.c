@@ -15,11 +15,7 @@ int main ()
         {
             printf("Niet sterk genoeg!");
         }
-    }
-    while (lengte < 8);
-    
-    
-    for (int i = 0; i < lengte; i++)
+        for (int i = 0; i < lengte; i++)
     {
         char c = invoer[i];
         
@@ -36,6 +32,11 @@ int main ()
             return 1;
         }
     }
+    }
+    while (lengte < 8);
+    
+    
+    
     
     return 0;
 }
