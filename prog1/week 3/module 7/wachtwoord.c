@@ -13,7 +13,7 @@ int main ()
         
         if (lengte < 8)
         {
-            
+            printf("Niet sterk genoeg!");
         }
     }
     while (lengte < 8);
