@@ -5,5 +5,9 @@
 int main ()
 {
     //punten player 1
-    int teller1 
+    int teller1 = 0;
+    //punten player 2
+    int teller2 = 0;
+    
+    
 }
