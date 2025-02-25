@@ -10,7 +10,7 @@ int main ()
     {
         string invoer = get_string("Wachtwoord? ");
     }
-    while (sterk(invoer) == 1);
+    while (lengte == 1);
     
     
     for (i = 0; i < strlen(invoer); i++)
