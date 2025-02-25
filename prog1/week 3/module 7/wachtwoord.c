@@ -22,11 +22,11 @@ int main ()
         
             if (invoer[i] == invoer[i + 1])
             {
-                printf("Niet sterk genoeg!");
+                printf("Niet sterk genoeg!\n");
             }
             else if (lengte > 7 && invoer[i] != invoer[i + 1])
             {
-                printf("Sterk genoeg!");
+                printf("Sterk genoeg!\n);
             }
         }
     }
