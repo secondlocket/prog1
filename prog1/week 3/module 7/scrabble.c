@@ -4,6 +4,6 @@
 
 int main ()
 {
-    //
+    //punten player 1
     int teller1 
 }
