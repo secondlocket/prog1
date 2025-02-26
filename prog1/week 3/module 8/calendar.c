@@ -47,7 +47,7 @@ int main ()
     return 0;
 }
 
-int dag(string maand)
+int dag(string maand, int year)
 {
     (from_1800 + start_1800) % 7
 }
