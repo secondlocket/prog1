@@ -41,7 +41,7 @@ int main ()
     return 0;
 }
 
-int dag(string )
+int dag(string maand)
 {
     
 }
