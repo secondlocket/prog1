@@ -14,6 +14,7 @@ int main ()
     {
         printf("-");
     }
+    printf("\n");
 
 
     //hoeveel jaren om te tellen
