@@ -10,7 +10,7 @@
 
 int maand(string month);
 int dag(int maand);
-int leap
+int leap(int year);
 
 int main ()
 {
