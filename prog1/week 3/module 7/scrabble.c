@@ -13,8 +13,14 @@ int functie (string x)
     {
         int index = tolower(x[i]) - 'a';
         
-        if (index )
-        score += punten[index];
+        if (index < 27)
+        {
+            score += punten[index];
+        }
+        else
+        {
+            sc
+        }
     }
     return score;
 }
