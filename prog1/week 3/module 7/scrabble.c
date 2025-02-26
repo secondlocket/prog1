@@ -2,7 +2,7 @@
 #include <cs50.h>
 #include <ctype.h>
 
-int punten ()
+int punten (char c)
 
 
 
