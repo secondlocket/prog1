@@ -36,7 +36,7 @@ int main ()
     return 0;
 }
 
-int maand(string month)
+maand(string month)
 {
     //gebruik array om maand op te slaan? m[1, ..., 12];
     //if (strcmp(month, "Jan")
@@ -45,12 +45,12 @@ int maand(string month)
     //}
 }
 
-int dag(int maand, int year)
+dag(int maand, int year)
 {
     (dagen + 3 % 7);
 }
 
-int leap(int year)
+leap(int year)
 {
     if (year % 400 != 0)
     {
