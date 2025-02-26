@@ -28,8 +28,8 @@ int main ()
     
     for (int i = 0; i < lengte; i++)
     {
-        int punten1 = functie(player1);
-        int punten2 = functie(player2);
+        punten1 = functie(player1);
+        punten2 = functie(player2);
     }
     
     if (punten1 > punten2)
