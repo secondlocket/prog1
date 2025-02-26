@@ -22,7 +22,7 @@ int main ()
         printf("-");
     }
     printf("\n");
-    printf("Sun Mon Tue Wed")
+    printf("Sun Mon Tue Wed Thu Fri Sat")
     
     if (dag(month) = 0)
     {
