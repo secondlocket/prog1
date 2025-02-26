@@ -39,10 +39,10 @@ int main ()
 int maand(string month)
 {
     //gebruik array om maand op te slaan? m[1, ..., 12];
-    if (strcmp(month, "Jan")
-    {
+    //if (strcmp(month, "Jan")
+    //{
         
-    }
+    //}
 }
 
 int dag(int maand, int year)
