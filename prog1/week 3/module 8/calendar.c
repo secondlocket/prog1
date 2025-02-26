@@ -6,7 +6,7 @@ int main ()
     int year = get_int("Year: ");
     int month = get_int("Month: ");
     
-    int from_1800 = 
+    int from_1800 = 365
     
     //display calendar
         //display header
