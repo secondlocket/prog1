@@ -3,6 +3,9 @@
 #include <ctype.h>
 
 int punten (char c)
+{
+    
+}
 
 
 
