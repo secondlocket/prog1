@@ -26,7 +26,7 @@ int main ()
     
     if (dag(month) = 0)
     {
-        printf("  1");
+        printf("  ");
     }
     //berekeningen
     //jaren verschil
