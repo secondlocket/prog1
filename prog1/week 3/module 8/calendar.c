@@ -51,5 +51,6 @@ int dag(int maand, int year)
 
 int leap(int year)
 {
-    if year / 4
+    if (year != 2000)
+    year / 4
 }
