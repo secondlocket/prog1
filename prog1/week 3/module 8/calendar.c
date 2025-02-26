@@ -19,8 +19,7 @@ int main ()
     {
         printf("-");
     }
-        
-        
+
         //display grid
             //first day of month
             //(from_1800 + start_1800) % 7
