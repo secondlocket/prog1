@@ -12,5 +12,5 @@ int main ()
             //first day of month
             //get numbers of month
             //print spaces as padding so day 1 is correctly aligned
-            //
+            //print the number grid
 }
