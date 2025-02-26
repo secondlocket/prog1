@@ -19,6 +19,8 @@ int functie (string x)
 
 int main ()
 {
+    int punten1 = 0;
+    int punten2 = 0;
     string player1 = get_string("Player 1: ");
     string player2 = get_string("Player 2: ");
     
