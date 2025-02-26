@@ -32,9 +32,14 @@ int main ()
     
     if (punten1 > punten2)
     {
+        printf("Player 1 wins!")
+    }
+    else if (punten2 > punten1)
+    {
         
     }
-    else if (punten2 > punten1){
+    else if (punten1 == punten2)
+    {
         
     }
 
