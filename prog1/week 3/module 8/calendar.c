@@ -1,10 +1,12 @@
 #include <stdio.h>
 #include <cs50.h>
+#include <string.h>
 
 void display_calendar();
 
 int main ()
 {
+    int start
     int year = get_int("Year: ");
     string month = get_string("Month: ");
 
