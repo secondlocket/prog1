@@ -12,7 +12,6 @@ int functie (string x)
     {
         int index = tolower(x[i]) - 'a';
         
-        
     }
 }
 
