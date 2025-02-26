@@ -24,10 +24,7 @@ int main ()
     printf("\n");
     printf("Sun Mon Tue Wed Thu Fri Sat\n");
     
-    if (dag(month) = 0)
-    {
-        printf("  ");
-    }
+    
     
     //berekeningen
     //jaren verschil
