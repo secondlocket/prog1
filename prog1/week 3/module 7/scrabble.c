@@ -29,4 +29,5 @@ int main ()
         punten2 = functie(player2);
     }
 
+    return 0;
 }
