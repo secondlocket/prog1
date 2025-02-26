@@ -36,15 +36,6 @@ int main ()
     //dagen verschil
     int dagen = (y % 4) + 365 * (y % 4 * 3);
     
-    
-    
-        //display grid
-            //first day of month
-            
-            //get numbers of month
-            //print spaces as padding so day 1 is correctly aligned
-            //print the number grid
-    
     return 0;
 }
 
