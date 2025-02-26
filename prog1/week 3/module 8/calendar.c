@@ -13,6 +13,7 @@ int main ()
 {
     int year = get_int("Year: ");
     string month = get_string("Month: ");
+    int nummer
     
     //display calendar
     //display header
@@ -24,7 +25,7 @@ int main ()
     printf("\n");
     printf("Sun Mon Tue Wed Thu Fri Sat\n");
     
-    printf("  %i", )
+    printf("  %i", nummer);
     
     //berekeningen
     //jaren verschil
