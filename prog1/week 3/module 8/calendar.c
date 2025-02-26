@@ -19,7 +19,7 @@ int main ()
 
     //berekeningen
     //jaren verschil
-    int jaren = year - 1800;
+    int y = year - 1800;
     //dagen verschil
     int dagen = (y % 4) + 365 * (y % 4 * 3);
         //display grid
