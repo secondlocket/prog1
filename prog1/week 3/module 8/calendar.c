@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <cs50.h>
 
+//int year
+//string month
+//
+
 void dag();
 
 int main ()
