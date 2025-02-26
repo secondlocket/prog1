@@ -52,7 +52,7 @@ int main ()
 int maand(string month)
 {
     m[1, ..., 12];
-    if (strcmp()
+    if (strcmp(month, "Jan")
 }
 
 int dag(int maand, int year)
