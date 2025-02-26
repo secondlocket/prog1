@@ -58,4 +58,5 @@ int leap(int year)
             leap = year / 4 
         }
     }
+    else if (year % 400 = 0)
 }
