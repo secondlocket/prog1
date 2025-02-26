@@ -53,6 +53,6 @@ int leap(int year)
 {
     if (year != 2000 || year != 2400)
     {
-        year / 4
+        if (year % 4 == 0)
     }
 }
