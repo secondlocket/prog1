@@ -7,6 +7,7 @@ int main ()
 {
     int year = get_int("Year: ");
     string month = get_string("Month: ");
+    
     //display calendar
     //display header
     printf("          %s %i          ", month, year);
