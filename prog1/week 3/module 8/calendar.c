@@ -15,7 +15,6 @@ int main ()
 {
     int year = get_int("Year: ");
     string month = get_string("Month: ");
-    int nummer
     
     //display calendar
     //display header
