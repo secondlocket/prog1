@@ -10,7 +10,8 @@ int functie (string x)
     
     for(int i = 0; x[i] != '\0'; i++)
     {
-        int index = tolower(x[i])
+        int index = tolower(x[i]);
+        
         
     }
 }
