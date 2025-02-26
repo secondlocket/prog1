@@ -3,7 +3,8 @@
 
 //int year
 //string month
-//int dag(string maand) geeft welke dag terug
+//int dag(string maand) geeft welke begindag terug
+
 
 void dag();
 
