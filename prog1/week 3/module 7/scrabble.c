@@ -19,7 +19,7 @@ int functie (string x)
         }
         else
         {
-            sc
+            score += 0;
         }
     }
     return score;
