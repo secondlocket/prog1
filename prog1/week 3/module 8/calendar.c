@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <cs50.h>
 
+void display_calendar(...)
+{
+    
+}
+
 int main ()
 {
     int year = get_int("Year: ");
