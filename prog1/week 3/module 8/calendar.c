@@ -9,7 +9,7 @@ int main ()
     string month = get_string("Month: ");
 
     //display calendar
-    //display header
+    //header
     printf("          %s %i          ", month, year);
     for (int i = 0; i < 27; i++)
     {
