@@ -50,7 +50,7 @@ int main ()
 
 int maand(string month)
 {
-    m[]
+    m[1, ..., 12]
 }
 
 int dag(int maand, int year)
