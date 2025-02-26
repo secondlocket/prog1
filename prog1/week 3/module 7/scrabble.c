@@ -23,6 +23,7 @@ int main ()
         char c = player1[i];
         islower(c)
         
+        
     }
 
 }
