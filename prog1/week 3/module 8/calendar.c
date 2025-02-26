@@ -22,6 +22,9 @@ int main ()
     int y = year - 1800;
     //dagen verschil
     int dagen = (y % 4) + 365 * (y % 4 * 3);
+    
+    
+    
         //display grid
             //first day of month
             (from_1800 + start_1800) % 7
