@@ -9,6 +9,7 @@ int main ()
     //hoeveel jaren om te tellen
     int y = year - 1800
     
+    
     //display calendar
         //display header
         //display grid
