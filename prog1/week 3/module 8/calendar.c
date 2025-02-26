@@ -38,7 +38,7 @@ int main ()
 
 int maand(string month)
 {
-    m[1, ..., 12];
+    //gebruik array om maand m[1, ..., 12];
     if (strcmp(month, "Jan")
 }
 
