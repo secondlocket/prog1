@@ -40,7 +40,11 @@ int main ()
     }
     else if (punten1 == punten2)
     {
-        
+        printf("Tie!");
+    }
+    else
+    {
+        printf("Error");
     }
 
     return 0;
