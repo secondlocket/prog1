@@ -5,7 +5,7 @@ void display_calendar();
 
 int main ()
 {
-    int start
+    int start_1800 = 3;
     int year = get_int("Year: ");
     string month = get_string("Month: ");
 
