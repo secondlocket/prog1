@@ -5,13 +5,6 @@ void display_calendar();
 
 int main ()
 {
-    int year = get_int("Year: ");
-    string month = get_string("Month: ");
-    
-    //hoeveel jaren om te tellen
-    int y = year - 1800;
-    //hoeveel dagen tussen invoer en 1800
-    int dagen = (y % 4) + 365 * (y % 4 * 3);
     
     //display calendar
     //display header
