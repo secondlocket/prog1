@@ -12,5 +12,5 @@ int main ()
     string player1 = get_string("Player 1: ");
     string player2 = get_string("Player 2: ");
     
-    
+    for (int i = 0; )
 }
