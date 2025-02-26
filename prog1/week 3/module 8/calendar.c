@@ -48,7 +48,10 @@ int main ()
     return 0;
 }
 
-int maand()
+int maand(string month)
+{
+    
+}
 
 int dag(int maand, int year)
 {
