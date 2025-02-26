@@ -22,7 +22,8 @@ int main ()
         printf("-");
     }
     printf("\n");
-
+    
+    if (dag(maand))
     //berekeningen
     //jaren verschil
     int y = year - 1800;
