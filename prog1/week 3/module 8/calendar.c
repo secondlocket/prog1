@@ -50,7 +50,7 @@ int main ()
 
 int maand(string month)
 {
-    if ()
+    if (month = )
 }
 
 int dag(int maand, int year)
