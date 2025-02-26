@@ -14,6 +14,8 @@ int main ()
     
     //display calendar
     //display header
+    for (i = 0 )
+    printf(" ")
     printf("          %s %i          ", month, year);
         
         
