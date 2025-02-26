@@ -13,6 +13,7 @@ int functie (string x)
         int index = tolower(x[i]) - 'a';
         score += punten[index];
     }
+    return score;
 }
 
 int main ()
