@@ -50,14 +50,7 @@ int main ()
 
 int maand(string month)
 {
-    if (month = "Jan")
-    {
-        int score = 1 
-    }
-    else if (month = "Feb")
-    {
-        score =
-    }
+    m[]
 }
 
 int dag(int maand, int year)
