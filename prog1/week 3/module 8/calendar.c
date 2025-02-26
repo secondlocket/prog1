@@ -27,7 +27,7 @@ int main ()
     return 0;
 }
 
-void display_calendar(...)
+void display_calendar()
 {
     
 }
