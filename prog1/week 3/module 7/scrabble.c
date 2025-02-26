@@ -16,6 +16,9 @@ int main ()
     
     for (int i = 0; i < lengte; i++)
     {
-        islower(player1)
+        char c = player1[i];
+        islower(c)
+        
+        
     }
 }
