@@ -9,4 +9,6 @@ int main ()
     //display calendar
         //display header
         //display grid
+            //first day of month
+            
 }
