@@ -11,4 +11,5 @@ int main ()
         //display grid
             //first day of month
             //get numbers of month
+            //print spaces as padding 
 }
