@@ -10,5 +10,5 @@ int main ()
         //display header
         //display grid
             //first day of month
-            
+            //get numbers of month
 }
