@@ -8,6 +8,7 @@
 //int dag(string maand) geeft welke begindag terug
 
 int dag(string maand);
+int maand(string maand);
 
 int main ()
 {
