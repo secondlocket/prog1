@@ -8,5 +8,5 @@ int main ()
     
     //display calendar
         //display header
-        //display 
+        //display grid
 }
