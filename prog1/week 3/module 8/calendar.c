@@ -15,8 +15,10 @@ int main ()
     //display calendar
     //display header
     printf("          %s %i          ", month, year);
-    for (int i)
-    printf("-")
+    for (int i = 0; i < 27; i++)
+    {
+        printf("-");
+    }
         
         
         //display grid
