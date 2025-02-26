@@ -26,9 +26,8 @@ int main ()
     for (int i = 0; i < lengte; i++)
     {
         char c = player1[i];
-        islower(c)
         
-        
+        functie
     }
 
 }
