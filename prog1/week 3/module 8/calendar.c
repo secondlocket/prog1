@@ -54,6 +54,10 @@ int maand(string month)
     {
         int score = 1 
     }
+    else if (month = "Feb")
+    {
+        score = 2
+    }
 }
 
 int dag(int maand, int year)
