@@ -28,6 +28,7 @@ int main ()
     {
         printf("  ");
     }
+    
     //berekeningen
     //jaren verschil
     int y = year - 1800;
