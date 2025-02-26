@@ -8,7 +8,10 @@ int functie (string x)
 {
     int score = 0;
     
-    for(int i = 0; x[i])
+    for(int i = 0; x[i] != '\0'; i++)
+    {
+        
+    }
 }
 
 int main ()
