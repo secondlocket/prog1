@@ -10,7 +10,7 @@ int main ()
         //display header
         //display grid
             //first day of month
-            (from_1800 + 
+            (from_1800 + start_1800) % 7
             //get numbers of month
             //print spaces as padding so day 1 is correctly aligned
             //print the number grid
