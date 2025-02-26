@@ -8,7 +8,7 @@ int main ()
     
     //hoeveel jaren om te tellen
     int y = year - 1800
-    int jaren = (y % 4) + 365 * (y % 4 * 3)
+    int dagen = (y % 4) + 365 * (y % 4 * 3)
     
     //display calendar
         //display header
