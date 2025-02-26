@@ -6,7 +6,6 @@ int teller;
 
 int punten (char c)
 {
-    
     int teller++;
 }
 
