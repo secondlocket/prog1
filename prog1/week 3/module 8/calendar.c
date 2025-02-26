@@ -13,7 +13,10 @@ int main ()
     int dagen = (y % 4) + 365 * (y % 4 * 3)
     
     //display calendar
-        //display header
+    //display header
+        
+        
+        
         //display grid
             //first day of month
             (from_1800 + start_1800) % 7
