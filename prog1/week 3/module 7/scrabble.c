@@ -34,6 +34,9 @@ int main ()
     {
         
     }
+    else if (punten2 > punten1){
+        
+    }
 
     return 0;
 }
