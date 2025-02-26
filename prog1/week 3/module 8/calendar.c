@@ -7,8 +7,8 @@
 //int d = dagen verschil
 //int dag(string maand) geeft welke begindag terug
 
-int dag(string maand);
 int maand(string month);
+int dag(string maand);
 
 int main ()
 {
