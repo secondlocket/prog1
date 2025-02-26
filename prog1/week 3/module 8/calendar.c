@@ -9,8 +9,8 @@ int main ()
     int month = get_int("Month: ");
     
     //hoeveel jaren om te tellen
-    int y = year - 1800
-    int dagen = (y % 4) + 365 * (y % 4 * 3)
+    int y = year - 1800;
+    int dagen = (y % 4) + 365 * (y % 4 * 3);
     
     //display calendar
     //display header
