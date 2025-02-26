@@ -26,8 +26,6 @@ int main ()
     printf("\n");
     printf("Sun Mon Tue Wed Thu Fri Sat\n");
     
-    
-    
     printf("  %i", nummer);
     
     //berekeningen
