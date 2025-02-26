@@ -16,7 +16,6 @@ int main ()
     }
     printf("\n");
 
-
     //hoeveel jaren om te tellen
     int y = year - 1800;
     //hoeveel dagen tussen invoer en 1800
