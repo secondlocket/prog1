@@ -48,9 +48,10 @@ int main ()
     return 0;
 }
 
+int maand()
+
 int dag(int maand, int year)
 {
     (from_1800 + start_1800) % 7
 }
 
-int maand()
