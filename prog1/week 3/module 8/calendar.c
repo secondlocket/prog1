@@ -5,7 +5,7 @@
 //string month
 //int dag(string maand) geeft welke begindag terug
 //int y = jaren verschil
-//int d 
+//int d = dagen verschil
 
 void dag();
 
