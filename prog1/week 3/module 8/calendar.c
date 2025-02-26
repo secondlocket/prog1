@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
-void display_calendar();
+void dag();
 
 int main ()
 {
