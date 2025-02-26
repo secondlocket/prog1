@@ -22,6 +22,7 @@ int main ()
         printf("-");
     }
     printf("\n");
+    printf("")
     
     if (dag(month) = 0)
     {
