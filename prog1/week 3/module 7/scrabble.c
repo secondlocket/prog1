@@ -17,10 +17,6 @@ int functie (string x)
         {
             score += punten[index];
         }
-        else
-        {
-            score += 0;
-        }
     }
     return score;
 }
