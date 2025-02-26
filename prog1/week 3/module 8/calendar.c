@@ -6,7 +6,7 @@ void display_calendar();
 int main ()
 {
     int year = get_int("Year: ");
-    int month = get_int("Month: ");
+    string month = get_string("Month: ");
     
     //hoeveel jaren om te tellen
     int y = year - 1800;
