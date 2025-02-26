@@ -56,35 +56,7 @@ int maand(string month)
     }
     else if (month = "Feb")
     {
-        score = 2
-    }
-    else if (month = "Feb")
-    {
-        score = 2
-    }
-    else if (month = "Feb")
-    {
-        score = 2
-    }
-    else if (month = "Feb")
-    {
-        score = 2
-    }
-    else if (month = "Feb")
-    {
-        score = 2
-    }
-    else if (month = "Feb")
-    {
-        score = 2
-    }
-    else if (month = "Feb")
-    {
-        score = 2
-    }
-    else if (month = "Feb")
-    {
-        score = 2
+        score =
     }
 }
 
