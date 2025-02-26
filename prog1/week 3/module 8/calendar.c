@@ -11,7 +11,7 @@ int main ()
 
     //calendar weergeven
     //header weergeven
-    printf("          %s %i          ", month, year);
+    printf("          %s %i          \n", month, year);
     for (int i = 0; i < 27; i++)
     {
         printf("-");
