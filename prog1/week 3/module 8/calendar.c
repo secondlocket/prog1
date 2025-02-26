@@ -14,7 +14,7 @@ int main ()
     
     //display calendar
     //display header
-    printf("          %s %s          ")    
+    printf("          %s %s          ", month, year);
         
         
         //display grid
