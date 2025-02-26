@@ -25,7 +25,8 @@ int main ()
     
     for (int i = 0; i < lengte; i++)
     {
-        functie(player1);
+        punten1 = functie(player1);
+        punten2 = functie(player2);
     }
 
 }
