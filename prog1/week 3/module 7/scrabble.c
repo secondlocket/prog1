@@ -29,6 +29,11 @@ int main ()
         int punten1 = functie(player1);
         int punten2 = functie(player2);
     }
+    
+    if (punten1 > punten2)
+    {
+        
+    }
 
     return 0;
 }
