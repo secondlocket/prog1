@@ -24,6 +24,5 @@ int main ()
         islower(c)
         
     }
-    
-    int lengte = strlen
+
 }
