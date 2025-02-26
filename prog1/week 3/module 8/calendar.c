@@ -57,6 +57,6 @@ int maand(string month)
 
 int dag(int maand, int year)
 {
-    (dagen + start_1800) % 7
+    (dagen + 3 % 7
 }
 
