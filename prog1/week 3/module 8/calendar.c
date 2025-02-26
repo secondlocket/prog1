@@ -1,10 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
-void display_calendar(...)
-{
-    
-}
+void display_calendar(...);
 
 int main ()
 {
