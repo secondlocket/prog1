@@ -52,7 +52,7 @@ int maand(string month)
 {
     if (month = "Jan")
     {
-        return 1
+        int score 
     }
 }
 
