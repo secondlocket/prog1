@@ -51,5 +51,5 @@ int dag(int maand, int year)
 
 int leap(int year)
 {
-    
+    year / 4
 }
