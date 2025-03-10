@@ -38,11 +38,9 @@ int main ()
 
 maand(string month)
 {
-    //gebruik array om maand op te slaan? m[1, ..., 12];
-    //if (strcmp(month, "Jan")
-    //{
+    const char *months[] = {
         
-    //}
+    }
 }
 
 dag(int maand, int year)
