@@ -12,6 +12,7 @@
 void display_calendar(int year, int month);
 void display_header(int year, int month);
 void display_grid(int year, int month);
+int maand_nummer(string month);
 
 //geeft maand nummer terug
 int maand_nummer(string month)
