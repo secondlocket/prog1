@@ -66,13 +66,7 @@ int main ()
     
     //display calendar
     //display header
-    printf("          %s %i          ", month, year);
-    for (int i = 0; i < 27; i++)
-    {
-        printf("-");
-    }
-    printf("\n");
-    printf("Sun Mon Tue Wed Thu Fri Sat\n");
+    
 
     //berekeningen
     //jaren verschil
@@ -95,7 +89,13 @@ void display_calendar(int year, int month)
 
 void display_header(int year, int month);
 {
-    
+    printf("          %s %i          ", month, year);
+    for (int i = 0; i < 27; i++)
+    {
+        printf("-");
+    }
+    printf("\n");
+    printf("Sun Mon Tue Wed Thu Fri Sat\n");
 }
 
 
