@@ -2,6 +2,12 @@
 #include <cs50.h>
 #include <string.h>
 
+//int year
+//string month
+//int y = jaren verschil
+//int d = dagen verschil
+//int dag(string maand) geeft welke begindag terug
+
 int maand_nummer(string month);
 int dag(int maand);
 int leap(int year);
