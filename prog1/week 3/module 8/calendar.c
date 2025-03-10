@@ -8,7 +8,7 @@
 //int d = dagen verschil
 //int dag(string maand) geeft welke begindag terug
 
-//geef maand nummer terug
+//geeft maand nummer terug
 int maand_nummer(string month)
 {
     string maand[] = 
@@ -26,6 +26,7 @@ int maand_nummer(string month)
     }
 }
 
+//geeft welke dag terug
 int dag(int maand, int year)
 {
     ((dagen + 3) % 7);
