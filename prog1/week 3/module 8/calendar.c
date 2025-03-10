@@ -9,6 +9,7 @@
 //int dag(string maand) geeft welke begindag terug
 
 //weergeven functie
+void display_calendar(int year?, int month?);
 
 
 //geeft maand nummer terug
