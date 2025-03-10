@@ -16,6 +16,7 @@ maand_nummer(string month)
         "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
     }
 }
+
 int dag(int maand);
 int leap(int year);
 
