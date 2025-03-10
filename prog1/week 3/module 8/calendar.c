@@ -81,4 +81,22 @@ void display_header(int year, int month);
     printf("Sun Mon Tue Wed Thu Fri Sat\n");
 }
 
-
+//geeft maand nummer terug
+int maand_nummer(string month)
+{
+    string maand[] = 
+    {
+        "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+        "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+    };
+    
+    for (int i = 0; i < 12; i++)
+    {
+        if (strcmp(month, maand[i]) == 0)
+        {
+            return i + 1;
+        }
+    }
+    
+    return -1;
+}
