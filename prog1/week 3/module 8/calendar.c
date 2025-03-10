@@ -78,6 +78,8 @@ void display_header(int year, int month);
     printf("Sun Mon Tue Wed Thu Fri Sat\n");
 }
 
+void display_grid(int )
+
 //geeft maand nummer terug
 int maand_nummer(string month)
 {
