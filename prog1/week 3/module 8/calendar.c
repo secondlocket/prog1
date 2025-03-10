@@ -24,6 +24,8 @@ int maand_nummer(string month)
             return i + 1;
         }
     }
+    
+    return -1;
 }
 
 //geeft welke dag 1e maand terug
