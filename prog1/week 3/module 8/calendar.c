@@ -23,7 +23,7 @@ int maand_nummer(string month)
             return i + 1;
         }
     }
-};
+}
 
 int dag(int maand);
 int leap(int year);
