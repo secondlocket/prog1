@@ -10,7 +10,7 @@ void display_calendar(int year, int month);
 void display_header(int year, int month);
 void display_grid(int year, int month);
 int maand_nummer(string month);
-int dag(int dagen)
+int dag(int year, int month)
 
 //geeft welke dag 1e maand terug
 int dag(int dagen)
