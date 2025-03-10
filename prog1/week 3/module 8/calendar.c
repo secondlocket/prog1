@@ -35,6 +35,8 @@ int dag(int dagen)
 //geeft schikkeljaar? terug
 int leap(int year)
 {
+    int a
+    
     if (year % 400 != 0)
     {
         if (year % 4 == 0)
