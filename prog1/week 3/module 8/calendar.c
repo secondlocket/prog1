@@ -47,6 +47,7 @@ int leap(int year)
         leap = year / 4 - (year / 400);
     }
 }
+
 int main ()
 {
     int year = get_int("Year: ");
