@@ -88,7 +88,8 @@ int main ()
 
 void display_calendar(int year, int month)
 {
-    display_header(year, month)
+    display_header(year, month);
+    display_grid(year, month);
 }
 
 
