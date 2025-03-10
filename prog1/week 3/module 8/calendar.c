@@ -27,7 +27,11 @@ int main ()
     printf("\n");
     printf("Sun Mon Tue Wed Thu Fri Sat\n");
     
-    
+    //maand
+    for (int i = 0; i < 12; i++)
+    {
+        if (strcmp(month))
+    }
     
     
     //berekeningen
