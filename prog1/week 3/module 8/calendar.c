@@ -8,6 +8,7 @@
 //int d = dagen verschil
 //int dag(string maand) geeft welke begindag terug
 
+//weergeven functie
 
 
 //geeft maand nummer terug
