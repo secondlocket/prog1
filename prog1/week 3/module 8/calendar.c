@@ -14,7 +14,7 @@ int maand_nummer(string month)
     {
         "Jan", "Feb", "Mar", "Apr", "May", "Jun",
         "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
-    }
+    };
 }
 
 int dag(int maand);
