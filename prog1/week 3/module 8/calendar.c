@@ -29,6 +29,7 @@ int dag(int maand, int year)
 {
     ((dagen + 3) % 7);
 }
+
 int leap(int year);
 
 int main ()
