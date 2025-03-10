@@ -90,7 +90,7 @@ void display_calendar(int year, int month)
 void display_header(int year, int month);
 {
     printf("Year = %i\n", year);
-    printf("Month = %s\n", maand_nummer)
+    printf("Month = %s\n", maand_nummer(month));
     printf("          %s %i          ", month, year);
     for (int i = 0; i < 27; i++)
     {
