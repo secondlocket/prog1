@@ -10,7 +10,8 @@
 
 //weergeven functie
 void display_calendar(int year, int month);
-
+void display_header
+void display_grid(int year, int month);
 
 //geeft maand nummer terug
 int maand_nummer(string month)
