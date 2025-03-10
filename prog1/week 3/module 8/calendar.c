@@ -47,15 +47,6 @@ int main ()
     return 0;
 }
 
-maand_nummer(string month)
-{
-    string maand[] = 
-    {
-        "Jan", "Feb", "Mar", "Apr", "May", "Jun",
-        "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
-    }
-}
-
 dag(int maand, int year)
 {
     ((dagen + 3) % 7);
