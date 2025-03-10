@@ -8,7 +8,6 @@
 //int d = dagen verschil
 //int dag(string maand) geeft welke begindag terug
 
-//weergeven functie
 void display_calendar(int year, int month);
 void display_header(int year, int month);
 void display_grid(int year, int month);
