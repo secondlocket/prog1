@@ -2,7 +2,11 @@
 #include <cs50.h>
 #include <string.h>
 
-
+//int year
+//string month
+//int y = jaren verschil
+//int d = dagen verschil
+//int dag(string maand) geeft welke begindag terug
 
 //geeft maand nummer terug
 int maand_nummer(string month)
