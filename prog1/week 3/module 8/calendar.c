@@ -15,24 +15,7 @@ void display_grid(int year, int month);
 int maand_nummer(string month);
 
 //geeft maand nummer terug
-int maand_nummer(string month)
-{
-    string maand[] = 
-    {
-        "Jan", "Feb", "Mar", "Apr", "May", "Jun",
-        "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
-    };
-    
-    for (int i = 0; i < 12; i++)
-    {
-        if (strcmp(month, maand[i]) == 0)
-        {
-            return i + 1;
-        }
-    }
-    
-    return -1;
-}
+
 
 //geeft welke dag 1e maand terug
 int dag(int dagen)
