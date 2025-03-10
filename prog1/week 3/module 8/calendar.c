@@ -38,7 +38,8 @@ int main ()
 
 maand(string month)
 {
-    const char *months[] = {
+    const char *months[] = 
+    {
         
     }
 }
