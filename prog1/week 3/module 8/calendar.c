@@ -51,7 +51,7 @@ int main ()
 
 maand_nummer(string month)
 {
-    const char *maand[] = 
+    string maand[] = 
     {
         "Jan", "Feb", "Mar", "Apr", "May", "Jun",
         "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
