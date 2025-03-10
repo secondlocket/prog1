@@ -107,5 +107,5 @@ int maand_nummer(string month)
 int dag(int year, int month)
 {
     int dagen = count_days_from_1800(year, month);
-    return (dagen )
+    return (dagen + 3) % 7;
 }
