@@ -30,7 +30,7 @@ int main ()
     //maand
     for (int i = 0; i < 12; i++)
     {
-        if (strcmp(month, maand[i]))
+        if (strcmp(month, maand[i]) == 0)
     }
     
     
