@@ -83,7 +83,7 @@ void display_grid(int year, int month)
     
 }
 
-//geeft maand nummer terug
+//geeft maand nummer terug (Jan = 1, Dec = 12)
 int maand_nummer(string month)
 {
     string maand[] = 
