@@ -15,6 +15,7 @@ int maand_nummer(string month)
         "Jan", "Feb", "Mar", "Apr", "May", "Jun",
         "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
     };
+    
     for (int i = 0; i < 12; i++)
     {
         if (strcmp(month, maand[i]) == 0)
