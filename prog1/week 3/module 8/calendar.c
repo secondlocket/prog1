@@ -66,17 +66,4 @@ int main ()
 
 
 
-leap(int year)
-{
-    if (year % 400 != 0)
-    {
-        if (year % 4 == 0)
-        {
-            leap = year / 4;
-        }
-    }
-    else if (year % 400 == 0)
-    {
-        leap = year / 4 - (year / 400);
-    }
-}
+
