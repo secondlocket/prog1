@@ -86,6 +86,10 @@ int main ()
     return 0;
 }
 
+void display_calendar(int year, int month)
+{
+    display_header(year, month)
+}
 
 
 
