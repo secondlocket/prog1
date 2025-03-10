@@ -103,3 +103,5 @@ int maand_nummer(string month)
     
     return -1;
 }
+
+int dag()
