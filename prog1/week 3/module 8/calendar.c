@@ -40,7 +40,7 @@ maand(string month)
 {
     const char *months[] = 
     {
-        "Jan", "Feb"
+        "Jan", "Feb", "Mar"
     }
 }
 
