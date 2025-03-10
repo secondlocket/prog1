@@ -26,7 +26,7 @@ int maand_nummer(string month)
     }
 }
 
-//geeft welke dag 1terug
+//geeft welke dag 1e maand terug
 int dag(int maand, int year)
 {
     ((dagen + 3) % 7);
