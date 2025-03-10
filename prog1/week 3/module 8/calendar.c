@@ -31,6 +31,9 @@ int main ()
     for (int i = 0; i < 12; i++)
     {
         if (strcmp(month, maand[i]) == 0)
+        {
+            return i + 1;
+        }
     }
     
     
