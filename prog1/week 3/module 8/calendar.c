@@ -8,7 +8,14 @@
 //int d = dagen verschil
 //int dag(string maand) geeft welke begindag terug
 
-int maand_nummer(string month);
+maand_nummer(string month)
+{
+    string maand[] = 
+    {
+        "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+        "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+    }
+}
 int dag(int maand);
 int leap(int year);
 
