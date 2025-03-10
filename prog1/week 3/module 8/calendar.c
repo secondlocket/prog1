@@ -79,6 +79,9 @@ void display_header(int year, int month);
 }
 
 void display_grid(int year, int month)
+{
+    
+}
 
 //geeft maand nummer terug
 int maand_nummer(string month)
