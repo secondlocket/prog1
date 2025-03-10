@@ -30,6 +30,9 @@ int main ()
     //berekeningen
     //jaren verschil
     int y = year - 1800;
+    
+    
+    
     //dagen verschil
     int dagen = (y % 4) + 365 * (y % 4 * 3);
     
