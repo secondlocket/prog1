@@ -46,7 +46,7 @@ int main ()
     return 0;
 }
 
-maand(string month)
+maand_nummer(string month)
 {
     const char *maand[] = 
     {
