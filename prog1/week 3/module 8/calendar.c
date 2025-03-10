@@ -81,7 +81,7 @@ int main ()
     int dagen = (y % 4) + 365 * (y % 4 * 3);
     dag(dagen);
     
-    display_calendar
+    display_calendar(year, month)
     
     return 0;
 }
