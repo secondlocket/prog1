@@ -49,7 +49,7 @@ int leap(int year)
         a = year / 4 - (year / 400);
     }
     
-    return a
+    return a;
 }
 
 int main ()
