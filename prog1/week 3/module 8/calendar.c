@@ -57,10 +57,7 @@ int main ()
     return 0;
 }
 
-dag(int maand, int year)
-{
-    ((dagen + 3) % 7);
-}
+
 
 leap(int year)
 {
