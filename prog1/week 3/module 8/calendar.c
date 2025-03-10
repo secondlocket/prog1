@@ -76,6 +76,8 @@ int main ()
     //dagen verschil
     int dagen = (y % 4) + 365 * (y % 4 * 3);
     
+    
+    
     return 0;
 }
 
