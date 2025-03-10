@@ -8,7 +8,7 @@
 //int d = dagen verschil
 //int dag(string maand) geeft welke begindag terug
 
-maand_nummer(string month)
+int maand_nummer(string month)
 {
     string maand[] = 
     {
