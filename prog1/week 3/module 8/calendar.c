@@ -93,6 +93,6 @@ void display_calendar(int year, int month)
     display_grid(year, month);
 }
 
-void display
+void display_header((int year, int month);)
 
 
