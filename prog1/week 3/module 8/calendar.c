@@ -30,7 +30,7 @@ int maand_nummer(string month)
 int dag(int dagen)
 {
     ((dagen + 3) % 7);
-}
+};
 
 //geeft schikkeljaar? terug
 int leap(int year)
