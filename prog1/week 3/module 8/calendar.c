@@ -44,7 +44,7 @@ int leap(int year)
     }
     else if (year % 400 == 0)
     {
-        leap = year / 4 - (year / 400);
+        int a = year / 4 - (year / 400);
     }
 }
 
