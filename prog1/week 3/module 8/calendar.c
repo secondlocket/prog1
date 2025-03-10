@@ -33,7 +33,7 @@ int dag(int maand, int year)
 }
 
 //geeft schikkeljaar? terug
-leap(int year)
+int leap(int year)
 {
     if (year % 400 != 0)
     {
