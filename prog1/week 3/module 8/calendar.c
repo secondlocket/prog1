@@ -68,7 +68,7 @@ void display_calendar(int year, int month)
 
 void display_header(int year, int month);
 {
-    string month[12]
+    string month[]
     {
         
     }
