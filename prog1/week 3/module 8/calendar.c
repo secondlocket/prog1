@@ -97,5 +97,5 @@ int dag(int year, int month)
 
 int dagen_pm(int year, int month)
 {
-    if (month == )
+    if (month == 1, 3, 5, 7, 8, 10, 12)
 }
