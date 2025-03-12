@@ -68,10 +68,11 @@ void display_calendar(int year, int month)
 
 void display_header(int year, int month);
 {
-    string month[]
+    string maand[] = 
     {
-        
-    }
+        "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+        "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+    };
     
     
     printf("          %s %i          ", month, year);
