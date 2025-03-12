@@ -88,26 +88,6 @@ void display_grid(int year, int month)
     int a = 
 }
 
-//geeft maand nummer terug (Jan = 1 ... Dec = 12)
-int maand_nummer(string month)
-{
-    string maand[] = 
-    {
-        "Jan", "Feb", "Mar", "Apr", "May", "Jun",
-        "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
-    };
-    
-    for (int i = 0; i < 12; i++)
-    {
-        if (strcmp(month, maand[i]) == 0)
-        {
-            return i + 1;
-        }
-    }
-    
-    return -1;
-}
-
 int dag(int year, int month)
 {
     int dagen = count_days_from_1800(year, month);
