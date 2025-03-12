@@ -41,7 +41,7 @@ int leap(int year)
 int main ()
 {
     int year = get_int("Year: ");
-    string month = get_string("Month: ");
+    int month = get_string("Month: ");
     
     //display calendar
     //display header
