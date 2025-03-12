@@ -68,7 +68,8 @@ void display_calendar(int year, int month)
 
 void display_header(int year, int month);
 {
-    int month[]
+    int month[12];
+    
     
     printf("          %s %i          ", month, year);
     for (int i = 0; i < 27; i++)
