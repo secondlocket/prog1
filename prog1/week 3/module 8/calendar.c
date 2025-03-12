@@ -97,7 +97,7 @@ int dag(int year, int month)
 
 int dagen_pm(int year, int month)
 {
-    if(month == 1, 3, 5, 7, 8, 10, 12)
+    if (month == 1, 3, 5, 7, 8, 10, 12)
     {
         return 31;
     }
@@ -105,8 +105,8 @@ int dagen_pm(int year, int month)
     {
         return 30;
     }
-    else if(month == 2)
+    else if (month == 2)
     {
-        
+        return 
     }
 }
