@@ -92,4 +92,21 @@ int dagen_pm(int year, int month)
     }
 }
 
-
+int leap(int year)
+{
+    int a
+    
+    if (year % 400 != 0)
+    {
+        if (year % 4 == 0)
+        {
+            a = year / 4;
+        }
+    }
+    else if (year % 400 == 0)
+    {
+        a = year / 4 - (year / 400);
+    }
+    
+    return a;
+}
