@@ -99,6 +99,6 @@ int dagen_pm(int year, int month)
 {
     if (month == 1, 3, 5, 7, 8, 10, 12)
     {
-        
+        return 
     }
 }
