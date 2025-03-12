@@ -12,32 +12,6 @@ void display_grid(int year, int month);
 int maand_nummer(string month);
 int dag(int year, int month);
 
-//geeft welke dag 1e maand terug
-int dag(int dagen)
-{
-    ((dagen + 3) % 7);
-};
-
-//geeft schikkeljaar? terug
-int leap(int year)
-{
-    int a
-    
-    if (year % 400 != 0)
-    {
-        if (year % 4 == 0)
-        {
-            a = year / 4;
-        }
-    }
-    else if (year % 400 == 0)
-    {
-        a = year / 4 - (year / 400);
-    }
-    
-    return a;
-}
-
 int main ()
 {
     int year = get_int("Year: ");
