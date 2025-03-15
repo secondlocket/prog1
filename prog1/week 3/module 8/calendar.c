@@ -61,7 +61,7 @@ void display_grid(int year, int month)
     //spaties
     for (int i = 0; i < a; i++)
     {
-        printf("   ");
+        printf("    ");
     }
     
     //nummers printen
