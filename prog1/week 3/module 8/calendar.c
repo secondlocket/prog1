@@ -79,7 +79,9 @@ void display_grid(int year, int month)
         printf("    ");
     }
     
-    //
+    //nummers printen
+    
+    
 }
 
 int dag(int year, int month)
