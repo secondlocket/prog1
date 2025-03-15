@@ -28,17 +28,6 @@ int main ()
     int year = get_int("Year: ");
     int month = get_int("Month: ");
     
-    //display calendar
-    //display header
-
-    //berekeningen
-    //jaren verschil
-    int y = year - 1800;
-    
-    //dagen verschil
-    int dagen = (y % 4) + 365 * (y % 4 * 3);
-    dag(dagen);
-    
     display_calendar(year, month);
     
     return 0;
