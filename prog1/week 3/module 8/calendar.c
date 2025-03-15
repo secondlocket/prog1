@@ -107,7 +107,7 @@ int dtotmaand(int year, int month)
 {
     int x = 0;
     
-    for (int i = 1; i < month; m++)
+    for (int i = 1; i < month; i++)
     {
         x += dagen_pm(year, i)
     }
