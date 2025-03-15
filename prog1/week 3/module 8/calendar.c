@@ -41,7 +41,7 @@ void display_header(int year, int month)
     };
     
     printf("          %s %i          \n", maand[month - 1], year);
-    for (int i = 0; i < 28; i++)
+    for (int i = 0; i < 27; i++)
     {
         printf("-");
     }
