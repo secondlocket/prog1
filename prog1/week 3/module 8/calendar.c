@@ -90,6 +90,10 @@ int dagen_pm(int year, int month)
     {
         return leap(year) ? 29 : 28;
     }
+    else
+    {
+        return 0;
+    }
 }
 
 int leap(int year)
