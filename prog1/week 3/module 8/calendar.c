@@ -112,7 +112,7 @@ int sinds1800(int year, int month)
 int dtotjaar(int year)
 {
     int x = 0;
-    for (int )
+    for (int y = 1800; y )
 }
 
 
