@@ -114,7 +114,7 @@ int dtotjaar(int year)
     int x = 0;
     for (int y = 1800; y < year; y++)
     {
-        
+        x +=
     }
 }
 
