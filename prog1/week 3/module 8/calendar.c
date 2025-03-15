@@ -68,8 +68,7 @@ void display_grid(int year, int month)
     //nummers printen
     for (int j = 1; j <= b; j++)
     {
-        printf("%3d", j);
-        printf(" ");
+        printf("%4d", j);
         
         if ((a + j) % 7 == 0)
         {
