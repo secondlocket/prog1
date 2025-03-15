@@ -88,7 +88,7 @@ int dagen_pm(int year, int month)
     }
     else if (month == 2)
     {
-        return leap(year)
+        return leap(year) ? 29 : 28;
     }
 }
 
