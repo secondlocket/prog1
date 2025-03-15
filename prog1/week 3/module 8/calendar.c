@@ -27,7 +27,6 @@ int main ()
     
     //display calendar
     //display header
-    
 
     //berekeningen
     //jaren verschil
