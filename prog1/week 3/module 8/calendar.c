@@ -82,7 +82,7 @@ int dagen_pm(int year, int month)
     {
         return 31;
     }
-    else if (month == 4, 6, 9, 11)
+    else if (month == 4 || month == 6 || month == 9 || month == 11)
     {
         return 30;
     }
