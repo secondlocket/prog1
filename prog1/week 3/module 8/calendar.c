@@ -47,7 +47,7 @@ void display_header(int year, int month)
     }
     
     printf("\n");
-    printf(" Sun Mon Tue Wed Thu Fri Sat\n");
+    printf("Sun Mon Tue Wed Thu Fri Sat\n");
 }
 
 void display_grid(int year, int month)
