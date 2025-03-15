@@ -122,7 +122,9 @@ int dtotjaar(int year)
 
 int dtotmaand(int year, int month)
 {
+    int x = 0;
     
+    for ()
 }
 
 int dagen_pm(int year, int month)
