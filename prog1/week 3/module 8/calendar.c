@@ -120,6 +120,10 @@ int dtotjaar(int year)
     return x;
 }
 
+int dtotmaand(int year, int month)
+{
+    
+}
 
 int dagen_pm(int year, int month)
 {
