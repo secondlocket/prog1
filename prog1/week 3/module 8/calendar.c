@@ -75,6 +75,7 @@ void display_grid(int year, int month)
         }
     }
     
+    printf("\n");
 }
 
 int dag(int year, int month)
