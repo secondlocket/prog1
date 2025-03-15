@@ -67,7 +67,9 @@ void display_header(int year, int month);
 
 void display_grid(int year, int month)
 {
-    int a = 
+    int a = dag(year, month);
+    
+    
 }
 
 int dag(int year, int month)
