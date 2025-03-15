@@ -94,5 +94,5 @@ int dagen_pm(int year, int month)
 
 int leap(int year)
 {
-    return (year % 4 == 0 && year )
+    return (year % 4 == 0 && year % 100 == 0)
 }
