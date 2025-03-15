@@ -101,7 +101,7 @@ int dag(int year, int month)
     return (dagen + 3) % 7;
 }
 
-
+int sinds1800(year, month)
 
 
 int dagen_pm(int year, int month)
