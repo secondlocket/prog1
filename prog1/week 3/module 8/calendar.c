@@ -125,6 +125,9 @@ int dtotmaand(int year, int month)
     int x = 0;
     
     for (int i = 1; i < month; m++)
+    {
+        
+    }
 }
 
 int dagen_pm(int year, int month)
