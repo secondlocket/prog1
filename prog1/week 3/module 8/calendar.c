@@ -84,6 +84,9 @@ void display_grid(int year, int month)
     {
         printf("%3d");
         printf(" ");
+        
+        if 
+        
     }
     
 }
