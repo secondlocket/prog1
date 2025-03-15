@@ -106,7 +106,7 @@ int dag(int year, int month)
 
 int sinds1800(int year, int month)
 {
-    return dtotjaar(year) + dtotmaand(year, int month)
+    return dtotjaar(year) + dtotmaand(year, month)
 }
 
 
