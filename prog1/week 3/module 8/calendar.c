@@ -12,8 +12,8 @@ void display_grid(int year, int month);
 int maand_nummer(string month);
 int dag(int year, int month);
 int dsinds1800(int year, int month);
-//int dtotjaar(int year);
-//int dtotmaand(int year, int month);
+int dtotjaar(int year);
+int dtotmaand(int year, int month);
 int dagen_pm(int year, int month);
 int leap(int year);
 
