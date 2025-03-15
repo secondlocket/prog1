@@ -114,8 +114,10 @@ int dtotjaar(int year)
     int x = 0;
     for (int y = 1800; y < year; y++)
     {
-        x += (leap(y))
+        x += (leap(y) ? 366 : 365);
     }
+    
+    return x;
 }
 
 
