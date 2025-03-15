@@ -73,6 +73,7 @@ void display_grid(int year, int month)
     //dagen per maand
     int b = dagen_pm(year, month);
     
+    for (int =)
 }
 
 int dag(int year, int month)
