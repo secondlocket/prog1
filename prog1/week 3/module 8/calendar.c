@@ -17,12 +17,6 @@ int dtotmaand(int year, int month);
 int dagen_pm(int year, int month);
 int leap(int year);
 
-//geeft welke dag 1e maand terug
-int dag(int dagen)
-{
-    ((dagen + 3) % 7);
-};
-
 int main ()
 {
     int year = get_int("Year: ");
