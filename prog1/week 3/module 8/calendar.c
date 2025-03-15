@@ -97,7 +97,7 @@ void display_grid(int year, int month)
 
 int dag(int year, int month)
 {
-    int dagen = daysfrom_1800(year, month);
+    int dagen = da1800(year, month);
     return (dagen + 3) % 7;
 }
 
