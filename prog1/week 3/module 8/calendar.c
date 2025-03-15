@@ -9,7 +9,6 @@
 void display_calendar(int year, int month);
 void display_header(int year, int month);
 void display_grid(int year, int month);
-int maand_nummer(string month);
 int dag(int year, int month);
 int dsinds1800(int year, int month);
 int dtotjaar(int year);
