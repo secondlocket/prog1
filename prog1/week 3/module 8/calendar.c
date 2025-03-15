@@ -61,7 +61,6 @@ void display_header(int year, int month);
         printf("-");
     }
     
-    printf("\n");
     printf("Sun Mon Tue Wed Thu Fri Sat\n");
 }
 
