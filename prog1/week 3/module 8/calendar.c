@@ -75,7 +75,7 @@ void display_grid(int year, int month)
     
     for (int i = 0; i < a; i++)
     {
-        printf("    ")
+        printf("    ");
     }
 }
 
