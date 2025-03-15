@@ -83,11 +83,11 @@ void display_grid(int year, int month)
 
 int dag(int year, int month)
 {
-    int dagen = sinds1800(year, month);
+    int dagen = dsinds1800(year, month);
     return (dagen + 3) % 7;
 }
 
-int sinds1800(int year, int month)
+int dsinds1800(int year, int month)
 {
     return dtotjaar(year) + dtotmaand(year, month);
 }
