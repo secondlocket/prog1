@@ -80,7 +80,10 @@ void display_grid(int year, int month)
     }
     
     //nummers printen
-    for (int j = 0; j <= )
+    for (int j = 0; j <= b; j++)
+    {
+        
+    }
     
 }
 
