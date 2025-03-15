@@ -102,6 +102,9 @@ int dag(int year, int month)
 }
 
 int sinds1800(year, month)
+{
+    
+}
 
 
 int dagen_pm(int year, int month)
