@@ -114,10 +114,7 @@ bool search(int value, int values[], int n)
             return true;
         }
     }
-    else
-    {
         return false;
-    }
 }
 
 // Sorts array of n values
