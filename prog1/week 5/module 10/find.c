@@ -133,7 +133,8 @@ void sort(int values[], int n)
 {
     // TODO: implement the sorting algorithm
     
-    for (int i = 0; i < n - 1; i++)
+    int max = values[0];
+    for (int i = 1; i < n; i++)
     {
         
     }
