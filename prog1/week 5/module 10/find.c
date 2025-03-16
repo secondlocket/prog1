@@ -143,7 +143,8 @@ void sort(int values[], int n)
     }
     
     int n = max + 1;
-    int count[n];
+    
+    for int count[n]
     
     
     
