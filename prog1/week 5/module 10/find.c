@@ -108,7 +108,7 @@ void generate_sequential_numbers(int arr[], int n)
                     values[j] = a;
                 }
             }
-        }
+    }
     
     return;
 }
