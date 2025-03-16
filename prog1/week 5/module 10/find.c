@@ -123,6 +123,10 @@ bool search(int value, int values[], int n)
                 return true;
             }
         }
+        else if (value > values[mid])
+        {
+            
+        }
     }
     
         return false;
