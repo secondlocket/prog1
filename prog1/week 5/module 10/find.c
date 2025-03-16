@@ -92,7 +92,7 @@ void generate_sequential_numbers(int arr[], int n)
 {
     // TODO: implement a sequential number generator
     
-    
+    arr[i] = (int) (drand48() * LIMIT)
     return;
 }
 
