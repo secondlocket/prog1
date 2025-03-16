@@ -99,7 +99,7 @@ void generate_sequential_numbers(int arr[], int n)
     
     for (int p = 0; p < n - 1; p++)
         {
-            for (int j = i + 1; j < n; j++)
+            for (int j = p + 1; j < n; j++)
             {
                 if (values[i] > values[j])
                 {
