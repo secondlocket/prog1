@@ -110,10 +110,10 @@ bool search(int value, int values[], int n)
     
     if (begin > eind)
     {
-        
+        return false;
     }
     
-        return false;
+        
 }
 
 // Sorts array of n values
