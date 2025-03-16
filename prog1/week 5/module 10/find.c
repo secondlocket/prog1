@@ -111,6 +111,9 @@ bool search(int value, int values[], int n)
     while (begin <= eind)
     {
         if (values[mid] == value)
+        {
+            return true;
+        }
     }
     
         return false;
