@@ -142,9 +142,9 @@ void sort(int values[], int n)
         }
     }
     
-    int n = max + 1;
+    int x = max + 1;
     
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < x; i++)
     {
         
     }
