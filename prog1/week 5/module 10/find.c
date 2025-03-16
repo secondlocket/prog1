@@ -107,7 +107,7 @@ bool search(int value, int values[], int n)
     
     int begin = 0, eind = n - 1;
     
-    int mid = begin + eind / 2;
+    int mid = (begin + eind) / 2;
     
     
         return false;
