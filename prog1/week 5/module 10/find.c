@@ -92,6 +92,7 @@ void generate_sequential_numbers(int arr[], int n)
 {
     // TODO: implement a sequential number generator
     
+    
     return;
 }
 
