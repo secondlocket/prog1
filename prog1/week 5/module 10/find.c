@@ -94,7 +94,6 @@ void generate_sequential_numbers(int arr[], int n)
     
     for (int i = 0; i < n; i++)
     {
-        // random number between 0 and LIMIT
         arr[i] = (int) (drand48() * LIMIT);
     }
     
