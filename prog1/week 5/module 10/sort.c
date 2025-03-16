@@ -69,7 +69,7 @@ void sort(int values[], int n)
     {
         for (int j = i + 1; j < n; j++)
         {
-            if (values[i] > values[i + 1])
+            if (values[i] > values[j])
             {
                 int a = values[i];
                 values[i] = values[i + 1];
