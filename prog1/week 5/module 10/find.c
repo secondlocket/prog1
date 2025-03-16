@@ -126,6 +126,10 @@ bool search(int value, int values[], int n)
         else if (value > values[mid])
         {
             begin = mid + 1;
+            if (values[mid] == value)
+            {
+                return true;
+            }
         }
     }
     
