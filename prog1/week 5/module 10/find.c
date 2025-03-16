@@ -96,7 +96,7 @@ void generate_sequential_numbers(int arr[], int n)
     {
         arr[i] = (int) (drand48() * LIMIT);
         
-        for (int i = 0; i < n - 1; i++)
+        for (int p = 0; i < n - 1; i++)
         {
             for (int j = i + 1; j < n; j++)
             {
