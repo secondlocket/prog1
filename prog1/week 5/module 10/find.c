@@ -145,7 +145,7 @@ void sort(int values[], int n)
     int x = max + 1;
     int telling[x];
     
-    for (int i = 0; i < x; i++)
+    for (int i = 0; i < n; i++)
     {
         telling[i]
     }
