@@ -118,10 +118,6 @@ bool search(int value, int values[], int n)
         else if (value < values[mid])
         {
             eind = mid - 1;
-            if (values[mid] == value)
-            {
-                return true;
-            }
         }
         else if (value > values[mid])
         {
