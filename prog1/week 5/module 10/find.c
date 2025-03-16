@@ -103,7 +103,7 @@ bool search(int value, int values[], int n)
 {
     // TODO: implement the searching algorithm
     
-    sort(arr[], n);
+    sort(values[], n);
     
     for (int i = 0; i < n; i++)
     {
