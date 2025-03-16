@@ -101,7 +101,7 @@ void generate_sequential_numbers(int arr[], int n)
         {
             for (int j = p + 1; j < n; j++)
             {
-                if (values[i] > values[j])
+                if (arr[i] > values[j])
                 {
                     int a = values[i];
                     values[i] = values[j];
