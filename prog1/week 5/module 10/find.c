@@ -142,6 +142,7 @@ void sort(int values[], int n)
         }
     }
     
+    int n = 
     int count[n];
     
     
