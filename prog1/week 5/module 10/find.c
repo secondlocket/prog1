@@ -108,12 +108,12 @@ bool search(int value, int values[], int n)
     int begin = 0, eind = n - 1;
     int mid = (begin + eind) / 2;
     
-    if (begin > eind)
+    while (begin > eind)
     {
-        return false;
+        
     }
     
-        
+        return false;
 }
 
 // Sorts array of n values
