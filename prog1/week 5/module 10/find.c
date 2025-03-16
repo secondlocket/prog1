@@ -92,16 +92,13 @@ void generate_sequential_numbers(int arr[], int n)
 {
     // TODO: implement a sequential number generator
     
-    for (int i = 0; i < n - 1; i++)
+    for (int i = 0; i < n; i++)
     {
-        for (int j = i + 1; j < n; j++)
+        arr[i] = (int) (drand48() * LIMIT);
+        
+        for (int j = 0; j < i; j++)
         {
-            if (values[i] > values[j])
-            {
-                int a = values[i];
-                values[i] = values[j];
-                values[j] = a;
-            }
+            
         }
     }
     
