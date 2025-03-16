@@ -71,7 +71,7 @@ void sort(int values[], int n)
         {
             int a = values[i]
             values[i] = values[i + 1]
-            values[i + 1] = 
+            values[i + 1] = a
         }
     }
     
