@@ -65,10 +65,10 @@ void sort(int values[], int n)
 {
     // TODO: implement an O(n^2) sorting algorithm
     
-    for (int i = 0; i < n; i++
+    for (int i = 0; i < n; i++)
     {
         
-    })
+    }
     
     return;
 }
