@@ -65,9 +65,12 @@ void sort(int values[], int n)
 {
     // TODO: implement an O(n^2) sorting algorithm
     
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < n - 1; i++)
     {
-        if (values[i] < values[i + 1]
+        if (values[i] < values[i + 1])
+        {
+            
+        }
     }
     
     return;
