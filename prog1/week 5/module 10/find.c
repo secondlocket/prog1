@@ -114,7 +114,10 @@ bool search(int value, int values[], int n)
             return true;
         }
     }
-    
+    else
+    {
+        
+    }
     return false;
 }
 
