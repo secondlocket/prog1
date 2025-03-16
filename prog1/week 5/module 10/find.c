@@ -103,9 +103,9 @@ void generate_sequential_numbers(int arr[], int n)
         {
             if (arr[i] > arr[j])
             {
-                int a = values[i];
-                values[i] = values[j];
-                values[j] = a;
+                int a = arr[i];
+                arr[i] = arr[j];
+                arr[j] = a;
             }
         }
     }
