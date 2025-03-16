@@ -73,7 +73,7 @@ void sort(int values[], int n)
             {
                 int a = values[i];
                 values[i] = values[j];
-                values[i + 1] = a;
+                values[j] = a;
             }
         }
         
