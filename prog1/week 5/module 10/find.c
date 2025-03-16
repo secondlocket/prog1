@@ -136,7 +136,7 @@ void sort(int values[], int n)
     int max = values[0];
     for (int i = 1; i < n; i++)
     {
-        
+        if ()
     }
     
     return;
