@@ -72,7 +72,7 @@ void sort(int values[], int n)
             if (values[i] > values[j])
             {
                 int a = values[i];
-                values[i] = values[i + 1];
+                values[i] = values[j];
                 values[i + 1] = a;
             }
         }
