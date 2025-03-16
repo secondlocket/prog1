@@ -70,11 +70,11 @@ void sort(int values[], int n)
         for (int j = i + 1; j < n; j++)
         {
             if (values[i] > values[i + 1])
-        {
-            int a = values[i];
-            values[i] = values[i + 1];
-            values[i + 1] = a;
-        }
+            {
+                int a = values[i];
+                values[i] = values[i + 1];
+                values[i + 1] = a;
+            }
         }
         
     }
