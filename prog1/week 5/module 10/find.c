@@ -125,7 +125,7 @@ bool search(int value, int values[], int n)
         }
         else if (value > values[mid])
         {
-            begin
+            begin = mid + 1;
         }
     }
     
