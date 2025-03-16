@@ -110,7 +110,7 @@ bool search(int value, int values[], int n)
     
     while (begin <= eind)
     {
-        if 
+        if values[mid] 
     }
     
         return false;
