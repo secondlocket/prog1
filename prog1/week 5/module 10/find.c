@@ -144,7 +144,9 @@ void sort(int values[], int n)
     
     int n = max + 1;
     
-    for (int i = 0; i < n count[n]
+    for (int i = 0; i < n; i++)
+    {
+        count[n]
     
     
     
