@@ -146,7 +146,8 @@ void sort(int values[], int n)
     
     for (int i = 0; i < n; i++)
     {
-        count[n]
+        
+    }
     
     
     
