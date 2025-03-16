@@ -117,6 +117,8 @@ bool search(int value, int values[], int n)
         else if (value < values[mid])
         {
             eind = mid - 1;
+            
+            
         }
     }
     
