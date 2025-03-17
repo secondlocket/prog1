@@ -133,7 +133,7 @@ void sort(int values[], int n)
 {
     // TODO: implement the sorting algorithm
     
-    int max = values[0];
+    int maxi = values[0];
     for (int i = 1; i < n; i++)
     {
         if (values[i] > max)
@@ -142,7 +142,7 @@ void sort(int values[], int n)
         }
     }
     
-    int x = max + 1;
+    int x = maxi + 1;
     int telling[x];
     
     for (int i = 0; i < n; i++)
@@ -151,7 +151,7 @@ void sort(int values[], int n)
     }
     
     //cumulatieve telling
-    for (int i = 1; i <= max )
+    for (int i = 1; i <= maxi )
     
     
     return;
