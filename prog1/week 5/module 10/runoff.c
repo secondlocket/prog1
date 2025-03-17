@@ -134,7 +134,7 @@ bool vote(int voter, int rank, string name)
             preferences[i][i] = preferences[voter][rank];
             return true;
         }
-        else if (strcmp(name, ))
+        else if (strcmp(name, candidates[i].name) != 0)
     }
     
     return false;
