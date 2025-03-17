@@ -134,18 +134,21 @@ void sort(int values[], int n)
     // TODO: implement the sorting algorithm
     
     int maxi = values[0];
+    int 
+    
+    
     for (int i = 1; i < n; i++)
     {
-        if (values[i] > max)
+        if (values[i] > maxi)
         {
-            max = values[i];
+            maxi = values[i];
         }
     }
     
     int x = maxi + 1;
     int telling[x];
     
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < x; i++)
     {
         telling[input[i]]++;
     }
