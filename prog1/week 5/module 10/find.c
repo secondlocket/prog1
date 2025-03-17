@@ -150,8 +150,8 @@ void sort(int values[], int n)
         telling[input[i]]++;
     }
     
-    //cul
-    for 
+    //cumulatieve telling
+    for (int i = 1; i <= max)
     
     
     return;
