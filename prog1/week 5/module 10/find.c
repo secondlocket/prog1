@@ -158,6 +158,8 @@ void sort(int values[], int n)
         telling[i] += telling[i - 1];
     }
     
+    //
+    
     for (int i = 0; i < n; i++)
     {
         values[i] = uitvoer[i]
