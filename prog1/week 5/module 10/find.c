@@ -92,8 +92,8 @@ void generate_sequential_numbers(int arr[], int n)
 {
     // TODO: implement a sequential number generator
     
-    generate_random_numbers(arr[], n);
-    sort(arr[], n);
+    generate_random_numbers(arr, n);
+    sort(arr, n);
     
     return;
 }
