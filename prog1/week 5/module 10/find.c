@@ -134,7 +134,7 @@ void sort(int values[], int n)
     // TODO: implement the sorting algorithm
     
     int maxi = values[0];
-    int output =
+    int output[n];
     
     for (int i = 1; i < n; i++)
     {
