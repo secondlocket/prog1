@@ -161,7 +161,7 @@ void sort(int values[], int n)
     //uitvoer opslagen
     for (int i = n - 1; i >= 0; i--)
     {
-        uitvoer[--telling[values[i]]]
+        uitvoer[--telling[values[i]]] = values[i];
     }
     
     for (int i = 0; i < n; i++)
