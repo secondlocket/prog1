@@ -149,7 +149,7 @@ void sort(int values[], int n)
     
     for (int i = 0; i < x; i++)
     {
-        telling[input[i]]++;
+        telling[values[i]]++;
     }
     
     //cumulatieve telling
