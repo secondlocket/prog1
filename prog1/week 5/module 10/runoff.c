@@ -177,7 +177,7 @@ int find_min(void)
     // TODO
     for (int i = 0; i < candidate_count; i++)
     {
-        if (candidates[i].eliminated = false && )
+        if (candidates[i].eliminated = false)
         {
             
         }
