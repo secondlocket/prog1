@@ -147,7 +147,7 @@ void tabulate(void)
     
     for (int i = 0; i < candidate_count; i++)
     {
-        if ()
+        if (preferences[i][0])
     }
     
     return;
