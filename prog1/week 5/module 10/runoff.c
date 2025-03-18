@@ -175,7 +175,7 @@ bool print_winner(void)
 int find_min(void)
 {
     // TODO
-    
+    for (int i = 0; i < )
     return 0;
 }
 
