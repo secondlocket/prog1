@@ -145,6 +145,8 @@ void tabulate(void)
 {
     // TODO
     
+    for (int i = 0; i < )
+    
     return;
 }
 
