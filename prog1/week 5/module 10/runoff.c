@@ -161,7 +161,7 @@ void tabulate(void)
 bool print_winner(void)
 {
     // TODO
-    if ()
+    if (candidate[])
     
     return false;
 }
