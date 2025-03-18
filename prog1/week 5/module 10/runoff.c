@@ -151,7 +151,7 @@ void tabulate(void)
         {
             candidates[i].votes++;
         }
-        
+
     }
     
     return;
