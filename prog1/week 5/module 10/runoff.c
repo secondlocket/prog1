@@ -161,7 +161,7 @@ void tabulate(void)
 bool print_winner(void)
 {
     // TODO
-    if (candidate[i].votes > voter_count / 2)
+    if (candidate[i].votes > voter_count * 3 / 2)
     {
         printf("%s", candidate[i].name);
         return true
