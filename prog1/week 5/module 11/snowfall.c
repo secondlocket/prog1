@@ -22,7 +22,7 @@ int main ()
     
 }
 
-void clear_screen()
+void clear()
 {
     printf("\033[2J\033[H");
 }
@@ -40,7 +40,14 @@ void init()
 
 void draw()
 {
-    clear_screen();
+    clear();
+    for (int i = 0; i < HEIGHT; i++)
+    {
+        for (int j = 0; j < WIDTH; j++)
+        {
+            
+        }
+    }
     
 }
 
