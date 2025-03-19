@@ -56,7 +56,7 @@ void draw()
 
 void snowflakes()
 {
-    int n = rand() % 4; //1-3 nieuwe sneeuwvlokken 
+    int n = rand() % 4; //1-3 nieuwe sneeuwvlokken elke keer
     for (int i = 0; i < n; i++)
     {
         int x = rand() % WIDTH;
