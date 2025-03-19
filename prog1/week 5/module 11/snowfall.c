@@ -74,7 +74,7 @@ void snowflakes()
         {
             if (scene[i][j] == '*')
             {
-                
+               
             }
         }
     }
