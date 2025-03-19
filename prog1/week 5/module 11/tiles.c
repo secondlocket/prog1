@@ -2,7 +2,7 @@
  * Implements Tiles (for a puzzle size of d x d)
  */
 
-/#include <cs50.h>/
+#include <cs50.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/time.h>
