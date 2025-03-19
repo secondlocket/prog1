@@ -12,6 +12,7 @@ void clear();
 void init(); //initialisatie
 void draw();
 void snowflakes();
+v
 
 int main ()
 {
