@@ -7,7 +7,7 @@
 
 char scene[HEIGHT][WIDTH];
 
-void clear_screen();
+void clear();
 void init(); //initialisatie
 void draw();
 
