@@ -192,7 +192,7 @@ bool is_tie(int min)
 {
     // TODO
     
-    for (int i = 0; i < )
+    for (int i = 0; i < candi)
     
     return false;
 }
