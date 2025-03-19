@@ -170,6 +170,10 @@ void init_board(void)
 {
     // TODO
     
+    int nummer = d * d - 1;
+    
+    
+    
 }
 
 // Prints the board in its current state
