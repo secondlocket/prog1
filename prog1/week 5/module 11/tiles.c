@@ -225,6 +225,15 @@ void draw_tile(int value)
 bool move(int tile)
 {
     // TODO
+    
+    for (int i = 0; i < d; i++)
+    {
+        for (int j = 0; j < d; j++)
+        {
+            
+        }
+    }
+    
     return false;
 }
 
