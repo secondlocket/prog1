@@ -194,7 +194,10 @@ bool is_tie(int min)
     
     kandidaat = 
     
-    for (int i = 0; i < candi)
+    for (int i = 0; i < candidate_count; i++)
+    {
+        candidates[i]
+    }
     
     return false;
 }
