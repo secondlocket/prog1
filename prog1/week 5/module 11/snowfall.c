@@ -13,7 +13,7 @@ void clear();
 void init(); //initialisatie
 void draw();
 void snowflakes();
-void pauze();
+void pauze(int t);
 
 int main ()
 {
