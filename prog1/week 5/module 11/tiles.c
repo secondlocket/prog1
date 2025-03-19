@@ -169,6 +169,7 @@ void greet_user(void)
 void init_board(void)
 {
     // TODO
+    
 }
 
 // Prints the board in its current state
