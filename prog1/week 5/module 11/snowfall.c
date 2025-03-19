@@ -96,4 +96,4 @@ void snowflakes()
     }
 }
 
-void pauze 
+void pauze (int )
