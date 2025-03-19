@@ -15,5 +15,5 @@ int main ()
 
 void clear_screen(void)
 {
-    printf("\033{")
+    printf("\033[2J")
 }
