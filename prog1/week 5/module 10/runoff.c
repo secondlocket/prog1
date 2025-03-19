@@ -192,7 +192,7 @@ bool is_tie(int min)
 {
     // TODO
     
-    kandidaat = 
+    int kandidaat = 0;
     
     for (int i = 0; i < candidate_count; i++)
     {
