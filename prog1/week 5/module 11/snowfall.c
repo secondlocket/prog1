@@ -95,3 +95,5 @@ void snowflakes()
         }
     }
 }
+
+void pauze 
