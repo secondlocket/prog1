@@ -10,7 +10,7 @@ char scene[HEIGHT][WIDTH];
 void clear();
 void init(); //initialisatie
 void draw();
-void s
+void snowflakes();
 
 int main ()
 {
