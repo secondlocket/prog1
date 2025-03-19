@@ -3,7 +3,7 @@
 
 
 #define WIDTH 80
-#define HE
+#define HEIGHT 40
 int main ()
 {
     
