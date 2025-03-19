@@ -66,3 +66,8 @@ void snowflakes()
         }
     }
 }
+
+void update()
+{
+    
+}
