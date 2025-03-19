@@ -101,7 +101,7 @@ void snowflakes()
 void pauze (int t)
 {
     struct timespec ts;
-    ts.tv_sec = t / 1000;
+    ts.tv_sec = t / 1000; //seconden
     ts.tv_nsec = (ms % 1000) * 1000000 //nanoseconden
     nanosleep(&ts, NULL);
 }
