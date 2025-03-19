@@ -186,7 +186,8 @@ void init_board(void)
     if (d % 2 == 0)
     {
         int a = board[d - 1][d - 2]; 
-        board[d - 1][d - 2] = board[d - 1]
+        board[d - 1][d - 2] = board[d - 1][d - 3];
+        board[d - 1][d - 3] = a;
     }
     
 }
