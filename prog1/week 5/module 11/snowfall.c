@@ -25,7 +25,7 @@ void init()
     {
         for (int j = 0; j < WIDTH; j++)
         {
-            scene[i][j] = " ";
+            scene[i][j] = ' ';
         }
     }
 }
