@@ -254,7 +254,7 @@ bool move(int tile)
             int a = board[empty_i][empty_j];
             
             board[empty_i][empty_j] = board[tile_i][tile_j];
-            board[tile_i][tile_j] = board[a][b];
+            board[tile_i][tile_j] = a;
             return true;
         }
     
