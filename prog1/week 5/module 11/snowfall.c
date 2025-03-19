@@ -31,6 +31,8 @@ int main ()
         
         draw();
         timestep++;
+        
+        pauze();
     }
     
     
