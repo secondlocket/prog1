@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
+#include <time.h>
 
 #define WIDTH 80
 #define HEIGHT 40
