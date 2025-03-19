@@ -4,7 +4,7 @@
 
 #define WIDTH 80
 #define HEIGHT 40
-#define TIMESTEP 100000
+#define TIMESTEP 10000
 
 char scene[HEIGHT][WIDTH];
 
