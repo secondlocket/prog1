@@ -17,6 +17,7 @@ int main ()
 {
     srand(time(NULL));
     init();
+    draw();
     
     int timestep = 0;
     
