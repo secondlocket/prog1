@@ -12,7 +12,10 @@ void init(); //initialisatie
 
 int main ()
 {
-    init
+    init();
+    
+    int timestep = 0;
+    
 }
 
 void clear_screen()
