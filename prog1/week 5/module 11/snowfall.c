@@ -100,5 +100,5 @@ void snowflakes()
 
 void pauze (int t)
 {
-    struct
+    struct timespec ts;
 }
