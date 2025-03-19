@@ -58,6 +58,7 @@ void snowflakes()
     int n = rand() % 3;
     for (int i = 0; i < n; i++)
     {
-        int x 
+        int x = rand() % WIDTH;
+        
     }
 }
