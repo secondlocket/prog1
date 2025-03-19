@@ -232,7 +232,7 @@ bool move(int tile)
         {
             if (tile == board[i][j])
             {
-                
+                if 
             }
         }
     }
