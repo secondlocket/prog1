@@ -23,7 +23,7 @@ int main ()
     
     while(1)
     {
-        
+        if (timestep % )
     }
     
     update();
