@@ -172,7 +172,10 @@ void init_board(void)
     
     int nummer = d * d - 1;
     
-    
+    for (int i = 0; i < d; i++)
+    {
+        for (int.j = 0; )
+    }
     
 }
 
