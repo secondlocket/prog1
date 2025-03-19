@@ -17,7 +17,7 @@ int main ()
     int timestep = 0;
     
     update();
-    draw()
+    draw();
     
 }
 
