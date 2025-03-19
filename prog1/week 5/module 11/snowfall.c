@@ -16,6 +16,9 @@ int main ()
     
     int timestep = 0;
     
+    update();
+    draw()
+    
 }
 
 void clear_screen()
