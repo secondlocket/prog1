@@ -28,9 +28,11 @@ int main ()
         {
             snowflakes();
         }
+        
+        draw();
     }
     
-    draw();
+    
     
 }
 
