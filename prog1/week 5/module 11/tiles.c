@@ -251,8 +251,7 @@ bool move(int tile)
     if ((tile_i == empty_i && abs(tile_j - empty_j) == 1) ||
         (tile_j == empty_j && abs(tile_i - empty_i) == 1)
         {
-            int a = empty_i;
-            int b = empty_j;
+            int a = 
             
             board[empty_i][empty_j] = board[tile_i][tile_j];
             board[tile_i][tile_j] = board[a][b];
