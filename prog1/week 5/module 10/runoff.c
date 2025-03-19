@@ -202,6 +202,8 @@ bool is_tie(int min)
         }
     }
     
+    for (int i = 0; i < kandidaat; j)
+    
     return false;
 }
 
