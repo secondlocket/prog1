@@ -64,6 +64,7 @@ void draw()
         {
             printf("%c", scene[i][j]);
         }
+        printf("\n");
     }
     
 }
