@@ -55,5 +55,5 @@ void draw()
 
 void snowflakes()
 {
-    int 
+    int n = rand() % 
 }
