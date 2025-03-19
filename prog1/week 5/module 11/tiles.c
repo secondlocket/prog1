@@ -230,7 +230,10 @@ bool move(int tile)
     {
         for (int j = 0; j < d; j++)
         {
-            if (tile =)
+            if (tile = board[i][j])
+            {
+                
+            }
         }
     }
     
