@@ -45,7 +45,7 @@ void draw()
     {
         for (int j = 0; j < WIDTH; j++)
         {
-            
+            printf("%c")
         }
     }
     
