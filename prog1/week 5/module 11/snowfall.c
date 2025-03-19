@@ -24,7 +24,10 @@ int main ()
     
     while(1)
     {
-        if (timestep % )
+        if (timestep % INTERVAL == 0)
+        {
+            
+        }
     }
     
     update();
