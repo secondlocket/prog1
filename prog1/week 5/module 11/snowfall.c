@@ -69,5 +69,8 @@ void snowflakes()
 
 void update()
 {
-    
+    for (int i = HEIGHT - 2; i >= 0; i--)
+    {
+        
+    }
 }
