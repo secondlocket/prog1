@@ -32,7 +32,7 @@ int main ()
         draw();
         timestep++;
         
-        pauze();
+        pauze(TIMESTEP);
     }
     
     
