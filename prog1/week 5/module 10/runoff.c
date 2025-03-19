@@ -192,6 +192,8 @@ bool is_tie(int min)
 {
     // TODO
     
+    candidat
+    
     for (int i = 0; i < candi)
     
     return false;
