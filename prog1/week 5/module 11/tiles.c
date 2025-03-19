@@ -248,7 +248,7 @@ bool move(int tile)
         }
     }
     
-    
+    if (tile_i)
     
     return false;
 }
