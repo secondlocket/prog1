@@ -6,16 +6,21 @@
 
 char scene[HEIGHT][WIDTH];
 
-void clear_screen(void);
-void init
+void clear_screen();
+void init();
 
 int main ()
 {
     
 }
 
-void clear_screen(void)
+void clear_screen()
 {
     printf("\033[2J\033[H");
+}
+
+void init()
+{
+    for (int i = 0; i < )
 }
 
