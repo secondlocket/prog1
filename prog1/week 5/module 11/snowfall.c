@@ -21,6 +21,10 @@ int main ()
     
     int timestep = 0;
     
+    while(1)
+    {
+        
+    }
     update();
     draw();
     
