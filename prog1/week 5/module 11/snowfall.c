@@ -39,4 +39,8 @@ void init()
 }
 
 void draw()
+{
+    clear_screen();
+    
+}
 
