@@ -21,6 +21,12 @@ void clear_screen()
 
 void init()
 {
-    for (int i = 0; i < )
+    for (int i = 0; i < HEIGHT; i++)
+    {
+        for (int j = 0; j < WIDTH; j++)
+        {
+            printf(" ");
+        }
+    }
 }
 
