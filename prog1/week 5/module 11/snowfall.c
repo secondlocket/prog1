@@ -56,6 +56,7 @@ void draw()
 
 void snowflakes()
 {
+    //sneeuwvlokken maken
     int n = rand() % 4; //1-3 nieuwe sneeuwvlokken elke keer
     for (int i = 0; i < n; i++)
     {
@@ -66,6 +67,7 @@ void snowflakes()
         }
     }
     
+    //sneeuwvlokken vallen
     for (int i = HEIGHT; i >= 0; i--)
     {
         for (int j = 0; j < WIDTH; j++)
