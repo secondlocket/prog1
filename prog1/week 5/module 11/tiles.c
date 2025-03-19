@@ -226,6 +226,9 @@ bool move(int tile)
 {
     // TODO
     
+    int tile_i
+    int ti
+    
     for (int i = 0; i < d; i++)
     {
         for (int j = 0; j < d; j++)
