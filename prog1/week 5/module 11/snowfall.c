@@ -5,7 +5,7 @@
 #define WIDTH 80
 #define HEIGHT 40
 
-
+char 
 
 int main ()
 {
