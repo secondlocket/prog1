@@ -25,6 +25,7 @@ int main ()
     {
         
     }
+    
     update();
     draw();
     
