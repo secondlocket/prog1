@@ -73,7 +73,10 @@ void update()
     {
         for (int j = 0; j < WIDTH; j++)
         {
-            if (scene[i][j] == "*")
+            if (scene[i][j] == '*')
+            {
+                
+            }
         }
     }
 }
