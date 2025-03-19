@@ -61,7 +61,7 @@ void snowflakes()
         int x = rand() % WIDTH;
         if (scene[0][x] == ' ')
         {
-            
+            scene[0][x] = 
         }
     }
 }
