@@ -248,7 +248,7 @@ bool move(int tile)
         }
     }
     
-    if (tile_i == empty)
+    if (tile_i == empty_i && tile_j - empty_j == 1)
     
     return false;
 }
