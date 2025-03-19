@@ -8,7 +8,7 @@
 char scene[HEIGHT][WIDTH];
 
 void clear_screen();
-void init();
+void init(); //initialisatie
 
 int main ()
 {
