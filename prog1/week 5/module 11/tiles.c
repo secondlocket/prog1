@@ -182,6 +182,9 @@ void init_board(void)
     }
     
     board[d - 1][d - 1] = 0;
+    
+    
+    
 }
 
 // Prints the board in its current state
