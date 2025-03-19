@@ -198,7 +198,7 @@ bool is_tie(int min)
     {
         if (candidates[i].eliminated = false)
         {
-            
+            kandidaat++;
         }
     }
     
