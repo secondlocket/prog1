@@ -90,7 +90,7 @@ void snowflakes()
             {
                 if (scene[i + 1][j] == ' ')
                 {
-                    scene[i + 1][j] == '*';
+                    scene[i + 1][j] = '*';
                     scene[i][j] = ' ';
                 }
             }
