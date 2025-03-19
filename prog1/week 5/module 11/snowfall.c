@@ -12,3 +12,8 @@ int main ()
 {
     
 }
+
+void clear_screen(void)
+{
+    printf("\033{")
+}
