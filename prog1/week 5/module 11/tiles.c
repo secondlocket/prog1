@@ -236,7 +236,8 @@ bool move(int tile)
         {
             if (tile == board[i][j])
             {
-                
+                tile_i = i;
+                tile_j = j;
             }
         }
     }
