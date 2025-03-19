@@ -12,7 +12,7 @@ void init(); //initialisatie
 
 int main ()
 {
-    
+    init
 }
 
 void clear_screen()
