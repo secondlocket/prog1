@@ -183,7 +183,10 @@ void init_board(void)
     
     board[d - 1][d - 1] = 0;
     
-    
+    if (d % 2 == 0)
+    {
+        int 
+    }
     
 }
 
