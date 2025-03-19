@@ -73,7 +73,7 @@ void update()
     {
         for (int j = 0; j < WIDTH; j++)
         {
-            if (scene)
+            if (scene[i][j])
         }
     }
 }
