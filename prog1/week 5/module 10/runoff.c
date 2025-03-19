@@ -196,7 +196,10 @@ bool is_tie(int min)
     
     for (int i = 0; i < candidate_count; i++)
     {
-        candidates[i].eliminated 
+        if (candidates[i].eliminated = false)
+        {
+            
+        }
     }
     
     return false;
