@@ -248,7 +248,7 @@ bool move(int tile)
         }
     }
     
-    d
+    
     
     return false;
 }
