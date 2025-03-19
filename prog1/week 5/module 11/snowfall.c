@@ -13,7 +13,7 @@ void draw();
 
 int main ()
 {
-    srand((time(NULL)))
+    srand((time(NULL))
     init();
     
     int timestep = 0;
