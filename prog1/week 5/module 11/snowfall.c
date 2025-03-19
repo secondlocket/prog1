@@ -5,7 +5,7 @@
 #define WIDTH 80
 #define HEIGHT 40
 #define TIMESTEP 100
-#define INTERVAL 
+#define INTERVAL 5
 
 char scene[HEIGHT][WIDTH];
 
@@ -25,7 +25,7 @@ int main ()
     
     while(1)
     {
-        if (timestep % interval == 0)
+        if (timestep %  == 0)
         {
             snowflakes();
         }
