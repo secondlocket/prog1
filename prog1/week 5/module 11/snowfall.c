@@ -2,7 +2,8 @@
 #include <cs50.h>
 
 
-#define 
+#define WIDTH 80
+#define HE
 int main ()
 {
     
