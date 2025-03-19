@@ -235,7 +235,7 @@ bool move(int tile)
     {
         for (int j = 0; j < d; j++)
         {
-            if (0 == board[i][j])
+            if (board[i][j] == )
             {
                 tile_i = i;
                 tile_j = j;
