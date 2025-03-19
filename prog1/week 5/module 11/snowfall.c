@@ -25,7 +25,7 @@ void init()
     {
         for (int j = 0; j < WIDTH; j++)
         {
-            printf(" ");
+            scene[i][j] = " ";
         }
     }
 }
