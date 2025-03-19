@@ -6,6 +6,8 @@
 
 char scene[HEIGHT][WIDTH];
 
+void clear_screen(void);
+
 int main ()
 {
     
