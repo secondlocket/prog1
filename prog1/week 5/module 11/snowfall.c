@@ -9,6 +9,7 @@ char scene[HEIGHT][WIDTH];
 
 void clear_screen();
 void init(); //initialisatie
+void draw();
 
 int main ()
 {
