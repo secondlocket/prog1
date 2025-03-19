@@ -240,6 +240,11 @@ bool move(int tile)
                 tile_i = i;
                 tile_j = j;
             }
+            else if (tile == board[i][j])
+            {
+                empty_i = i;
+                empty_j = j;
+            }
         }
     }
     
