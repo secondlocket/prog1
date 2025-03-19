@@ -23,6 +23,7 @@ int main ()
     
     while(1)
     {
+        int interval
         if (timestep % INTERVAL == 0)
         {
             snowflakes();
