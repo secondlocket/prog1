@@ -227,7 +227,8 @@ bool move(int tile)
     // TODO
     
     int tile_i
-    int ti
+    int tile_j
+    int empty
     
     for (int i = 0; i < d; i++)
     {
