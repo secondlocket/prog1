@@ -69,14 +69,5 @@ void snowflakes()
 
 void update()
 {
-    for (int i = HEIGHT; i >= 0; i--)
-    {
-        for (int j = 0; j < WIDTH; j++)
-        {
-            if (scene[i][j] == '*')
-            {
-                
-            }
-        }
-    }
+    
 }
