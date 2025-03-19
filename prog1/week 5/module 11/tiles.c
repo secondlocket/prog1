@@ -176,7 +176,8 @@ void init_board(void)
     {
         for (int j = 0; j < d; j++)
         {
-            board[i][j]
+            board[i][j] = nummer;
+            nummer--;
         }
     }
     
