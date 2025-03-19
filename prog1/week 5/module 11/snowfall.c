@@ -59,6 +59,6 @@ void snowflakes()
     for (int i = 0; i < n; i++)
     {
         int x = rand() % WIDTH;
-        
+        if (scene[0][x] == ' ')
     }
 }
