@@ -26,7 +26,7 @@ int main ()
     {
         if (timestep % INTERVAL == 0)
         {
-            
+            snowflakes();
         }
     }
     
