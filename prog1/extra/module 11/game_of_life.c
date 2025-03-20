@@ -145,7 +145,11 @@ void weergave()
         {
             if (grid[i][j] == 1)
             {
-                printf("|")
+                printf("8");
+            }
+            else if (grid[i][j] == 0)
+            {
+                printf(" ");
             }
         }
     }
