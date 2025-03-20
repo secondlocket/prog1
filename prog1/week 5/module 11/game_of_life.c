@@ -11,7 +11,7 @@ int tellen();
 void update();
 void weergave();
 
-
+int grid[HOOGTE][LENGTE] = {0};
 
 int main()
 {
