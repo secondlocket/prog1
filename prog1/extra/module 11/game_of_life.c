@@ -13,7 +13,7 @@
 #define BREEDTE 40
 
 void init();
-int nghbrtellen(int a, int b);
+int burentellen(int a, int b);
 void update();
 void weergave();
 
