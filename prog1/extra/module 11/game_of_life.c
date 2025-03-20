@@ -89,3 +89,8 @@ int nghbrtellen(int i, int j)
     
     return count;
 }
+
+void update()
+{
+    
+}
