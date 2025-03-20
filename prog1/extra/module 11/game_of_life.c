@@ -143,6 +143,7 @@ void weergave()
     {
         for (int j = 0; j < BREEDTE; j++)
         {
+            
         }
     }
 }
