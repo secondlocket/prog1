@@ -98,6 +98,7 @@ void update()
         {
             int buren = burentellen(i, j);
             
+            
         }
     }
 }
