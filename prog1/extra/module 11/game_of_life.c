@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
+#include <time.h>
 
 //regels
 //1: Any live cell with fewer than two live neighbours dies, as if by underpopulation.
