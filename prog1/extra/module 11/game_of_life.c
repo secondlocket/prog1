@@ -18,6 +18,7 @@ void update();
 void weergave();
 
 int grid[HOOGTE][BREEDTE] = {0};
+int newgrid[HOOGTE][BREEDTE] = {0};
 
 int main()
 {
