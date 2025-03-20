@@ -41,6 +41,9 @@ void init()
     {
         int r = pattern[i][0]; //rij
         int k = pattern[i][1]; //kolom
-        if (r >= 0 && r < 40)
+        if (r >= 0 && r < 40 && k >= 0 && k < 40)
+        {
+            grid
+        }
     }
 }
