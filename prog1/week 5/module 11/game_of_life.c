@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void 
+void init()
 
 
 int main()
