@@ -33,7 +33,7 @@ void init()
     //coordinatoren opslaan
     int pattern[][2] =
     {
-        {}
+        {1, 3}, 
     }
     
     int n = sizeof(pattern) / sizeof(pattern[0]);
