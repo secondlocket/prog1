@@ -92,8 +92,11 @@ int nghbrtellen(int i, int j)
 
 void update()
 {
-    for (int i = 0; i < HEIGHT; i++)
+    for (int i = 0; i < HOOGTE; i++)
     {
-        
+        for (int j = 0; j < BREEDTE; j++)
+        {
+            
+        }
     }
 }
