@@ -35,5 +35,7 @@ void init()
         
     }
     
-    for (int i = 0; i < )
+    int n = 
+    
+    for (int i = 0; i < n; i++)
 }
