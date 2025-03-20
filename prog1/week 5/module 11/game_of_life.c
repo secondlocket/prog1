@@ -80,7 +80,10 @@ int nghbrtellen(int i, int j)
             int ni = i + di;
             int nj = j + dj;
             
-            if (ni >= 0 && nj < HOOGTE && nj >= 0 && nj )
+            if (ni >= 0 && nj < HOOGTE && nj >= 0 && nj < BREEDTE)
+            {
+                
+            }
         }
     }
     
