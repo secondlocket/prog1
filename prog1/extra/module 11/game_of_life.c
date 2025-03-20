@@ -115,7 +115,7 @@ void update()
                 {
                     if (buren == 3)
                     {
-                        newgrid[i][j] 
+                        newgrid[i][j] = 
                     }
                 }
             }
