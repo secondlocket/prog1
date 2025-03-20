@@ -12,6 +12,10 @@ int main()
     init();
     printf(clear);
     
-    
+    while (1)
+    {
+        weergave();
+        
+    }
     
 }
