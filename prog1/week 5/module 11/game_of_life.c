@@ -33,7 +33,7 @@ void init()
     //coordinatoren van levende cellen opslaan
     int pattern[][2] =
     {
-        {1, 3}, {1, 4}, {}
+        {1, 3}, {1, 4}, {1, }
     }
     
     int n = sizeof(pattern) / sizeof(pattern[0]);
