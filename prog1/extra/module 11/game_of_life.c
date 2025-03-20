@@ -7,7 +7,7 @@
 //3: Any live cell with more than three live neighbours dies, as if by overpopulation.
 //4: Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
-#define CLEAR "\033[2J\033[H";
+#define CLEAR "\033[2J\033[H"
 #define PAUZE 100000
 #define HOOGTE 40
 #define BREEDTE 40
