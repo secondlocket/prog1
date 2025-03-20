@@ -69,7 +69,10 @@ int nghbrtellen(int i, int j)
     
     for (int di = - 1; di <= 1; di++)
     {
-        for 
+        for (int dj = -1; dj <= 1; dj++)
+        {
+            
+        }
     }
     
     
