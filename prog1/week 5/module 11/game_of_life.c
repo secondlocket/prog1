@@ -15,6 +15,7 @@ int main()
     while (1)
     {
         weergave();
+        update();
         
     }
     
