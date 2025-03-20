@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 #define CLEAR "\033[2J\033[H";
-#define 
+#define PAUZE 100000
 
 void init();
 int count();
