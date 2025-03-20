@@ -34,7 +34,7 @@ void init()
     int pattern[][2] =
     {
         {1, 3}, {1, 4}, {1, 9}, {1, 10}
-        {2, 2}, {2, 5}, {2, 8}, 
+        {2, 2}, {2, 5}, {2, 8}, {2, 11}
     }
     
     int n = sizeof(pattern) / sizeof(pattern[0]);
