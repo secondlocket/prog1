@@ -2,7 +2,10 @@
 #include <unistd.h>
 
 //regels
-//
+//1:
+//2:
+//3: 
+//4: 
 
 #define CLEAR "\033[2J\033[H";
 #define PAUZE 100000
