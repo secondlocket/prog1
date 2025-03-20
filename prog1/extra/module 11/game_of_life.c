@@ -63,7 +63,7 @@ void init()
     }
 }
 
-int nghbrtellen(int i, int j)
+int burentellen(int i, int j)
 {
     int count = 0;
     
