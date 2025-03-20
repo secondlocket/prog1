@@ -78,7 +78,7 @@ int nghbrtellen(int i, int j)
             }
             
             int ni = i + di;
-            int nj = j + dj;
+            int nj = j + dj;&& nj)
         }
     }
     
