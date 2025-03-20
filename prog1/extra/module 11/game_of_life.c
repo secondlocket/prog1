@@ -119,6 +119,10 @@ void update()
                     }
                 }
             }
+            else
+            {
+                return 2;
+            }
         }
     }
 }
