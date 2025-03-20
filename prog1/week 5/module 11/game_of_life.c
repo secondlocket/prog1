@@ -4,14 +4,14 @@
 #define CLEAR "\033[2J\033[H";
 #define PAUZE 100000
 #define HOOGTE 40
-#define LENGTE 40
+#define BREEDTE 40
 
 void init();
 int tellen();
 void update();
 void weergave();
 
-int grid[HOOGTE][LENGTE] = {0};
+int grid[HOOGTE][BREEDTE] = {0};
 
 int main()
 {
