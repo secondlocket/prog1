@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <unistd.h>
 
+//regels
+//
+
 #define CLEAR "\033[2J\033[H";
 #define PAUZE 100000
 #define HOOGTE 40
