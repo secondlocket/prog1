@@ -130,7 +130,7 @@ void update()
     {
         for (int j = 0; j < BREEDTE; j++)
         {
-            
+            grid[i][j] = newgrid[i][j];
         }
     }
 }
