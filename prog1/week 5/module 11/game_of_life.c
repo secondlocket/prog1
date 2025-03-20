@@ -3,6 +3,8 @@
 
 #define CLEAR "\033[2J\033[H";
 #define PAUZE 100000
+#define HOOGTE
+#define LENGTE
 
 void init();
 int tellen();
