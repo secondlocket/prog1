@@ -87,5 +87,5 @@ int nghbrtellen(int i, int j)
         }
     }
     
-    
+    return count;
 }
