@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define clear ""
+#define clear "\033[2J"
 
 void init();
 int count();
