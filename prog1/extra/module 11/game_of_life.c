@@ -137,5 +137,5 @@ void update()
 
 void weergave()
 {
-    printf(\033[H)
+    printf(""\033[H")
 }
