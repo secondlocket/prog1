@@ -30,5 +30,8 @@ int main()
 
 void init()
 {
-    int pattern [][]
+    int pattern [][] =
+    {
+        
+    }
 }
