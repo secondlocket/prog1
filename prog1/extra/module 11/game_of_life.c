@@ -96,7 +96,8 @@ void update()
     {
         for (int j = 0; j < BREEDTE; j++)
         {
-            int buren = burentellen(i, j)
+            int buren = burentellen(i, j);
+            
         }
     }
 }
