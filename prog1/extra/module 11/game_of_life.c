@@ -98,7 +98,10 @@ void update()
         {
             int buren = burentellen(i, j);
             
-            if (grid[i][j])
+            if (grid[i][j] == 1)
+            {
+                
+            }
         }
     }
 }
