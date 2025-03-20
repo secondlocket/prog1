@@ -39,6 +39,7 @@ void init()
     
     for (int i = 0; i < n; i++)
     {
-        int r = pattern
+        int r = pattern[i][0];
+        int c = pattern
     }
 }
