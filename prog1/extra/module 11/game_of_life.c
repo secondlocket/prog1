@@ -110,6 +110,12 @@ void update()
                     newgrid[i][j] = 0;
                 }
             }
+            else if (grid[i][j] == 0)
+            {
+                {
+                    if (buren )
+                }
+            }
         }
     }
 }
