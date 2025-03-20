@@ -5,7 +5,7 @@
 #define PAUZE 100000
 
 void init();
-int rule();
+int tellen();
 void update();
 void weergave();
 
