@@ -56,3 +56,8 @@ void init()
         }
     }
 }
+
+int tellen(int a, int b)
+{
+    
+}
