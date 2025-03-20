@@ -7,5 +7,7 @@ void weergave();
 
 int main()
 {
+    init();
+    printf()
     
 }
