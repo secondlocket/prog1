@@ -143,7 +143,10 @@ void weergave()
     {
         for (int j = 0; j < BREEDTE; j++)
         {
-            if (grid[i][j] == )
+            if (grid[i][j] == 1)
+            {
+                printf("1")
+            }
         }
     }
 }
