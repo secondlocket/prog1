@@ -101,6 +101,7 @@ void update()
             
             if (grid[i][j] == 1)
             {
+                if (nei)
                 newgrid[i][j] = 
             }
         }
