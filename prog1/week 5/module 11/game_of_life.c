@@ -30,7 +30,8 @@ int main()
 
 void init()
 {
-    int pattern [][] =
+    //coordinatoren van
+    int pattern[][2] =
     {
         
     }
