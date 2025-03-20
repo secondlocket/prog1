@@ -12,7 +12,7 @@ void weergave();
 int main()
 {
     init();
-    printf(clear);
+    printf(CLEAR);
     
     while (1)
     {
