@@ -21,4 +21,5 @@ int main()
         usleep(PAUZE);
     }
     
+    return 0;
 }
