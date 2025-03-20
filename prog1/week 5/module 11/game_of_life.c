@@ -18,7 +18,7 @@ int main()
     {
         weergave();
         update();
-        
+        usleep(PAUZE);
     }
     
 }
