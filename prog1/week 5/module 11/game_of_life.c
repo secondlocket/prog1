@@ -40,6 +40,6 @@ void init()
     for (int i = 0; i < n; i++)
     {
         int r = pattern[i][0]; //rij
-        int k = pattern[i][1]; //
+        int k = pattern[i][1]; //kolom
     }
 }
