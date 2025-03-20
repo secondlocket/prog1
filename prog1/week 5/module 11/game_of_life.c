@@ -25,3 +25,6 @@ int main()
 }
 
 void init()
+{
+    
+}
