@@ -103,11 +103,11 @@ void update()
             {
                 if (buren == 2 || buren == 3)
                 {
-                    newgrid[i][j] =
+                    newgrid[i][j] = 1;
                 }
                 else if (buren < 2 || buren > 3)
                 {
-                    newgrid[i][j] = 
+                    newgrid[i][j] = 0;
                 }
             }
         }
