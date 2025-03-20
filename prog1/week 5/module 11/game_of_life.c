@@ -11,6 +11,8 @@ int tellen();
 void update();
 void weergave();
 
+
+
 int main()
 {
     init();
