@@ -12,4 +12,6 @@ int main()
     init();
     printf(clear);
     
+    
+    
 }
