@@ -152,5 +152,7 @@ void weergave()
                 printf(" ");
             }
         }
+        
+        printf("\n");
     }
 }
