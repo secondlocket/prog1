@@ -30,7 +30,7 @@ int main()
 
 void init()
 {
-    //coordinatoren opslaan
+    //coordinatoren van levende cellen opslaan
     int pattern[][2] =
     {
         {1, 3}, {}
