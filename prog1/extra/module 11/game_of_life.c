@@ -101,7 +101,7 @@ void update()
             
             if (grid[i][j] == 1)
             {
-                if (nei)
+                if (buren == 2 ||)
                 newgrid[i][j] = 
             }
         }
