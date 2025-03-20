@@ -139,5 +139,10 @@ void weergave()
 {
     printf("\033[H");
     
-    for (int i = 0)
+    for (int i = 0; i < HOOGTE; i++)
+    {
+        for (int j = 0; j < BREEDTE; j++)
+        {
+        }
+    }
 }
