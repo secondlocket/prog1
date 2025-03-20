@@ -63,11 +63,11 @@ void init()
     }
 }
 
-int nghbrtellen(int a, int b)
+int nghbrtellen(int i, int j)
 {
     int count = 0;
     
-    for (int da = - 1; da <= 1; da++)
+    for (int di = - 1; di <= 1; di++)
     {
         for 
     }
