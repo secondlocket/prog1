@@ -82,7 +82,7 @@ int nghbrtellen(int i, int j)
             
             if (ni >= 0 && nj < HOOGTE && nj >= 0 && nj < BREEDTE)
             {
-                count 
+                count += 
             }
         }
     }
