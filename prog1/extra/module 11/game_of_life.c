@@ -97,8 +97,7 @@ void update()
     {
         for (int j = 0; j < BREEDTE; j++)
         {
-            
-            
+            newgrid[i][j] = 0;
             
             int buren = burentellen(i, j);
             
