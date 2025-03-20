@@ -40,7 +40,7 @@ void init()
         {5, 3}, {5, 10},
         {6, 4}, {6, 9},
         {7, 5}, {7, 7},
-        {8, }, {, },
+        {8, 6}, {, },
     }
     
     int n = sizeof(pattern) / sizeof(pattern[0]);
