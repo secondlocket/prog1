@@ -41,6 +41,6 @@ void init()
     {
         int r = pattern[i][0]; //rij
         int k = pattern[i][1]; //kolom
-        if (r >= 0 )
+        if (r >= 0 && r )
     }
 }
