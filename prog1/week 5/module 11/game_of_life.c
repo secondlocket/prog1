@@ -30,7 +30,7 @@ int main()
 
 void init()
 {
-    //coordinatoren van
+    //coordinatoren opslaan
     int pattern[][2] =
     {
         
