@@ -102,6 +102,9 @@ void update()
             if (grid[i][j] == 1)
             {
                 if (buren == 2 || buren == 3)
+                {
+                    
+                }
                 newgrid[i][j] = 
             }
         }
