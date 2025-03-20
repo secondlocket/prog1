@@ -77,6 +77,7 @@ int nghbrtellen(int i, int j)
                 continue;
             }
             
+            
         }
     }
     
