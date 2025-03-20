@@ -135,4 +135,7 @@ void update()
     }
 }
 
-
+void weergave()
+{
+    
+}
