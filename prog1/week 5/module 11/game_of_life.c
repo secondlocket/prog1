@@ -63,7 +63,7 @@ void init()
     }
 }
 
-int nhbrtellen(int a, int b)
+int nghbrtellen(int a, int b)
 {
     int count = 0;
     
