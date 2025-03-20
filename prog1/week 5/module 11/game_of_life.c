@@ -85,8 +85,6 @@ int nghbrtellen(int i, int j)
                 count += grid[ni][nj];
             }
         }
-        
-        return count;
     }
     
     
