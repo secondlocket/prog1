@@ -138,4 +138,6 @@ void update()
 void weergave()
 {
     printf("\033[H");
+    
+    for (int i = 0)
 }
