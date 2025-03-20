@@ -81,7 +81,7 @@ int burentellen(int i, int j)
             int ni = i + di;
             int nj = j + dj;
             
-            if (ni >= 0 && nj < HOOGTE && nj >= 0 && nj < BREEDTE)
+            if (ni >= 0 && ni < HOOGTE && nj >= 0 && nj < BREEDTE)
             {
                 count += grid[ni][nj];
             }
