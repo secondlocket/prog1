@@ -35,7 +35,7 @@ void init()
         
     }
     
-    int n = 
+    int n = sizeof(pattern) / sizeof ()
     
     for (int i = 0; i < n; i++)
     {
