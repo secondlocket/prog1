@@ -67,6 +67,7 @@ int nghbrtellen(int i, int j)
 {
     int count = 0;
     
+    //loop door alle 
     for (int di = - 1; di <= 1; di++)
     {
         for (int dj = -1; dj <= 1; dj++)
