@@ -112,11 +112,9 @@ void update()
             }
             else if (grid[i][j] == 0)
             {
+                if (buren == 3)
                 {
-                    if (buren == 3)
-                    {
-                        newgrid[i][j] = 1;
-                    }
+                    newgrid[i][j] = 1;
                 }
             }
         }
