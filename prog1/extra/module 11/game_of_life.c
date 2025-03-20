@@ -48,7 +48,7 @@ void init()
         {6, 4}, {6, 9},
         {7, 5}, {7, 7},
         {8, 6},
-    }
+    };
     
     //aantal cellen
     int n = sizeof(pattern) / sizeof(pattern[0]);
