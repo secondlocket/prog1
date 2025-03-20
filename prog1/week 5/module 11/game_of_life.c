@@ -73,6 +73,10 @@ int nghbrtellen(int i, int j)
         for (int dj = -1; dj <= 1; dj++)
         {
             if (di == 0 && dj == 0)
+            {
+                continue;
+            }
+            
         }
     }
     
