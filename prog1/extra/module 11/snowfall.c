@@ -104,5 +104,5 @@ void pauze (int t)
     struct timespec ts;
     ts.tv_sec = t / 1000; //timespec.tvseconden
     ts.tv_nsec = (t % 1000) * 1000000; //timespec.tv_nanoseconden
-    nanosleep(&ts, NULL); //
+    nanosleep(&ts, NULL); //(spe)
 }
