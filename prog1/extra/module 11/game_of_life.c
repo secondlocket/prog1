@@ -55,7 +55,7 @@ void init()
     
     for (int i = 0; i < n; i++)
     {
-        int r = pattern[i][0]; //rij
+        int r = pattern[i][0]; //rij (i coordinate)
         int k = pattern[i][1]; //kolom
         if (r >= 0 && r < 40 && k >= 0 && k < 40)
         {
