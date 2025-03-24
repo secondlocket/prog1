@@ -11,9 +11,10 @@ int main()
     
     for (int i = 0; i < n; i++)
     {
-        if (strcmp(invoer, "wijk 1"))
+        if (strcmp(invoer, "wijk 1") == 0)
         {
             wijk = 1;
         }
+        else if (strcmp(invoer, ))
     }
 }
