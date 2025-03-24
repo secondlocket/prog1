@@ -15,6 +15,9 @@ int main()
         {
             wijk = 1;
         }
-        else if (strcmp(invoer, ))
+        else if (strcmp(invoer, "wijk 2") == 0)
+        {
+            wijk = 2;
+        }
     }
 }
