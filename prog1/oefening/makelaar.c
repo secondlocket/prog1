@@ -2,7 +2,10 @@
 #include <cs50.h>
 #include <string.h>
 
-
+int verkoopprijs()
+{
+    
+}
 
 
 int main()
