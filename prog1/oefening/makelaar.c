@@ -11,7 +11,7 @@ int main()
     {
         if (strcmp(invoer, "wijk 1"))
         {
-            
+            int wijk = 1;
         }
     }
 }
