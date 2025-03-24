@@ -9,6 +9,9 @@ int main()
     int n = strlen(invoer);
     for (int i = 0; i < n; i++)
     {
-        if (strcmp(invoer = ))
+        if (strcmp(invoer, "wijk 1"))
+        {
+            
+        }
     }
 }
