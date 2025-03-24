@@ -4,7 +4,7 @@
 
 int main()
 {
-    string string = get_string("");
+    string invoer = get_string("");
     
     int n = strlen
     for (int i = 0; i < n; i++)
