@@ -2,16 +2,8 @@
 #include <cs50.h>
 #include <string.h>
 
-int verkoopprijs()
+int verkoopprijs(string invoer)
 {
-    
-}
-
-
-int main()
-{
-    string invoer = get_string("");
-    
     int wijk = 0;
     int n = strlen(invoer);
     
@@ -26,6 +18,14 @@ int main()
             wijk = 2;
         }
     }
+}
+
+
+int main()
+{
+    string invoer = get_string("");
+    
+    
     
     
 }
