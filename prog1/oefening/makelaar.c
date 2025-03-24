@@ -26,6 +26,4 @@ int main()
     string invoer = get_string("");
     
     
-    
-    
 }
