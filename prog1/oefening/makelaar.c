@@ -25,5 +25,7 @@ int main()
 {
     string invoer = get_string("");
     
+    verkoopprijs(invoer);
     
+    return 0;
 }
