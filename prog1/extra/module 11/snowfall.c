@@ -36,8 +36,6 @@ int main ()
         
         pauze(TIMESTEP);
     }
-    
-    return 0;
 }
 
 void clear()
