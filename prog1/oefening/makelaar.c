@@ -25,7 +25,7 @@ int main()
 {
     string invoer = get_string("");
     
-    verkoopprijs(invoer);
+    int prijs = verkoopprijs(invoer);
     
     printf("De waarde van het huis is EUR %i,-", )
     
