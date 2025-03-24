@@ -27,5 +27,7 @@ int main()
     
     verkoopprijs(invoer);
     
+    printf("De waarde van het huis is EUR %i")
+    
     return 0;
 }
