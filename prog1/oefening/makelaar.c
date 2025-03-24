@@ -20,4 +20,6 @@ int main()
             wijk = 2;
         }
     }
+    
+    
 }
