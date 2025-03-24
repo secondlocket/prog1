@@ -18,7 +18,7 @@ int verkoopprijs(string invoer)
             wijk = 2;
         }
     }
-}
+};
 
 
 int main()
