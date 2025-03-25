@@ -11,38 +11,33 @@ void print_stats(int distances[], int n)
     //speed
     for (int i = 0; i < n - 1; i++)
     {
-        int x = distances[i]/1000;
-        int y = distances[i + 1]/1000;
+        int x = distances[i];
+        int y = distances[i + 1];
         
-        speed[i] = (y - x) / 3600;
+        speed[i] = (y - x) / 1000;
         
-        for (int j = 0; j < n; j++)
+        top_speed = speed[0]
+        for (int i = 0; i < n - 1; i++)
         {
-            if (speed[j] > speed[j + 1])
+            if (speed[i] > top_speed)
             {
-                top_speed = speed[j];
-            }
-            else if (speed[j] == speed[j + 1])
-            {
-                top_speed = speed[j];
-            }
-            else 
-            {
-                top_speed = speed[j + 1];
+                top_speed = speed[i];
             }
         }
     }
     
-    printf("Top speed: %2f km/h\n", top_speed);
+    printf("Top speed: %.2f km/h\n", top_speed);
     
     //distance
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < n - 1; i++)
     {
         if (distances[i] > distances[i + 1])
         {
             teller += 400.00;
         }
     }
+
+    teller += distances[n - 1];
     
     printf("Total distance = %2f\n", teller);
     
