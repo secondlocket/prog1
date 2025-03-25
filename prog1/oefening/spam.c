@@ -2,6 +2,7 @@
 #include <cs50.h>
 #include <string.h>
 #include <math.h>
+#include <ctype.h>
 
 void spam_check(string input)
 {
@@ -17,15 +18,17 @@ void spam_check(string input)
     
     for (int i = 0; i < n; i++)
     {
-        char a = input[i];
-        int b = atoi(a);
-
-        if (b <= 64 || b >= 91 && b <= 96 || b >= 123)
+        if (input[i] == ' ')
+        {
+            continue;
+        }
+        
+        if (!isalpha(input[i]))
         {
             non_chars++;
             characters++;
         }
-        else if (b != 0)
+        else if (isalpha(input[i]))
         {
             characters++;
         }
@@ -44,7 +47,6 @@ void spam_check(string input)
     }
   
 }
-
 
 int main()
 {
