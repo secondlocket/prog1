@@ -3,13 +3,13 @@
 
 void print_stats(int distances[], int n)
 {
-    float top_speed;
+    float top_speed = 0.0;
     int speed[n - 1];
     int distance;
     float teller = 0.00;
     
     //speed
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < n - 1; i++)
     {
         int x = distances[i]/1000;
         int y = distances[i + 1]/1000;
