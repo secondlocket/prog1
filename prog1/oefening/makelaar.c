@@ -5,6 +5,10 @@
 int verkoopprijs(string invoer)
 {
     int wijk = 0;
+    int sk = 0;
+    int m2 = 0;
+    int bk = 0;
+    
     int n = strlen(invoer);
     
     for (int i = 0; i < n; i++)
@@ -17,6 +21,8 @@ int verkoopprijs(string invoer)
         {
             wijk = 2;
         }
+
+        
     }
 };
 
