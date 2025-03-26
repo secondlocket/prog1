@@ -18,7 +18,7 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
         int eind_horde = huidige / 30;
         
         hordes += eind_horde - start_horde;
-    }
+
 
     return hordes;
 }
