@@ -3,51 +3,7 @@
 #include <math.h>
 
 int tel_hordes(int afstanden[], int n, int baanlengte)
-{
-    //TODO
-    int hordes = 0;
-    int ronde = 1;
-    int laatste_afstand = baanlengte % 30;
-    int aantal_hordes = round(baanlengte / 30);
-    int totaal_afstand = 0;
-    
-    
-    for (int i = 0; i < n - 1; i++)
-    {
-        if (afstanden[i] > afstanden[i + 1])
-        {
-            ronde++;
-        }
-    }
-    
-    if (ronde > 1)
-    {
-        if (afstanden[n - 1] > afstanden[n - 2])
-        {
-            totaal_afstand += afstanden[n - 1];  
-        }
-    
-        totaal_afstand += baanlengte * ronde;
-        
-        if (afstanden[n - 1] == baanlengte)
-        {
-            ronde++;
-            hordes = round((float)ronde * aantal_hordes);
-        }
-        
-    }
-    else if (ronde == 1)
-    {
-        if (afstanden[n - 1] % 30 != 0)
-        {
-            totaal_afstand += afstanden[n - 1];
-        }
-        
-        hordes = totaal_afstand / 30;
-    }
-    
-    return hordes;
-}
+
 
 int main(void)
 {
