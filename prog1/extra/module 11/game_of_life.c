@@ -16,7 +16,7 @@ void init();
 int burentellen(int a, int b);
 void update();
 void weergave();
-void wacht(); //deze functie werkt niet echt binnen de cs50 omgeving
+//void wacht(); //deze functie werkt niet echt binnen de cs50 omgeving
 
 int grid[HOOGTE][BREEDTE] = {0};
 int newgrid[HOOGTE][BREEDTE] = {0};
