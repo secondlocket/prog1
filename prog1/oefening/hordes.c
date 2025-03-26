@@ -30,7 +30,7 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
     
     if (ronde == 0)
     {
-        hordes = 
+        hordes = afstanden[n] 
     }
     
     return hordes;
