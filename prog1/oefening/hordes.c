@@ -18,6 +18,7 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
         {
             ronde++;
         }
+        
     }
     
     totaal_afstand += (baanlengte - laatste_afstand) * ronde + (laatste_afstand * ronde);
