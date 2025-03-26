@@ -9,7 +9,7 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
 
 int main(void)
 {
-    int afstanden1[] = {};
+    int afstanden1[] = {0, 30, 60, 90, 120, 150};
     int n = ;
     int baanlengte = ;
     printf("%i\n", tel_hordes(afstanden1, n1, baanlengte));
