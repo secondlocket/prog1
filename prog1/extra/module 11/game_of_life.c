@@ -154,8 +154,7 @@ void weergave()
     }
 }
 
-void wacht(int microseconden)
+void wacht()
 {
-    clock_t start = clock();
-    while ((clock() - start) * 1000000 / CLOCKS_PER_SEC < microseconden);
+    for (volatile long i = 0; i < 10000000; i++) {}
 }
