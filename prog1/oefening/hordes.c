@@ -4,7 +4,7 @@
 
 int tel_hordes(int afstanden[], int n, int baanlengte)
 {
-    int hordes
+    int hordes;
     for (int i = 0; i < n; i++)
     {
         int huidige = afstanden[i];
