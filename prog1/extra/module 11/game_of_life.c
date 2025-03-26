@@ -30,7 +30,7 @@ int main()
     {
         weergave();
         update();
-        wacht();
+        //wacht();
     }
     
     return 0;
