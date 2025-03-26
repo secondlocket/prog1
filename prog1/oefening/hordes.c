@@ -12,7 +12,7 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
     printf("%i ", laatste_afstand);
     
     
-    return 0;
+    return hordes;
 }
 
 int main(void)
