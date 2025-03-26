@@ -29,7 +29,6 @@ int main()
     {
         weergave();
         update();
-        usleep(PAUZE);
     }
     
     return 0;
