@@ -4,6 +4,7 @@
 
 int tel_hordes(int afstanden[], int n, int baanlengte)
 {
+    int hordes
     for (int i = 0; i < n; i++)
     {
         int huidige = afstanden[i];
@@ -14,6 +15,8 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
             
         }
     }
+    
+    return hordes;
 }
 
 int main(void)
