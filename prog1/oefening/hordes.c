@@ -11,5 +11,6 @@ int main(void)
 {
     int afstanden[] = {};
     int n = ;
-    int baanlengte = 
+    int baanlengte = ;
+    
 }
