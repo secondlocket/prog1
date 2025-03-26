@@ -11,11 +11,11 @@ int main(void)
 {
     int afstanden1[] = {0, 30, 60, 90, 120, 150};
     int n1 = ;
-    int baanlengte = ;
+    int baanlengte1 = ;
     printf("%i\n", tel_hordes(afstanden1, n1, baanlengte));
     
     int afstanden2[] = {0, 40, 75, 5, 35, 70, 100};
-    int n = ;
+    int n1 = ;
     int baanlengte = ;
     printf("%i\n", tel_hordes(afstanden1, n1, baanlengte));
     
