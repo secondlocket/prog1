@@ -5,8 +5,7 @@
 int tel_hordes(int afstanden[], int n, int baanlengte)
 {
     //TODO
-    int tel_hordes(int afstanden[], int n, int baanlengte)
-{
+    
     int hordes = 0;
 
     for (int i = 1; i < n; i++)
