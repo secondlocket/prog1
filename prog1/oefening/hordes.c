@@ -9,6 +9,8 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
     int ronde = 0;
     int laatste_afstand = baanlengte % 30;
     
+    printf("%i ")
+    
     
     return 0;
 }
