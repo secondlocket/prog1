@@ -9,22 +9,22 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
 
 int main(void)
 {
-    int afstanden[] = {};
+    int afstanden1[] = {};
     int n = ;
     int baanlengte = ;
     printf("%i\n", tel_hordes(afstanden1, n1, baanlengte));
     
-    int afstanden[] = {};
+    int afstanden2[] = {};
     int n = ;
     int baanlengte = ;
     printf("%i\n", tel_hordes(afstanden1, n1, baanlengte));
     
-    int afstanden[] = {};
+    int afstanden3[] = {};
     int n = ;
     int baanlengte = ;
     printf("%i\n", tel_hordes(afstanden1, n1, baanlengte));
     
-    int afstanden[] = {};
+    int afstanden4[] = {};
     int n = ;
     int baanlengte = ;
     printf("%i\n", tel_hordes(afstanden1, n1, baanlengte));
