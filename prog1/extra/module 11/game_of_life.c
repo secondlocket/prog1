@@ -29,6 +29,7 @@ int main()
     {
         weergave();
         update();
+        wacht(PAUZE);
     }
     
     return 0;
