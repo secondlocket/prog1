@@ -12,5 +12,5 @@ int main(void)
     int afstanden[] = {};
     int n = ;
     int baanlengte = ;
-    printf("%i\n")
+    printf("%i\n", tel_hordes)
 }
