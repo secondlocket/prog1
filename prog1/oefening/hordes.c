@@ -26,7 +26,7 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
     }
     
     totaal_afstand += baanlengte * ronde;
-    hordes = ((float)(totaal_afstand / ronde) * aantal_hordes);
+    hordes = ((float)(totaal_afstand * aantal_hordes);
     
     if (ronde == 0)
     {
