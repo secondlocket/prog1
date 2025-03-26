@@ -28,7 +28,7 @@ int main(void)
     printf("%i\n", tel_hordes(afstanden4, n4, baanlengte4));
 }
 
-{
+/* {
     //TODO
     int hordes = 0;
     int ronde = 1;
