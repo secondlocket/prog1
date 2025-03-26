@@ -7,7 +7,7 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
     
     int hordes = 0;
     int ronde = 0;
-    int laatste
+    int laatste_
     
     
     return 0;
