@@ -22,7 +22,7 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
     
     if (afstanden[n] > afstanden[n - 1])
     {
-        totaal_afstand += afstandenn[n]  
+        totaal_afstand += afstanden[n];  
     }
     
     totaal_afstand += (baanlengte - laatste_afstand) * ronde + (laatste_afstand * ronde);
