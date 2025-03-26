@@ -12,10 +12,6 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
     int totaal_afstand = 0;
     
     
-    
-    
-    
-    
     for (int i = 0; i < n - 1; i++)
     {
         if (afstanden[i] > afstanden[i + 1])
