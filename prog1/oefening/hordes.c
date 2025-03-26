@@ -10,7 +10,12 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
     int ronde = 0;
     int laatste_afstand = baanlengte % 30;
     int aantal_hordes = round(baanlengte / 30);
+    int totaal_afstand = 0;
     
+    for (int i = 0; i < n; i++)
+    {
+        if (afstanden[i] > afstanden[i + 1])
+    }
     
     
     
