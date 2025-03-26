@@ -5,7 +5,24 @@
 int tel_hordes(int afstanden[], int n, int baanlengte)
 {
     //TODO
-    
+    int tel_hordes(int afstanden[], int n, int baanlengte)
+{
+    int hordes = 0;
+
+    for (int i = 1; i < n; i++)
+    {
+        int vorige = afstanden[i - 1];
+        int huidige = afstanden[i];
+
+        // Tel aantal hordes gepasseerd tussen vorige en huidige afstand
+        int start_horde = vorige / 30;
+        int eind_horde = huidige / 30;
+        
+        hordes += eind_horde - start_horde;
+    }
+
+    return hordes;
+}
     int hordes = 0;
     int ronde = 0;
     int laatste_afstand = baanlengte % 30;
