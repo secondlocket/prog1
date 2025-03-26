@@ -153,3 +153,9 @@ void weergave()
         printf("\n");
     }
 }
+
+void wacht(int microseconden)
+{
+    clock_t start = clock();
+    while ((clock() - start) * 1000000 / CLOCKS_PER_SEC < microseconden);
+}
