@@ -3,7 +3,9 @@
 #include <math.h>
 
 int tel_hordes(int afstanden[], int n, int baanlengte)
-
+{
+    
+}
 
 int main(void)
 {
