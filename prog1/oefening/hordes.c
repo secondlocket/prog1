@@ -11,6 +11,8 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
     int laatste_afstand = baanlengte % 30;
     int aantal_hordes = round(baanlengte / 30);
     
+    printf("")
+    
     
     return hordes;
 }
