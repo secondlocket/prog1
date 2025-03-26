@@ -6,7 +6,7 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
 {
     //TODO
     int hordes = 0;
-    int ronde = 0;
+    int ronde = 1;
     int laatste_afstand = baanlengte % 30;
     int aantal_hordes = round(baanlengte / 30);
     int totaal_afstand = 0;
