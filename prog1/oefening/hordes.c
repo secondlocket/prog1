@@ -32,7 +32,7 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
     {
         if (afstanden[n - 1] % 30 != 0)
         {
-            totaal_afstand / 
+            totaal_afstand = afstanden[n - 1]
         }
     }
     
