@@ -9,7 +9,7 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
         int huidige = afstanden[i];
         int vorige = afstanden[i - 1]
         
-        if (vorige > [i + 1])
+        if (vorige > huidige)
         {
             
         }
