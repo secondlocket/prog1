@@ -21,8 +21,6 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
         }
     }
     
-    
-    
     return hordes;
 }
 
