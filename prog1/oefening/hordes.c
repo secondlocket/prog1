@@ -9,7 +9,7 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
 
 int main(void)
 {
-    int afstanden1[] = {};
-    int n1 = ;
+    int afstanden[] = {};
+    int n = ;
     int baanlengte = 
 }
