@@ -16,7 +16,7 @@ void init();
 int burentellen(int a, int b);
 void update();
 void weergave();
-void wacht(int microseconden);
+void wacht();
 
 int grid[HOOGTE][BREEDTE] = {0};
 int newgrid[HOOGTE][BREEDTE] = {0};
