@@ -23,7 +23,7 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
             totaal_afstand += afstanden[i];
         }
         
-        totaal_afstand += afstanden[]
+        totaal_afstand += afstanden[n - 1];
         
     }
     
