@@ -10,7 +10,7 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
     int laaste_afstand = baanlengte % 30;
     int hordes = 0;
     
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < n - 2; i++)
     {
         if (afstanden[i] > afstanden[i + 1])
         {
