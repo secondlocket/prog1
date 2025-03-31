@@ -14,7 +14,6 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
     {
         if (afstanden[i] > afstanden[i + 1])
         {
-            ronde++;
             totaal_afstand += laaste_afstand;
         }
         
