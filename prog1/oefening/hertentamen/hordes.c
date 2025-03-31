@@ -4,7 +4,10 @@
 
 int tel_hordes(int afstanden[], int n, int baanlengte)
 {
-    
+    for (int i = 0; i < n; i++)
+    {
+        if (afstanden[] > afstanden[])
+    }
     
     return hordes;
 }
