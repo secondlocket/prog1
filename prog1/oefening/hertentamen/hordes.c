@@ -21,6 +21,9 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
         {
             totaal_afstand += afstanden[i];
         }
+        
+        
+        
     }
     
     return hordes;
