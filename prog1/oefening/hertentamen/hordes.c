@@ -15,7 +15,10 @@ int tel_hordes(int afstanden[], int n, int baanlengte)
             ronde++;
         }
         
-        
+        if (afstanden[i] < afstanden[i + 1])
+        {
+            
+        }
     }
     
     return hordes;
