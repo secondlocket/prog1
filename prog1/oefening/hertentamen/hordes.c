@@ -4,7 +4,8 @@
 
 int tel_hordes(int afstanden[], int n, int baanlengte)
 {
-    int ronde = 
+    int ronde = 0;
+    
     for (int i = 0; i < n; i++)
     {
         if (afstanden[i] > afstanden[i + 1])
